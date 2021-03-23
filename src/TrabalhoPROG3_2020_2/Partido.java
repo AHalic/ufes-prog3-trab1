@@ -1,5 +1,6 @@
 package TrabalhoPROG3_2020_2;
 
+import java.util.HashSet;
 import java.util.Set;
 
 public class Partido {
@@ -10,6 +11,16 @@ public class Partido {
 	private int numPartido;
 	private Set<Candidato> candidatos; // Seria Set? ou HashSet?
 	
+	
+	public Partido(String nome, String sigla, int vtL, int vT, int numP) {
+		this.nome = nome;
+		this.sigla = sigla;
+		this.votosLegenda = vtL;
+		this.votosTotal = vT;
+		this.numPartido = numP;
+		
+		this.candidatos = new HashSet<Candidato>();
+	}
 	
 	public String getNome() {
 		return nome;

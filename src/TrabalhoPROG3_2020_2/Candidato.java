@@ -1,6 +1,19 @@
 package TrabalhoPROG3_2020_2;
 
+import java.time.LocalDate;
+
 public class Candidato extends Pessoa{
+	public Candidato(String nome, String genero, LocalDate nascimento, 
+			String situacao, String nomeUrna, int vT, int numero, String destVoto) {
+		
+		super(nome, genero, nascimento);
+		this.destVoto = destVoto;
+		this.nomeUrna = nomeUrna;
+		this.numero = numero;
+		this.situacao = situacao;
+		this.votosTotal = vT;
+	}
+	
 	private String situacao;
 	private String nomeUrna;
 	private int votosTotal;
