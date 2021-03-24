@@ -6,8 +6,6 @@ import java.util.*;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("oi");
-
 		String caminhoCandidatos = new String();
 		caminhoCandidatos = args[0];
 		String caminhoPartidos = new String();
@@ -17,26 +15,38 @@ public class Main {
 	
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
-		System.out.println(caminhoCandidatos);
-
-		System.out.println(caminhoCandidatos + "\n" + caminhoPartidos + "\n" + dataEleicaoStr + "\n" + dataEleicao);
 		
 		try {
 			FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
 			Scanner s = new Scanner(arquivo, "UTF-8");
+			s.nextLine();
 
-			int soma = 0;
-			int contagem=0;
 			while (s.hasNextLine()) {
 				String linha = s.nextLine();
 
 				Scanner linhaScanner = new Scanner(linha);
-				linhaScanner.useDelimiter(";");
-				while (linhaScanner.hasNextLine()) {
-					System.out.println(linhaScanner.nextLine());
-				}
+				linhaScanner.useDelimiter(",");
+
+				int numero = Integer.parseInt(linhaScanner.next());
+				int votosNominais = Integer.parseInt(linhaScanner.next());
+				String situacao = linhaScanner.next();
+				String nome = linhaScanner.next();
+				String nomeUrna = linhaScanner.next();
+				String genero = linhaScanner.next();
+
+				String aniversarioStr = linhaScanner.next();
+        		LocalDate aniversario =  LocalDate.parse(aniversarioStr, formatoData);
+
+				String destVoto = linhaScanner.next();
+				int numPartido = Integer.parseInt(linhaScanner.next());
+
+				Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero, destVoto);
+				// System.out.println(candidato);
+
+				linhaScanner.close();
 			}
 
+			s.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("Nenhum arquivo foi encontrado");
 		}
