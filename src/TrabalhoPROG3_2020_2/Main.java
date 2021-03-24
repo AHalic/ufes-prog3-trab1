@@ -1,4 +1,6 @@
 package TrabalhoPROG3_2020_2;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class Main {
 	public static void main(String[] args) {
@@ -11,11 +13,11 @@ public class Main {
 		caminhoPartidos = args[1];
 		String dataEleicaoStr = args[2];
 	
-		// DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd-mm-yyyy");
-        // LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
+		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		System.out.println(caminhoCandidatos);
 
-//		 System.out.println(caminhoCandidatos + "\n" + caminhoPartidos + "\n" + dataEleicaoStr + "\n" + dataEleicao);
+		System.out.println(caminhoCandidatos + "\n" + caminhoPartidos + "\n" + dataEleicaoStr + "\n" + dataEleicao);
 		
 		// throw IOException {
 		// 	InputStream is = new FileInputStream(caminhoCandidatos);
