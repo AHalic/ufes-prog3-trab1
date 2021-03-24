@@ -16,6 +16,11 @@ public class Main {
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
+		// Ler partidos antes
+		
+		
+
+		// Ler candidatos
 		try {
 			FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
 			Scanner s = new Scanner(arquivo, "UTF-8");
