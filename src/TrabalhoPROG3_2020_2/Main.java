@@ -1,6 +1,8 @@
 package TrabalhoPROG3_2020_2;
+import java.io.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.*;
 
 public class Main {
 	public static void main(String[] args) {
@@ -19,38 +21,24 @@ public class Main {
 
 		System.out.println(caminhoCandidatos + "\n" + caminhoPartidos + "\n" + dataEleicaoStr + "\n" + dataEleicao);
 		
-		// throw IOException {
-		// 	InputStream is = new FileInputStream(caminhoCandidatos);
-		// 	int b = is.read();
-		// 	System.out.println(b);
-		// 	is.close();
-		// };
+		try {
+			FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
+			Scanner s = new Scanner(arquivo, "UTF-8");
 
-		// try {
-		//       File myObj = new File("filename.txt");
-		//       Scanner myReader = new Scanner(myObj);
-		//       while (myReader.hasNextLine()) {
-		//         String data = myReader.nextLine();
-		//         System.out.println(data);
-		//       }
-		//       myReader.close();
-		//     } catch (FileNotFoundException e) {
-		//       System.out.println("An error occurred.");
-		//       e.printStackTrace();
-		//     }
-		  
-		//   try (FileInputStream fis = new FileInputStream(file);
-		//        InputStreamReader isr = new InputStreamReader(fis, StandardCharsets.UTF_8);
-		//        BufferedReader reader = new BufferedReader(isr)
-		//   ) {
+			int soma = 0;
+			int contagem=0;
+			while (s.hasNextLine()) {
+				String linha = s.nextLine();
 
-		//       String str;
-		//       while ((str = reader.readLine()) != null) {
-		//           System.out.println(str);
-		//       }
+				Scanner linhaScanner = new Scanner(linha);
+				linhaScanner.useDelimiter(";");
+				while (linhaScanner.hasNextLine()) {
+					System.out.println(linhaScanner.nextLine());
+				}
+			}
 
-		//   } catch (IOException e) {
-		//       e.printStackTrace();
-		//   }
+		} catch (FileNotFoundException e) {
+			System.out.println("Nenhum arquivo foi encontrado");
+		}
 	}
 }
