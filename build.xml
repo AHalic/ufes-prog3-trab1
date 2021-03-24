@@ -38,8 +38,8 @@
         </java> -->
 
         <java classname="${mainClass}">
-            <arg value="entradas/afonso-claudio-cadidatos.csv" />
-            <arg value="entradas/afonso-claudio-partido.csv" />
+            <arg value="./entradas/vitoria-candidatos.csv" />
+            <arg value="./entradas/vitoria-partido.csv" />
             <arg value="15/11/2020" />
             <classpath>
                 <pathelement path="${bin}" />
