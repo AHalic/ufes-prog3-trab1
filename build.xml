@@ -28,9 +28,18 @@
     <target name="run" depends="compile" description="Executa o programa principal, em modo
     normal.">
 
-        <java classname="${mainClass}">
+        <!-- <java classname="${mainClass}">
             <arg value="candidatos.csv" />
             <arg value="partidos.csv" />
+            <arg value="15/11/2020" />
+            <classpath>
+                <pathelement path="${bin}" />
+            </classpath>
+        </java> -->
+
+        <java classname="${mainClass}">
+            <arg value="entradas/afonso-claudio-cadidatos.csv" />
+            <arg value="entradas/afonso-claudio-partido.csv" />
             <arg value="15/11/2020" />
             <classpath>
                 <pathelement path="${bin}" />
