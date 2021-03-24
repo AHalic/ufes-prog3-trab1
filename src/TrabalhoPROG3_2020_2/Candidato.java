@@ -3,6 +3,7 @@ package TrabalhoPROG3_2020_2;
 import java.time.LocalDate;
 
 public class Candidato extends Pessoa{
+
 	public Candidato(String nome, String genero, LocalDate nascimento, 
 			String situacao, String nomeUrna, int vT, int numero, String destVoto) {
 		
@@ -51,4 +52,7 @@ public class Candidato extends Pessoa{
 		this.destVoto = destVoto;
 	}
 
+	public String toString() {
+		return "Nome: " + this.getNome() + " Nome urna: " + this.nomeUrna + " Niver: " + this.getNascimento();
+	}
 }
