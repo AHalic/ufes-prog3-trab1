@@ -1,17 +1,28 @@
 package TrabalhoPROG3_2020_2;
-import java.io.FileInputStream;
-import java.io.InputStream;
-import java.io.IOException;
 
 public class Main {
 	public static void main(String[] args) {
+		System.out.println("oi");
+
+		String caminhoCandidatos = new String();
+		caminhoCandidatos = args[0];
+		String caminhoPartidos = new String();
+
+		caminhoPartidos = args[1];
+		String dataEleicaoStr = args[2];
+	
+		// DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd-mm-yyyy");
+        // LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
+		System.out.println(caminhoCandidatos);
+
+//		 System.out.println(caminhoCandidatos + "\n" + caminhoPartidos + "\n" + dataEleicaoStr + "\n" + dataEleicao);
 		
-		throw IOException {
-			InputStream is = new FileInputStream(args[1]);
-			int b = is.read();
-			System.out.println(b);
-			is.close();
-		} 
+		// throw IOException {
+		// 	InputStream is = new FileInputStream(caminhoCandidatos);
+		// 	int b = is.read();
+		// 	System.out.println(b);
+		// 	is.close();
+		// };
 
 		// try {
 		//       File myObj = new File("filename.txt");
@@ -39,5 +50,5 @@ public class Main {
 		//   } catch (IOException e) {
 		//       e.printStackTrace();
 		//   }
-	};
+	}
 }
