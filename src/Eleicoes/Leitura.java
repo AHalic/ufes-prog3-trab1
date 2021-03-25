@@ -1,4 +1,4 @@
-package TrabalhoPROG3_2020_2;
+package Eleicoes;
 
 import java.util.HashSet;
 import java.util.Scanner;
