@@ -21,25 +21,8 @@ public class Main {
 		try {
 			FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
 			Scanner sP = new Scanner(arquivoP, "UTF-8");
-			sP.nextLine();
-
-			while (sP.hasNextLine()) {
-				String linha = sP.nextLine();
-
-				Scanner linhaScannerP = new Scanner(linha);
-				linhaScannerP.useDelimiter(",");
-
-				int numPartido = Integer.parseInt(linhaScannerP.next());
-				int votosLegenda = Integer.parseInt(linhaScannerP.next());
-				String nomePartido = linhaScannerP.next();
-				System.out.println(nomePartido);
-				String sigla = linhaScannerP.next();
-				
-				Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
-
-				linhaScannerP.close();
-			}
-
+			Leitura leituraPartido = new Leitura();
+			Set<Partido> partidos = leituraPartido.lerPartido(sP);
 			sP.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("Arquivo partido não foi encontrado");
