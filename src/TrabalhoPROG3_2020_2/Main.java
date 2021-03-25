@@ -16,11 +16,36 @@ public class Main {
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
-		// Ler partidos antes
-		
+        
+		// Lê partidos
+		try {
+			FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
+			Scanner sP = new Scanner(arquivoP, "UTF-8");
+			sP.nextLine();
+
+			while (sP.hasNextLine()) {
+				String linha = sP.nextLine();
+
+				Scanner linhaScannerP = new Scanner(linha);
+				linhaScannerP.useDelimiter(",");
+
+				int numPartido = Integer.parseInt(linhaScannerP.next());
+				int votosLegenda = Integer.parseInt(linhaScannerP.next());
+				String nomePartido = linhaScannerP.next();
+				String sigla = linhaScannerP.next();
+				
+				Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
+
+				linhaScannerP.close();
+			}
+
+			sP.close();
+		} catch (FileNotFoundException e) {
+			System.out.println("Arquivo partido não foi encontrado");
+		}		
 		
 
-		// Ler candidatos
+		// Lê candidatos
 		try {
 			FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
 			Scanner s = new Scanner(arquivo, "UTF-8");
@@ -46,14 +71,14 @@ public class Main {
 				int numPartido = Integer.parseInt(linhaScanner.next());
 
 				Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero, destVoto);
-				// System.out.println(candidato);
+
 
 				linhaScanner.close();
 			}
 
 			s.close();
 		} catch (FileNotFoundException e) {
-			System.out.println("Nenhum arquivo foi encontrado");
+			System.out.println("Arquivo candidato não foi encontrado");
 		}
 	}
 }
