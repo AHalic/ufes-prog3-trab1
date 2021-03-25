@@ -19,13 +19,13 @@ public class Leitura {
 
     public Set<Partido> lerPartido (Scanner sP) {
         Set<Partido> partidos = new HashSet<Partido>();
+        sP.nextLine();
 
         while (sP.hasNextLine()) {
             String linha = sP.nextLine();
 
             Scanner linhaScannerP = new Scanner(linha);
             linhaScannerP.useDelimiter(",");
-
             Partido partido = criaPartido(linhaScannerP);
             partidos.add(partido);
             
