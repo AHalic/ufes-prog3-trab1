@@ -1,4 +1,4 @@
-package TrabalhoPROG3_2020_2;
+package Eleicoes;
 
 import java.time.LocalDate;
 

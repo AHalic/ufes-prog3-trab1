@@ -1,4 +1,4 @@
-package TrabalhoPROG3_2020_2;
+package Eleicoes;
 import java.io.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -32,6 +32,7 @@ public class Main {
 				int numPartido = Integer.parseInt(linhaScannerP.next());
 				int votosLegenda = Integer.parseInt(linhaScannerP.next());
 				String nomePartido = linhaScannerP.next();
+				System.out.println(nomePartido);
 				String sigla = linhaScannerP.next();
 				
 				Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
@@ -72,7 +73,7 @@ public class Main {
 
 				Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero, destVoto);
 
-
+				System.out.println(candidato);
 				linhaScanner.close();
 			}
 

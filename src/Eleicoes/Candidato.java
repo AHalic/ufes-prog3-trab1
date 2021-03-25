@@ -1,4 +1,4 @@
-package TrabalhoPROG3_2020_2;
+package Eleicoes;
 
 import java.time.LocalDate;
 
@@ -52,6 +52,7 @@ public class Candidato extends Pessoa{
 		this.destVoto = destVoto;
 	}
 
+	@Override
 	public String toString() {
 		return "Nome: " + this.getNome() + " Nome urna: " + this.nomeUrna + " Niver: " + this.getNascimento();
 	}
