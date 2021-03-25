@@ -39,7 +39,7 @@
 
         <java classname="${mainClass}">
             <arg value="./entradas/vitoria-candidatos.csv" />
-            <arg value="./entradas/vitoria-partido.csv" />
+            <arg value="./entradas/vitoria-partidos.csv" />
             <arg value="15/11/2020" />
             <classpath>
                 <pathelement path="${bin}" />
