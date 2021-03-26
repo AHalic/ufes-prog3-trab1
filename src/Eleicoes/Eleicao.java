@@ -59,11 +59,11 @@ public class Eleicao {
     	this.votosNominais = votosNominais;
     }
 
-    public Set getCandidatos () {
+    public Set<Candidato> getCandidatos () {
         return this.candidatos;
     }
 
-    public LinkedList getPartidos () {
+    public LinkedList<Partido> getPartidos () {
         return this.partidos;
     }
 
