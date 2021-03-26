@@ -67,7 +67,9 @@ public class Leitura {
                 if(p.getNumPartido() == numPartido) {
                     candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
                     destVoto, p);
-                    if(!candidato.ehValido())
+                    
+                    // Apenas serão considerados os candidatos Válidos
+                    if(candidato.ehValido())
                     	p.insereCandidato(candidato);
                 }
             }
@@ -89,7 +91,9 @@ public class Leitura {
             linhaScanner.useDelimiter(",");
 
             Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos);
-            if(!candidato.ehValido())        
+            
+            // Apenas serão considerados os candidatos Válidos
+            if(candidato.ehValido())        
             	candidatos.add(candidato);
 
             linhaScanner.close();
