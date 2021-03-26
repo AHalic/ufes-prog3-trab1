@@ -48,6 +48,11 @@ public class Main {
                                " VL: " + p.getVotosLegenda() +
                                " Total: " + p.getVotosTotal() + 
                                " Vagas: " + p.getVagas());
+            for (Candidato c: p.getCandidatos()) {
+                System.out.println(c);
+            }
+
+            break;
         }
 
         // for (Candidato c : candidatos) {
