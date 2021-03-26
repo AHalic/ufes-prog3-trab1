@@ -1,17 +1,20 @@
 package Eleicoes;
 
 import java.time.LocalDate;
-import java.util.List;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.LinkedList;
+import java.util.Set;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
     private int votosNominais;
 	private int votosLegenda;
     private int vagas;
-	private List<Candidato> candidatos;
-	private List<Partido> partidos; 
+	private Set<Candidato> candidatos;
+	private LinkedList<Partido> partidos; 
 
-    public Eleicao (LocalDate dataEleicao, List<Candidato> candidatos, List<Partido> partidos) {
+    public Eleicao (LocalDate dataEleicao, Set<Candidato> candidatos, LinkedList<Partido> partidos) {
         this.dataEleicao = dataEleicao;
 
         this.partidos = partidos;
@@ -19,6 +22,21 @@ public class Eleicao {
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
+
+        this.calculaVagasPartidos();
+
+        // ordena partidos por vagas
+        Collections.sort(this.partidos, new Comparator<Partido>() {
+            @Override
+            public int compare(Partido p1, Partido p2) {
+                int vagas1 = p1.getVagas();
+                int vagas2 = p2.getVagas();
+                if (vagas1 >= vagas2)
+                    return 1;
+                else
+                    return 0;
+            }
+        });
     }
 
     public LocalDate getDataEleicao () {
@@ -53,11 +71,11 @@ public class Eleicao {
     	this.votosNominais = votosNominais;
     }
 
-    public List getCandidatos () {
+    public Set getCandidatos () {
         return this.candidatos;
     }
 
-    public List getPartidos () {
+    public LinkedList getPartidos () {
         return this.partidos;
     }
 
@@ -95,4 +113,9 @@ public class Eleicao {
         }
     }
 
+    private void calculaVagasPartidos () {
+        for (Partido p: this.partidos) {
+            p.calculaVagas(this.getVotosTotal());
+        }
+    }
 }
