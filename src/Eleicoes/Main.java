@@ -17,7 +17,7 @@ public class Main {
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
         LinkedList<Partido> partidos;
-        Set<Candidato> candidatos;
+        LinkedList<Candidato> candidatos;
                
         // Tenta abrir os arquivos, se conseguir faz a leitura
         Leitura leitura = new Leitura();
@@ -41,23 +41,23 @@ public class Main {
         // Cria a eleição
 		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
 		System.out.println("Número de vagas: " + eleicao.getVagas());
-        
-        for (Partido p: partidos) {
-            System.out.println("Partido: " + p.getSigla() + 
-                               " VN: " + p.getVotosNominais() + 
-                               " VL: " + p.getVotosLegenda() +
-                               " Total: " + p.getVotosTotal() + 
-                               " Vagas: " + p.getVagas());
-            for (Candidato c: p.getCandidatos()) {
-                System.out.println(c);
-            }
 
-            break;
+        int contador = 1;
+
+        System.out.println("Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):");
+        for (Candidato c: eleicao.getCandidatos()) {
+            System.out.println(contador + " - " + c); 
+            contador++;
+
+            if (contador == eleicao.getVagas() + 1)
+                break;
         }
 
-        // for (Candidato c : candidatos) {
-        //     System.out.println(c);
-        //     System.out.println(c.getIdade(dataEleicao) + " anos");
-        // }
+        contador = 1;
+        System.out.println("\nVotação dos partidos e número de candidatos eleitos:");
+        for (Partido p: eleicao.getPartidos()) {
+            System.out.println(contador + " - " + p); 
+            contador++;
+        }
 	}
 }
