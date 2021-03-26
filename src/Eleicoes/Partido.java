@@ -1,5 +1,7 @@
 package Eleicoes;
 
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.LinkedList;
 
 public class Partido {
@@ -101,11 +103,28 @@ public class Partido {
         this.candidatos.add(candidatoEleicao);
     }
 
-	public void calculaVagas (int vagasTotais) {
-		// ERRADO
-		this.vagas = this.votosTotal * 100 / vagasTotais; 
+	public void calculaVagas () {
+		int vagas = 0;
 
-		System.out.println(this.votosTotal + "/" + vagasTotais + " = " + this.vagas);
+		for (Candidato c: this.candidatos) {
+			if (c.ehEleito())
+				vagas++;
+		}
+
+		this.vagas = vagas;
 	}
 
+	public void ordenaCandidatos () {
+		Collections.sort(this.candidatos, new Comparator<Candidato>() {
+            @Override
+            public int compare(Candidato c1, Candidato c2) {
+                int votos1 = c1.getVotosTotal();
+                int votos2 = c2.getVotosTotal();
+                if (votos1 > votos2)
+                    return -1;
+                else
+                    return 1;
+            }
+        });
+	}
 }
