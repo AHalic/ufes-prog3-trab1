@@ -79,10 +79,7 @@ public class Eleicao {
 
         for (Partido p : this.partidos) {
         	qtdVagas += p.getVagas();
-        	System.out.println(p);
         }
-        System.out.println(qtdVagas);
-
         this.vagas = qtdVagas;
     }
  
