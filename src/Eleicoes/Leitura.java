@@ -14,13 +14,11 @@ public class Leitura {
         String nomePartido = linhaScannerP.next();
         String sigla = linhaScannerP.next();
         Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
-//        System.out.println(nomePartido);
         return partido;
     }
 
     public LinkedList<Partido> lePartido(Scanner s) {
         LinkedList<Partido> partidos = new LinkedList<Partido>();
-        s.nextLine();
 
         while (s.hasNextLine()) {
             String linha = s.nextLine();
@@ -38,11 +36,11 @@ public class Leitura {
     }
 
     public LinkedList<Partido> abrePartidos(String caminhoPartidos, FileInputStream arquivoP) {
-
-            Scanner sP = new Scanner(arquivoP, "UTF-8");
+            Scanner s = new Scanner(arquivoP, "UTF-8");
             Leitura leituraPartido = new Leitura();
-            LinkedList<Partido> partidos = leituraPartido.lePartido(sP);
-            sP.close();
+            s.nextLine();
+            LinkedList<Partido> partidos = leituraPartido.lePartido(s);
+            s.close();
        
         return partidos;
     }
@@ -82,7 +80,6 @@ public class Leitura {
 
     public LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
         LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
-        s.nextLine();
 
         while (s.hasNextLine()) {
             String linha = s.nextLine();
@@ -103,7 +100,6 @@ public class Leitura {
     }
 
     public LinkedList<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
-
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
             LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
