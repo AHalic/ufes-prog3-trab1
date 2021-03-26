@@ -132,6 +132,20 @@ public class Partido {
 
 	@Override
 	public String toString () {
-		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + " votos (" + this.votosNominais + " nominais e " + this.votosLegenda + " de legenda), " + this.vagas + " candidato eleito";
+		String fraseCandidatoEleito = " candidato eleito";
+		String fraseVoto = " voto";
+		String fraseNominal = " nominal";
+
+		if (this.getVagas() > 1) {
+			fraseCandidatoEleito = " candidatos eleitos";
+		}
+
+		if (this.votosTotal > 1)
+			fraseVoto = " votos";
+
+		if (this.votosNominais > 1)
+			fraseNominal = " nominais";
+
+		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + " " + fraseCandidatoEleito;
 	}
 }
