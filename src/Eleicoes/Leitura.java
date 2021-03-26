@@ -1,6 +1,8 @@
 package Eleicoes;
 
+import java.io.FileInputStream;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
@@ -12,11 +14,11 @@ public class Leitura {
         String nomePartido = linhaScannerP.next();
         String sigla = linhaScannerP.next();
         Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
-
+        System.out.println(nomePartido);
         return partido;
     }
 
-    private Set<Partido> lePartido(Scanner s) {
+    public Set<Partido> lePartido(Scanner s) {
         Set<Partido> partidos = new HashSet<Partido>();
         s.nextLine();
 
@@ -35,21 +37,17 @@ public class Leitura {
         return partidos;
     }
 
-    public Set<Partido> abrePartidos(String caminhoPartido) {
-        try {
-            FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
+    public Set<Partido> abrePartidos(String caminhoPartidos, FileInputStream arquivoP) {
+
             Scanner sP = new Scanner(arquivoP, "UTF-8");
             Leitura leituraPartido = new Leitura();
-            Set<Partido> partidos = leituraPartido.lerPartido(sP);
+            Set<Partido> partidos = leituraPartido.lePartido(sP);
             sP.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("Arquivo partido não foi encontrado");
-        }
-
+       
         return partidos;
     }
 
-    public Candidato criaCandidato(Scanner linhaScanner) {
+    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData) {
         int numero = Integer.parseInt(linhaScanner.next());
         int votosNominais = Integer.parseInt(linhaScanner.next());
         String situacao = linhaScanner.next();
@@ -65,10 +63,11 @@ public class Leitura {
 
         Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
                 destVoto);
+        System.out.println(candidato);
         return candidato;
     }
 
-    public Set<Candidato> leCandidato(Scanner s) {
+    public Set<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData) {
         Set<Candidato> candidatos = new HashSet<Candidato>();
         s.nextLine();
 
@@ -78,7 +77,7 @@ public class Leitura {
             Scanner linhaScanner = new Scanner(linha);
             linhaScanner.useDelimiter(",");
 
-            Candidato candidato = criaCandidato(linhaScanner);
+            Candidato candidato = criaCandidato(linhaScanner, formatoData);
             candidatos.add(candidato);
 
             linhaScanner.close();
@@ -87,16 +86,12 @@ public class Leitura {
         return candidatos;
     }
 
-    public Set<Candidato> abreCandidato(String caminhoCandidatos) {
-        try {
-            FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
+    public Set<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData) {
+
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
-            Set<Candidato> candidatos = leCandidato(s);
+            Set<Candidato> candidatos = leCandidato(s, formatoData);
             s.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("Arquivo candidato não foi encontrado");
-        }
 
         return candidatos;
     }

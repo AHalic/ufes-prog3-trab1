@@ -17,52 +17,27 @@ public class Main {
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
         
-		// Lê partidos
-		try {
-			FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
-			Scanner sP = new Scanner(arquivoP, "UTF-8");
-			Leitura leituraPartido = new Leitura();
-			Set<Partido> partidos = leituraPartido.lerPartido(sP);
-			sP.close();
-		} catch (FileNotFoundException e) {
-			System.out.println("Arquivo partido não foi encontrado");
-		}		
-		
+        // Lê partidos
+        Leitura leitura = new Leitura();
 
+        try {
+            FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
+            Set<Partido> partidos = leitura.abrePartidos(caminhoPartidos, arquivoP);
+
+        } catch (FileNotFoundException e) {
+            System.out.println("Arquivo partido não foi encontrado");
+        }
+
+        
 		// Lê candidatos
 		try {
-			FileInputStream arquivo = new FileInputStream(caminhoCandidatos);
-			Scanner s = new Scanner(arquivo, "UTF-8");
-			s.nextLine();
+			FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
+			Set<Candidato> candidato = leitura.abreCandidato(caminhoPartidos, arquivoC, formatoData);
 
-			while (s.hasNextLine()) {
-				String linha = s.nextLine();
-
-				Scanner linhaScanner = new Scanner(linha);
-				linhaScanner.useDelimiter(",");
-
-				int numero = Integer.parseInt(linhaScanner.next());
-				int votosNominais = Integer.parseInt(linhaScanner.next());
-				String situacao = linhaScanner.next();
-				String nome = linhaScanner.next();
-				String nomeUrna = linhaScanner.next();
-				String genero = linhaScanner.next();
-
-				String aniversarioStr = linhaScanner.next();
-        		LocalDate aniversario =  LocalDate.parse(aniversarioStr, formatoData);
-
-				String destVoto = linhaScanner.next();
-				int numPartido = Integer.parseInt(linhaScanner.next());
-
-				Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero, destVoto);
-
-				System.out.println(candidato);
-				linhaScanner.close();
-			}
-
-			s.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("Arquivo candidato não foi encontrado");
 		}
+		
+		
 	}
 }
