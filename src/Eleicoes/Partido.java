@@ -1,78 +1,92 @@
 package Eleicoes;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.LinkedList;
 
 public class Partido {
 	private String nome;
 	private String sigla;
 	private int votosLegenda;
+	private int votosNominais;
 	private int votosTotal;
-	private int votosNominais; // TODO teria isso??
 	private int numPartido;
-	private Set<Candidato> candidatos;
+	private LinkedList<Candidato> candidatos;
+	private int vagas;
 
 	public Partido(String nome, String sigla, int vtL, int numP) {
 		this.nome = nome;
 		this.sigla = sigla;
 		this.votosLegenda = vtL;
-//		this.votosTotal = -1; // TODO criar função que calcula os votos Totais
 		this.numPartido = numP;
+		this.candidatos = new LinkedList<Candidato>();
 
-		this.candidatos = new HashSet<Candidato>();
+		this.votosTotal = -1;
+		this.vagas = -1;
+		this.votosNominais = -1;
 	}
 
-	public String getNome() {
+	public String getNome () {
 		return nome;
 	}
 
-	public void setNome(String nome) {
+	public void setNome (String nome) {
 		this.nome = nome;
 	}
 
-	public String getSigla() {
+	public String getSigla () {
 		return sigla;
 	}
 
-	public void setSigla(String sigla) {
+	public void setSigla (String sigla) {
 		this.sigla = sigla;
 	}
 
-	public int getVotosLegenda() {
+	public int getVotosLegenda () {
 		return votosLegenda;
 	}
 
-	public void setVotosLegenda(int votosLegenda) {
+	public void setVotosLegenda (int votosLegenda) {
 		this.votosLegenda = votosLegenda;
 	}
 
-	public int getVotosTotal() {
+	public int getVotosNominais () {
+		return votosNominais;
+	}
+
+	public void setVotosNominais (int votosNominais) {
+		this.votosNominais = votosNominais;
+	}
+
+	public int getVotosTotal () {
 		return votosTotal;
 	}
 
-	public void setVotosTotal(int votosTotal) {
+	public void setVotosTotal (int votosTotal) {
 		this.votosTotal = votosTotal;
 	}
 
-	public int getNumPartido() {
+	public int getNumPartido () {
 		return numPartido;
 	}
 
-	public void setNumPartido(int numPartido) {
+	public void setNumPartido (int numPartido) {
 		this.numPartido = numPartido;
+	}
+
+	public int getVagas() {
+		return this.vagas;
 	}
 	
 	// Esses dois eu mudaria pra poder escolher qual candidato quer
 	// e para poder setar adicionando
-	public Set<Candidato> getCandidatos() {
+	public LinkedList<Candidato> getCandidatos () {
 		return candidatos;
 	}
 
-	public void setCandidatos(Set<Candidato> candidatos) {
+	public void setCandidatos (LinkedList<Candidato> candidatos) {
 		this.candidatos = candidatos;
 	}
 
-	public void getVotosTotais() {
+	public void getVotosTotais () {
 		int votosCandidatos = 0;
 
 		for (Candidato candidato : this.candidatos) {
@@ -83,14 +97,12 @@ public class Partido {
 		this.votosNominais = votosCandidatos;
 	}
 
-
-	public int getVotosNominais() {
-		return votosNominais;
-	}
-
     public void insereCandidato (Candidato candidatoEleicao) {
         this.candidatos.add(candidatoEleicao);
     }
 
+	public void calculaVagas (int vagasTotais) {
+		this.vagas = vagasTotais / this.votosTotal; 
+	}
 
 }
