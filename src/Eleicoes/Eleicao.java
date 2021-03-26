@@ -1,23 +1,24 @@
 package Eleicoes;
 
 import java.time.LocalDate;
-import java.util.Set;
+import java.util.List;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
     private int votosNominais;
 	private int votosLegenda;
     private int vagas;
-	private Set<Candidato> candidatos;
-	private Set<Partido> partidos; 
+	private List<Candidato> candidatos;
+	private List<Partido> partidos; 
 
-    public Eleicao (LocalDate dataEleicao, Set<Candidato> candidatos, Set<Partido> partidos) {
+    public Eleicao (LocalDate dataEleicao, List<Candidato> candidatos, List<Partido> partidos) {
         this.dataEleicao = dataEleicao;
 
         this.partidos = partidos;
         this.candidatos = candidatos;
         this.totalVotos();
         this.calculaQtdVagas();
+        this.calculaVotosTotaisPartidos();
     }
 
     public LocalDate getDataEleicao () {
@@ -40,7 +41,7 @@ public class Eleicao {
         return this.vagas;
     }
 
-    public void totalVotos() {
+    private void totalVotos() {
     	int votosNominais = 0, votosLegenda = 0;
     	
     	for(Partido partido : this.partidos) {
@@ -51,7 +52,23 @@ public class Eleicao {
     	this.votosLegenda = votosLegenda;
     	this.votosNominais = votosNominais;
     }
-    
+
+    public List getCandidatos () {
+        return this.candidatos;
+    }
+
+    public List getPartidos () {
+        return this.partidos;
+    }
+
+    public void insereCandidato (Candidato candidatoEleicao) {
+        this.candidatos.add(candidatoEleicao);
+    }
+
+    public void inserePartido (Partido partidoEleicao) {
+        this.partidos.add(partidoEleicao);
+    }
+
     private void calculaQtdVagas () {
         int qtdVagas = 0;
 
@@ -64,12 +81,18 @@ public class Eleicao {
         this.vagas = qtdVagas;
     }
  
-    public void insereCandidato (Candidato candidatoEleicao) {
-        this.candidatos.add(candidatoEleicao);
-    }
+    private void calculaVotosTotaisPartidos () {
+        int votos;
 
-    public void inserePartido (Partido partidoEleicao) {
-        this.partidos.add(partidoEleicao);
+        for (Partido p: this.partidos) {
+            votos = 0;
+
+            for (Candidato candidatoAux : p.getCandidatos()) {
+                votos += candidatoAux.getVotosTotal();
+            }
+
+            p.setVotosNominais(votos);
+        }
     }
 
 }
