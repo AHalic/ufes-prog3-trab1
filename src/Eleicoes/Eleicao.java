@@ -7,6 +7,7 @@ public class Eleicao {
 	private LocalDate dataEleicao;
     private int votosNominais;
 	private int votosLegenda;
+    private int vagas;
 	private Set<Candidato> candidatos;
 	private Set<Partido> partidos; 
 
@@ -16,7 +17,7 @@ public class Eleicao {
         this.partidos = partidos;
         this.candidatos = candidatos;
         this.totalVotos();
-        System.out.println(this.votosLegenda + " " + this.votosNominais + " é isso");
+        this.calculaQtdVagas();
     }
 
     public LocalDate getDataEleicao () {
@@ -35,6 +36,10 @@ public class Eleicao {
         return this.votosLegenda + this.votosNominais;
     }
 
+    public int getVagas () {
+        return this.vagas;
+    }
+
     public void totalVotos() {
     	int votosNominais = 0, votosLegenda = 0;
     	
@@ -47,6 +52,18 @@ public class Eleicao {
     	this.votosNominais = votosNominais;
     }
     
+    private void calculaQtdVagas () {
+        int qtdVagas = 0;
+
+        for (Candidato candidatoAux : this.candidatos) {
+            if (candidatoAux.ehEleito()) {
+                qtdVagas++;
+            }
+        }
+
+        this.vagas = qtdVagas;
+    }
+ 
     public void insereCandidato (Candidato candidatoEleicao) {
         this.candidatos.add(candidatoEleicao);
     }
@@ -55,5 +72,4 @@ public class Eleicao {
         this.partidos.add(partidoEleicao);
     }
 
- 
 }
