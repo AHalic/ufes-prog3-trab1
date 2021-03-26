@@ -22,6 +22,7 @@ public class Eleicao {
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
         this.ordenaPartidos();
+        this.ordenaCandidatos();
         this.ordenaPartidoCandidatos();
     }
 
@@ -110,6 +111,19 @@ public class Eleicao {
                 else if (p1.getVotosTotal() > p2.getVotosTotal())
                         return -1;
                     return 1;
+            }
+        });
+    }
+
+    private void ordenaCandidatos () {
+        Collections.sort(this.candidatos, new Comparator<Candidato>() {
+            @Override
+            public int compare(Candidato c1, Candidato c2) {
+                int votos1 = c1.getVotosTotal();
+                int votos2 = c2.getVotosTotal();
+                if (votos1 > votos2)
+                    return -1;
+                return 1;
             }
         });
     }
