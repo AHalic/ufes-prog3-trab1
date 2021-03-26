@@ -16,10 +16,9 @@ public class Main {
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
-        Set<Partido> partidos;
-        Set<Candidato> candidatos;
-        
-        
+        LinkedList<Partido> partidos;
+        LinkedList<Candidato> candidatos;
+               
         // Tenta abrir os arquivos, se conseguir faz a leitura
         Leitura leitura = new Leitura();
 
@@ -34,7 +33,6 @@ public class Main {
             return;
         }
         
-        
         // Conta os votos nominais de cada partido
         for(Partido p : partidos) {
         	p.getVotosTotais();
@@ -42,6 +40,19 @@ public class Main {
       
         // Cria a eleição
 		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
-		
+		System.out.println("Número de vagas: " + eleicao.getVagas());
+        
+        for (Partido p: partidos) {
+            System.out.println("Partido: " + p.getSigla() + 
+                               " VN: " + p.getVotosNominais() + 
+                               " VL: " + p.getVotosLegenda() +
+                               " Total: " + p.getVotosTotal() + 
+                               " Vagas: " + p.getVagas());
+        }
+
+        // for (Candidato c : candidatos) {
+        //     System.out.println(c);
+        //     System.out.println(c.getIdade(dataEleicao) + " anos");
+        // }
 	}
 }
