@@ -36,6 +36,12 @@ public class Candidato extends Pessoa{
 		else return false;
 	}
 	
+	public boolean ehValido () {
+		if (this.destVoto.equals("Válido"))
+			return true;
+		else return false;
+	}
+	
 	public String getNomeUrna() {
 		return nomeUrna;
 	}

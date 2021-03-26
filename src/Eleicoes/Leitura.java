@@ -69,7 +69,8 @@ public class Leitura {
                 if(p.getNumPartido() == numPartido) {
                     candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
                     destVoto, p);
-                    p.insereCandidato(candidato);
+                    if(!candidato.ehValido())
+                    	p.insereCandidato(candidato);
                 }
             }
         } catch (NoSuchElementException e) {
@@ -90,7 +91,8 @@ public class Leitura {
             linhaScanner.useDelimiter(",");
 
             Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos);
-            candidatos.add(candidato);
+            if(!candidato.ehValido())        
+            	candidatos.add(candidato);
 
             linhaScanner.close();
         }
