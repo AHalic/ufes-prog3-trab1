@@ -27,7 +27,6 @@ public class Main {
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
             partidos = leitura.abrePartidos(caminhoPartidos, arquivoP);
             candidatos = leitura.abreCandidato(caminhoPartidos, arquivoC, formatoData, partidos);
-
         } catch (FileNotFoundException e) {
             System.out.println("Arquivo não foi encontrado");
             return;
@@ -40,24 +39,13 @@ public class Main {
       
         // Cria a eleição
 		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
-		System.out.println("Número de vagas: " + eleicao.getVagas());
 
-        int contador = 1;
+        // Cria relatorio
+        Relatorio relatorio = new Relatorio();
 
-        System.out.println("Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):");
-        for (Candidato c: eleicao.getCandidatos()) {
-            System.out.println(contador + " - " + c); 
-            contador++;
-
-            if (contador == eleicao.getVagas() + 1)
-                break;
-        }
-
-        contador = 1;
-        System.out.println("\nVotação dos partidos e número de candidatos eleitos:");
-        for (Partido p: eleicao.getPartidos()) {
-            System.out.println(contador + " - " + p); 
-            contador++;
-        }
+        // Faz relatorios
+        relatorio.numeroDeVagas(eleicao);
+        relatorio.candidatosMaisVotados(eleicao);
+        relatorio.infoPartidos(eleicao);
 	}
 }
