@@ -35,7 +35,7 @@ public class Main {
         
         // Conta os votos nominais de cada partido
         for(Partido p : partidos) {
-        	p.getVotosTotais();
+        	p.setVotosTotais();
         }
       
         // Cria a eleição

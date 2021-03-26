@@ -22,7 +22,7 @@ public class Partido {
 		this.candidatos = new LinkedList<Candidato>();
 
 		this.votosTotal = -1;
-		this.vagas = -1;
+		this.vagas = 0;
 		this.votosNominais = -1;
 	}
 
@@ -88,7 +88,7 @@ public class Partido {
 		this.candidatos = candidatos;
 	}
 
-	public void getVotosTotais () {
+	public void setVotosTotais () {
 		int votosCandidatos = 0;
 
 		for (Candidato candidato : this.candidatos) {
@@ -99,8 +99,10 @@ public class Partido {
 		this.votosNominais = votosCandidatos;
 	}
 
-    public void insereCandidato (Candidato candidatoEleicao) {
-        this.candidatos.add(candidatoEleicao);
+    public void insereCandidato (Candidato candidato) {
+        this.candidatos.add(candidato);
+		if (candidato.ehEleito())
+			vagas++;
     }
 
 	public void calculaVagas () {
@@ -126,5 +128,10 @@ public class Partido {
                     return 1;
             }
         });
+	}
+
+	@Override
+	public String toString () {
+		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + " votos (" + this.votosNominais + " nominais e " + this.votosLegenda + " de legenda), " + this.vagas + " candidato eleito";
 	}
 }

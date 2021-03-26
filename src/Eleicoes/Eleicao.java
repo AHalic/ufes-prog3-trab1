@@ -22,7 +22,7 @@ public class Eleicao {
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
-        this.calculaVagasPartidos();
+//        this.calculaVagasPartidos();
         this.ordenaPartidos();
         this.ordenaPartidoCandidatos();
     }
@@ -78,11 +78,11 @@ public class Eleicao {
     private void calculaQtdVagas () {
         int qtdVagas = 0;
 
-        for (Candidato candidatoAux : this.candidatos) {
-            if (candidatoAux.ehEleito()) {
-                qtdVagas++;
-            }
+        for (Partido p : this.partidos) {
+        	qtdVagas += p.getVagas();
+        	System.out.println(p);
         }
+        System.out.println(qtdVagas);
 
         this.vagas = qtdVagas;
     }
@@ -124,6 +124,8 @@ public class Eleicao {
                 if (vagas1 > vagas2)
                     return -1;
                 else
+                    if (p1.getVotosTotal() > p2.getVotosTotal())
+                        return -1;
                     return 1;
             }
         });
