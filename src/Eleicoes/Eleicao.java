@@ -11,43 +11,43 @@ public class Eleicao {
 	private Set<Candidato> candidatos;
 	private Set<Partido> partidos; 
 
-    public Eleicao (LocalDate dataEleicao, int votosNominais, int votosLegenda) {
+    public Eleicao (LocalDate dataEleicao, Set<Candidato> candidatos, Set<Partido> partidos) {
         this.dataEleicao = dataEleicao;
-        this.votosNominais = votosNominais;
-        this.votosLegenda = votosLegenda;
 
-        this.partidos = new HashSet<Partido>();
-        this.candidatos = new HashSet<Candidato>();
+        this.partidos = partidos;
+        this.candidatos = candidatos;
+        this.totalVotos();
+        System.out.println(this.votosLegenda + " " + this.votosNominais + " é isso");
     }
 
     public LocalDate getDataEleicao () {
         return dataEleicao;
     }
 
-    public void setDataEleicao (LocalDate dataEleicao) {
-        this.dataEleicao = dataEleicao;
-    }
-
     public int getVotosNominais () {
         return votosNominais;
-    }
-
-    public void setVotosNominais (int votosNominais) {
-        this.votosNominais = votosNominais;
     }
 
     public int getVotosLegenda () {
         return votosLegenda;
     }
 
-    public void setVotosLegenda (int votosLegenda) {
-        this.votosLegenda = votosLegenda;
-    }
-
     public int getVotosTotal () {
         return this.votosLegenda + this.votosNominais;
     }
 
+    public void totalVotos() {
+    	int votosNominais = 0, votosLegenda = 0;
+    	
+    	for(Partido partido : this.partidos) {
+    		votosLegenda += partido.getVotosLegenda();
+    		votosNominais += partido.getVotosNominais();
+    	}
+    	
+    	this.votosLegenda = votosLegenda;
+    	this.votosNominais = votosNominais;
+    }
+    
     public void insereCandidato (Candidato candidatoEleicao) {
         this.candidatos.add(candidatoEleicao);
     }
@@ -55,4 +55,5 @@ public class Eleicao {
     public void inserePartido (Partido partidoEleicao) {
         this.partidos.add(partidoEleicao);
     }
+
 }

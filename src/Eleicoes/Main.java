@@ -16,28 +16,34 @@ public class Main {
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
+        Set<Partido> partidos;
+        Set<Candidato> candidatos;
         
-        // Lê partidos
+        
+        // Tenta abrir os arquivos, se conseguir faz a leitura
         Leitura leitura = new Leitura();
 
         try {
             FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
-            Set<Partido> partidos = leitura.abrePartidos(caminhoPartidos, arquivoP);
+            FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
+            partidos = leitura.abrePartidos(caminhoPartidos, arquivoP);
+            candidatos = leitura.abreCandidato(caminhoPartidos, arquivoC, formatoData);
 
         } catch (FileNotFoundException e) {
-            System.out.println("Arquivo partido não foi encontrado");
+            System.out.println("Arquivo não foi encontrado");
+            return;
         }
 
         
-		// Lê candidatos
-		try {
-			FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
-			Set<Candidato> candidato = leitura.abreCandidato(caminhoPartidos, arquivoC, formatoData);
-
-		} catch (FileNotFoundException e) {
-			System.out.println("Arquivo candidato não foi encontrado");
-		}
-		
+        
+        
+        // Conta os votos nominais de cada partido
+        for(Partido p : partidos) {
+        	p.getVotosTotais();
+        }
+      
+        // Cria a eleição
+		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
 		
 	}
 }

@@ -14,7 +14,7 @@ public class Leitura {
         String nomePartido = linhaScannerP.next();
         String sigla = linhaScannerP.next();
         Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
-        System.out.println(nomePartido);
+//        System.out.println(nomePartido);
         return partido;
     }
 
@@ -63,7 +63,7 @@ public class Leitura {
 
         Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
                 destVoto);
-        System.out.println(candidato);
+//        System.out.println(candidato);
         return candidato;
     }
 

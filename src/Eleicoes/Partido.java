@@ -8,6 +8,7 @@ public class Partido {
 	private String sigla;
 	private int votosLegenda;
 	private int votosTotal;
+	private int votosNominais;
 	private int numPartido;
 	private Set<Candidato> candidatos;
 
@@ -15,7 +16,7 @@ public class Partido {
 		this.nome = nome;
 		this.sigla = sigla;
 		this.votosLegenda = vtL;
-		this.votosTotal = -1; // TODO criar função que calcula os votos Totais
+//		this.votosTotal = -1; // TODO criar função que calcula os votos Totais
 		this.numPartido = numP;
 
 		this.candidatos = new HashSet<Candidato>();
@@ -79,6 +80,13 @@ public class Partido {
 		}
 
 		this.votosTotal = votosCandidatos + votosLegenda;
+		this.votosNominais = votosCandidatos;
 	}
+
+
+	public int getVotosNominais() {
+		return votosNominais;
+	}
+
 
 }
