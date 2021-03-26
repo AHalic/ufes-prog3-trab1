@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.HashSet;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.Set;
 
@@ -61,14 +62,17 @@ public class Leitura {
         String destVoto = linhaScanner.next();
         int numPartido = Integer.parseInt(linhaScanner.next());
 
-        Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
-                destVoto);
-//        System.out.println(candidato);
-        
-        for(Partido p: partidos) {
-        	if(p.getNumPartido() == numPartido) {
-        		p.insereCandidato(candidato);
-        	}
+        Candidato candidato = null;
+        try { 
+            for(Partido p: partidos) {
+                if(p.getNumPartido() == numPartido) {
+                    candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
+                    destVoto, p);
+                    p.insereCandidato(candidato);
+                }
+            }
+        } catch (NoSuchElementException e) {
+            System.out.println("Partido " + numPartido + " não existe!"); 
         }
         
         return candidato;
