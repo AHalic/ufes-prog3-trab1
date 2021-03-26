@@ -101,20 +101,6 @@ public class Eleicao {
         }
     }
 
-    private void calculaVagasPartidos () {
-        double QCEdb = (double) this.getVotosTotal() / this.vagas;
-
-        int QCE = (int) QCEdb;
-        double dif = QCEdb - QCE;
-
-        if (dif > 0.5)
-            QCE++;
-
-        for (Partido p: this.partidos)   {
-            p.calculaVagas();
-        }
-    }
-
     private void ordenaPartidos () {
         Collections.sort(this.partidos, new Comparator<Partido>() {
             @Override
@@ -123,8 +109,7 @@ public class Eleicao {
                 int vagas2 = p2.getVagas();
                 if (vagas1 > vagas2)
                     return -1;
-                else
-                    if (p1.getVotosTotal() > p2.getVotosTotal())
+                else if (p1.getVotosTotal() > p2.getVotosTotal())
                         return -1;
                     return 1;
             }
