@@ -102,7 +102,10 @@ public class Partido {
     }
 
 	public void calculaVagas (int vagasTotais) {
-		this.vagas = vagasTotais / this.votosTotal; 
+		// ERRADO
+		this.vagas = this.votosTotal * 100 / vagasTotais; 
+
+		System.out.println(this.votosTotal + "/" + vagasTotais + " = " + this.vagas);
 	}
 
 }
