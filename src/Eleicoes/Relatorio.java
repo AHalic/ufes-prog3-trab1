@@ -29,4 +29,17 @@ public class Relatorio {
             contador++;
         }
     }
+    
+    public void votosEleicao(Eleicao eleicao) {
+    	int total, nominal, legenda;
+    	
+    	total = eleicao.getVotosTotais();
+    	nominal = eleicao.getVotosNominais();
+    	legenda = eleicao.getVotosLegenda();
+    	
+    	
+    	System.out.println("Total de votos válidos:    " + total);
+    	System.out.printf("Total de votos nominais:    %d (%.2f%%)\n",  nominal, ((float) nominal*100/total));
+    	System.out.printf("Total de votos nominais:    %d (%.2f%%)\n",  legenda, ((float) legenda*100/total));
+    }
 }

@@ -9,6 +9,7 @@ public class Eleicao {
 	private LocalDate dataEleicao;
     private int votosNominais;
 	private int votosLegenda;
+	private int votosTotais;
     private int vagas;
 	private LinkedList<Candidato> candidatos;
 	private LinkedList<Partido> partidos; 
@@ -38,24 +39,29 @@ public class Eleicao {
         return votosLegenda;
     }
 
-    public int getVotosTotal () {
-        return this.votosLegenda + this.votosNominais;
+    public void setVotosTotais () {
+        this.votosTotais = this.votosLegenda + this.votosNominais;
+    }
+    
+    public int getVotosTotais () {
+        return this.votosTotais;
     }
 
     public int getVagas () {
         return this.vagas;
     }
-
+    
     private void totalVotos() {
     	int votosNominais = 0, votosLegenda = 0;
     	
     	for(Partido partido : this.partidos) {
     		votosLegenda += partido.getVotosLegenda();
-    		votosNominais += partido.getVotosNominais(); // TODO mudar? me toquei q tem candidatos
+    		votosNominais += partido.getVotosNominais(); 
     	}
     	
     	this.votosLegenda = votosLegenda;
     	this.votosNominais = votosNominais;
+    	this.setVotosTotais();
     }
 
     public LinkedList<Candidato> getCandidatos () {

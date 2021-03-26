@@ -47,5 +47,6 @@ public class Main {
         relatorio.numeroDeVagas(eleicao);
         relatorio.candidatosMaisVotados(eleicao);
         relatorio.infoPartidos(eleicao);
+        relatorio.votosEleicao(eleicao);
 	}
 }
