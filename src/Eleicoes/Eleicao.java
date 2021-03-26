@@ -4,7 +4,6 @@ import java.time.LocalDate;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
-import java.util.Set;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
@@ -58,7 +57,7 @@ public class Eleicao {
     	this.votosNominais = votosNominais;
     }
 
-    public Set<Candidato> getCandidatos () {
+    public LinkedList<Candidato> getCandidatos () {
         return this.candidatos;
     }
 
