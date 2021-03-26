@@ -11,10 +11,10 @@ public class Eleicao {
     private int votosNominais;
 	private int votosLegenda;
     private int vagas;
-	private Set<Candidato> candidatos;
+	private LinkedList<Candidato> candidatos;
 	private LinkedList<Partido> partidos; 
 
-    public Eleicao (LocalDate dataEleicao, Set<Candidato> candidatos, LinkedList<Partido> partidos) {
+    public Eleicao (LocalDate dataEleicao, LinkedList<Candidato> candidatos, LinkedList<Partido> partidos) {
         this.dataEleicao = dataEleicao;
 
         this.partidos = partidos;
@@ -22,7 +22,6 @@ public class Eleicao {
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
-//        this.calculaVagasPartidos();
         this.ordenaPartidos();
         this.ordenaPartidoCandidatos();
     }
