@@ -1,12 +1,12 @@
 package Eleicoes;
 
 import java.time.LocalDate;
+import java.time.Period;
 
 public class Pessoa {
 	private String nome;
 	private String genero;
 	private LocalDate nascimento;
-	
 	
 	public Pessoa(String nome, String genero, LocalDate nascimento) {
 		this.nome = nome;
@@ -17,14 +17,23 @@ public class Pessoa {
 	public String getNome() {
 		return nome;
 	}
+
 	public String getGenero() {
 		return genero;
 	}
+
 	public LocalDate getNascimento() {
 		return nascimento;
 	}
 	
-	
+	public String toString () {
+		return this.nome.toUpperCase();
+	}
+
+	public int getIdade (LocalDate dia) {
+		return Period.between(this.nascimento, dia).getYears();
+	}
+
 //	public void setNome(String nome) {
 //		this.nome = nome;
 //	}
