@@ -1,7 +1,6 @@
 package Eleicoes;
 
 import java.time.LocalDate;
-import java.util.HashSet;
 import java.util.Set;
 
 public class Eleicao {
@@ -41,7 +40,7 @@ public class Eleicao {
     	
     	for(Partido partido : this.partidos) {
     		votosLegenda += partido.getVotosLegenda();
-    		votosNominais += partido.getVotosNominais();
+    		votosNominais += partido.getVotosNominais(); // TODO mudar? me toquei q tem candidatos
     	}
     	
     	this.votosLegenda = votosLegenda;
@@ -56,4 +55,5 @@ public class Eleicao {
         this.partidos.add(partidoEleicao);
     }
 
+ 
 }

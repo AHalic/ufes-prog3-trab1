@@ -47,7 +47,7 @@ public class Leitura {
         return partidos;
     }
 
-    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData) {
+    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, Set<Partido> partidos) {
         int numero = Integer.parseInt(linhaScanner.next());
         int votosNominais = Integer.parseInt(linhaScanner.next());
         String situacao = linhaScanner.next();
@@ -64,10 +64,17 @@ public class Leitura {
         Candidato candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
                 destVoto);
 //        System.out.println(candidato);
+        
+        for(Partido p: partidos) {
+        	if(p.getNumPartido() == numPartido) {
+        		p.insereCandidato(candidato);
+        	}
+        }
+        
         return candidato;
     }
 
-    public Set<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData) {
+    public Set<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, Set<Partido> partidos) {
         Set<Candidato> candidatos = new HashSet<Candidato>();
         s.nextLine();
 
@@ -77,7 +84,7 @@ public class Leitura {
             Scanner linhaScanner = new Scanner(linha);
             linhaScanner.useDelimiter(",");
 
-            Candidato candidato = criaCandidato(linhaScanner, formatoData);
+            Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos);
             candidatos.add(candidato);
 
             linhaScanner.close();
@@ -86,11 +93,11 @@ public class Leitura {
         return candidatos;
     }
 
-    public Set<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData) {
+    public Set<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, Set<Partido> partidos) {
 
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
-            Set<Candidato> candidatos = leCandidato(s, formatoData);
+            Set<Candidato> candidatos = leCandidato(s, formatoData, partidos);
             s.close();
 
         return candidatos;

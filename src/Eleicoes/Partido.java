@@ -8,7 +8,7 @@ public class Partido {
 	private String sigla;
 	private int votosLegenda;
 	private int votosTotal;
-	private int votosNominais;
+	private int votosNominais; // TODO teria isso??
 	private int numPartido;
 	private Set<Candidato> candidatos;
 
@@ -61,8 +61,8 @@ public class Partido {
 	public void setNumPartido(int numPartido) {
 		this.numPartido = numPartido;
 	}
+	
 	// Esses dois eu mudaria pra poder escolher qual candidato quer
-
 	// e para poder setar adicionando
 	public Set<Candidato> getCandidatos() {
 		return candidatos;
@@ -87,6 +87,10 @@ public class Partido {
 	public int getVotosNominais() {
 		return votosNominais;
 	}
+
+    public void insereCandidato (Candidato candidatoEleicao) {
+        this.candidatos.add(candidatoEleicao);
+    }
 
 
 }
