@@ -17,7 +17,7 @@ public class Main {
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
         LinkedList<Partido> partidos;
-        LinkedList<Candidato> candidatos;
+        Set<Candidato> candidatos;
                
         // Tenta abrir os arquivos, se conseguir faz a leitura
         Leitura leitura = new Leitura();

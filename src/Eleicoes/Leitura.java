@@ -3,9 +3,11 @@ package Eleicoes;
 import java.io.FileInputStream;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
+import java.util.Set;
 
 public class Leitura {
     private Partido criaPartido(Scanner linhaScannerP) {
@@ -77,8 +79,8 @@ public class Leitura {
         return candidato;
     }
 
-    public LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
-        LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
+    public Set<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+        Set<Candidato> candidatos = new HashSet<Candidato>();
         s.nextLine();
 
         while (s.hasNextLine()) {
@@ -96,11 +98,11 @@ public class Leitura {
         return candidatos;
     }
 
-    public LinkedList<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    public Set<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
 
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
-            LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
+            Set<Candidato> candidatos = leCandidato(s, formatoData, partidos);
             s.close();
 
         return candidatos;
