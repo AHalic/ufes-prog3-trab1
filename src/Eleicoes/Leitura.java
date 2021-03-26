@@ -3,10 +3,9 @@ package Eleicoes;
 import java.io.FileInputStream;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-import java.util.Set;
 
 public class Leitura {
     private Partido criaPartido(Scanner linhaScannerP) {
@@ -19,8 +18,8 @@ public class Leitura {
         return partido;
     }
 
-    public Set<Partido> lePartido(Scanner s) {
-        Set<Partido> partidos = new HashSet<Partido>();
+    public LinkedList<Partido> lePartido(Scanner s) {
+        LinkedList<Partido> partidos = new LinkedList<Partido>();
         s.nextLine();
 
         while (s.hasNextLine()) {
@@ -38,17 +37,17 @@ public class Leitura {
         return partidos;
     }
 
-    public Set<Partido> abrePartidos(String caminhoPartidos, FileInputStream arquivoP) {
+    public LinkedList<Partido> abrePartidos(String caminhoPartidos, FileInputStream arquivoP) {
 
             Scanner sP = new Scanner(arquivoP, "UTF-8");
             Leitura leituraPartido = new Leitura();
-            Set<Partido> partidos = leituraPartido.lePartido(sP);
+            LinkedList<Partido> partidos = leituraPartido.lePartido(sP);
             sP.close();
        
         return partidos;
     }
 
-    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, Set<Partido> partidos) {
+    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
         int numero = Integer.parseInt(linhaScanner.next());
         int votosNominais = Integer.parseInt(linhaScanner.next());
         String situacao = linhaScanner.next();
@@ -78,8 +77,8 @@ public class Leitura {
         return candidato;
     }
 
-    public Set<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, Set<Partido> partidos) {
-        Set<Candidato> candidatos = new HashSet<Candidato>();
+    public LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+        LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
         s.nextLine();
 
         while (s.hasNextLine()) {
@@ -97,11 +96,11 @@ public class Leitura {
         return candidatos;
     }
 
-    public Set<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, Set<Partido> partidos) {
+    public LinkedList<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
 
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
-            Set<Candidato> candidatos = leCandidato(s, formatoData, partidos);
+            LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
             s.close();
 
         return candidatos;
