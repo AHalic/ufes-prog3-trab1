@@ -105,9 +105,10 @@ public class Eleicao {
                 int vagas2 = p2.getVagas();
                 if (vagas1 > vagas2)
                     return -1;
-                else if (p1.getVotosTotal() > p2.getVotosTotal())
+                else if(vagas1 == vagas2)
+                	if (p1.getVotosTotal() > p2.getVotosTotal())
                         return -1;
-                    return 1;
+               return 1;
             }
         });
     }
