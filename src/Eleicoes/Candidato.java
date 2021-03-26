@@ -3,9 +3,15 @@ package Eleicoes;
 import java.time.LocalDate;
 
 public class Candidato extends Pessoa{
+	private String situacao;
+	private String nomeUrna;
+	private int votosTotal;
+	private int numero;
+	private String destVoto;
+	Partido partido;
 
 	public Candidato(String nome, String genero, LocalDate nascimento, 
-			String situacao, String nomeUrna, int vT, int numero, String destVoto) {
+			String situacao, String nomeUrna, int vT, int numero, String destVoto, Partido partido) {
 		
 		super(nome, genero, nascimento);
 		this.destVoto = destVoto;
@@ -13,13 +19,8 @@ public class Candidato extends Pessoa{
 		this.numero = numero;
 		this.situacao = situacao;
 		this.votosTotal = vT;
+		this.partido = partido;
 	}
-	
-	private String situacao;
-	private String nomeUrna;
-	private int votosTotal;
-	private int numero;
-	private String destVoto;
 	
 	public String getSituacao() {
 		return situacao;
@@ -29,6 +30,12 @@ public class Candidato extends Pessoa{
 		this.situacao = situacao;
 	}
 
+	public boolean ehEleito () {
+		if (this.situacao.equals("Eleito"))
+			return true;
+		else return false;
+	}
+	
 	public String getNomeUrna() {
 		return nomeUrna;
 	}
@@ -63,6 +70,6 @@ public class Candidato extends Pessoa{
 
 	@Override
 	public String toString() {
-		return "Nome: " + this.getNome() + " Nome urna: " + this.nomeUrna + " Niver: " + this.getNascimento();
+		return super.toString() + " / " + this.getNomeUrna() + " (" + this.partido.getSigla().toUpperCase() + ", " + this.votosTotal + " votos)";
 	}
 }
