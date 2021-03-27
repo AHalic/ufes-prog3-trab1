@@ -41,12 +41,16 @@ public class Main {
 		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
 
         // Cria relatorio
-        Relatorio relatorio = new Relatorio();
+        Relatorio relatorio = new Relatorio(eleicao);
 
         // Faz relatorios
-        relatorio.numeroDeVagas(eleicao);
-        relatorio.candidatosMaisVotados(eleicao);
-        relatorio.infoPartidos(eleicao);
-        relatorio.votosEleicao(eleicao);
+        relatorio.numeroDeVagas();
+        relatorio.vereadoresEleitos();
+        relatorio.candidatosMaisVotados();
+        relatorio.naoEleitosMajoritario();
+        relatorio.eleitosBeneficiados();
+        relatorio.infoPartidos();
+        relatorio.primeiroUltimoPartido();
+        relatorio.votosEleicao();
 	}
 }
