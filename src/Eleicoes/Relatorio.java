@@ -78,16 +78,19 @@ public class Relatorio {
     }
 
     public void primeiroUltimoPartido () {
+    	int cont = 1;
         System.out.println("Primeiro e último colocados de cada partido:");
         for (Partido p: eleicao.getPartidos()) {
             if (p.getVotosTotal() > 0) {
-                System.out.print( p.getSigla() + " - " + p.getNumPartido() + ", ");
+                System.out.print(cont + " - " + p.getSigla() + " - " + p.getNumPartido() + ", ");
 
                 Candidato prim = p.getCandidatos().getFirst();
                 Candidato ult = p.getCandidatos().getLast();
 
                 System.out.print(prim.getNomeUrna() + " (" + prim.getNumero() + ", " + prim.getVotosTotal() + " votos) / ");
-                System.out.println(ult.getNomeUrna() + " (" + ult.getNumero() + ", " + ult.getVotosTotal() + " votos)");                
+                System.out.println(ult.getNomeUrna() + " (" + ult.getNumero() + ", " + ult.getVotosTotal() + " votos)");
+                
+                cont++;
             }
         }
 
