@@ -146,6 +146,6 @@ public class Partido {
 		if (this.votosNominais > 1)
 			fraseNominal = " nominais";
 
-		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + " " + fraseCandidatoEleito;
+		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + fraseCandidatoEleito;
 	}
 }

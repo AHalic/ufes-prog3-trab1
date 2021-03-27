@@ -86,7 +86,7 @@ public class Relatorio {
                 Candidato prim = p.getCandidatos().getFirst();
                 Candidato ult = p.getCandidatos().getLast();
 
-                System.out.print(prim.getNomeUrna() + " (" + prim.getNumero() + ", " + prim.getVotosTotal() + " votos) /");
+                System.out.print(prim.getNomeUrna() + " (" + prim.getNumero() + ", " + prim.getVotosTotal() + " votos) / ");
                 System.out.println(ult.getNomeUrna() + " (" + ult.getNumero() + ", " + ult.getVotosTotal() + " votos)");                
             }
         }
