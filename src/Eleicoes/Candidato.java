@@ -10,6 +10,18 @@ public class Candidato extends Pessoa{
 	private String destVoto;
 	Partido partido;
 
+	/** 
+	 * Construtor de Candidato
+	 * @param nome nome do candidato
+	 * @param genero genero do candidato (M ou F)
+	 * @param nascimento aniversario do candidato
+	 * @param situacao situacao do candidato (Eleito, Suplente ou Não eleito)
+	 * @param nomeUrna nome do candidato na urna
+	 * @param votosTotais quantidade de votos do candidato
+	 * @param numero id do candidato
+	 * @param destVoto destino do voto do candidato (Valido ou Não Valido)
+	 * @param partido numero do partido do candidato
+	*/
 	public Candidato(String nome, String genero, LocalDate nascimento, 
 			String situacao, String nomeUrna, int vT, int numero, String destVoto, Partido partido) {
 		
@@ -22,20 +34,36 @@ public class Candidato extends Pessoa{
 		this.partido = partido;
 	}
 	
+	/** 
+	 * Retorna situacao do candidato
+	 * @return situacao (Eleito, Suplente ou Não Eleito)
+	*/
 	public String getSituacao() {
 		return situacao;
 	}
 
+	/** 
+	 * Modifica a situacao
+	 * @param situacao
+	*/
 	public void setSituacao(String situacao) {
 		this.situacao = situacao;
 	}
 
+	/** 
+	 * Retorna se o candidato foi eleitos
+	 * @return true se eleito, false se nao
+	*/
 	public boolean ehEleito () {
 		if (this.situacao.equals("Eleito"))
 			return true;
 		else return false;
 	}
-	
+
+	/** 
+	 * Retorna se o destino do candidato eh valido
+	 * @return true se valido, false se nao
+	*/
 	public boolean ehValido () {
 		if (this.destVoto.equals("Válido"))
 			return true;
