@@ -22,16 +22,15 @@ public class Pessoa {
 		return genero;
 	}
 	
+	public LocalDate getNascimento() {
+		return nascimento;
+	}
+	
 	public boolean ehGeneroF () {
 		if (this.genero.equals("F"))
 			return true;
 		else 
 			return false;
-	}
-	
-
-	public LocalDate getNascimento() {
-		return nascimento;
 	}
 	
 	public String toString () {
@@ -41,16 +40,4 @@ public class Pessoa {
 	public int getIdade (LocalDate dia) {
 		return Period.between(this.nascimento, dia).getYears();
 	}
-
-//	public void setNome(String nome) {
-//		this.nome = nome;
-//	}
-//	public void setGenero(String genero) {
-//		this.genero = genero;
-//	}
-//	public void setNascimento(LocalDate nascimento) {
-//		this.nascimento = nascimento;
-//	}
-//	
-	
 }
