@@ -83,4 +83,13 @@ public class Candidato extends Pessoa{
 	public String toString() {
 		return super.toString() + " / " + this.getNomeUrna() + " (" + this.partido.getSigla().toUpperCase() + ", " + this.votosTotal + " votos)";
 	}
+	
+	public String shortToString() {
+		String voto = "voto";
+
+		if (this.votosTotal > 1)
+			voto = "votos";
+
+		return this.nomeUrna + " (" + this.numero + ", " + this.votosTotal + " " + voto + ")";
+	}
 }
