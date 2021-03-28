@@ -79,11 +79,15 @@ public class Leitura {
 	        aniversarioStr = linhaScanner.next();
 	        destVoto = linhaScanner.next();
 	        numPartido = Integer.parseInt(linhaScanner.next());
-    	} catch(NoSuchElementException e) {
-        	return null;
         } catch(NumberFormatException e) {
             return null;
         }
+        
+        // Verifica se todas as strings lidas estão preenchidas
+        if(situacao.isBlank() || nome.isBlank() || nomeUrna.isBlank() || 
+        		genero.isBlank() || aniversarioStr.isBlank() || destVoto.isBlank())
+        	return null;
+
         
         aniversario = LocalDate.parse(aniversarioStr, formatoData);
 
@@ -118,6 +122,7 @@ public class Leitura {
             	if(candidato.ehValido())        
             		// Apenas serão considerados os candidatos Válidos
             		candidatos.add(candidato);
+            
             linhaScanner.close();
         }
 
