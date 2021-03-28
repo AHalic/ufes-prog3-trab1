@@ -1,9 +1,7 @@
 package Eleicoes;
 
+import java.time.LocalDate;
 import java.util.*;
-//import java.util.Collections;
-//import java.util.Comparator;
-//import java.util.LinkedList;
 
 public class Partido {
 	private String nome;
@@ -42,6 +40,10 @@ public class Partido {
 	public int getVotosNominais () {
 		return votosNominais;
 	}
+
+	public void setVotosNominais (int votosNominais) {
+        this.votosNominais = votosNominais;
+    }
 
 	public int getVotosTotal () {
 		return votosTotal;
@@ -128,4 +130,17 @@ public class Partido {
 
 		return this.sigla + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + fraseCandidatoEleito;
 	}
+
+	public int getCandidatosPorIdade (int limIdadeMin, int limIdadeMax, LocalDate data) {
+		int idadeCandidatos = 0;
+
+		for (Candidato c: this.candidatos) {
+			int idade = c.getIdade(data);
+			if (limIdadeMin <= idade && idade < limIdadeMax && c.ehEleito())
+				idadeCandidatos++;
+		}
+
+		return idadeCandidatos;
+	}
 }
+
