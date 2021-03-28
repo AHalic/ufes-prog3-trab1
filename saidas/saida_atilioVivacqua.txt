@@ -1,0 +1,62 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - RENAN COELHO CORREA / RENAN CORREA (REPUBLICANOS, 441 votos)
+2 - ROMERIO GOMES DIAS / ROMERO DO ESPORTE (DEM, 401 votos)
+3 - MARIO SERGIO FRANÇA BRITO / MARIO BRITO (PSB, 292 votos)
+4 - LAURO NASCIMENTO TOSTA / LAURINHO DO TAXI (PSB, 277 votos)
+5 - GILCIMAR ROCHA SILVA / GIL DO BARRIGA (DEM, 246 votos)
+6 - SANDRA LÚCIA VENTURY CANZIAN LOPES / SANDRA DO ZÉ LUIZ (DEM, 241 votos)
+7 - THIAGO DELORENCE GAVA / THIAGO GAVA (REPUBLICANOS, 235 votos)
+8 - ROBERTO DA SILVA MELLO / ROBERTO MELO (PT, 217 votos)
+9 - ROBERTO ALEMONGE DE SOUZA / ROBERTO ALEMONGE (PDT, 207 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - RENAN COELHO CORREA / RENAN CORREA (REPUBLICANOS, 441 votos)
+2 - ROMERIO GOMES DIAS / ROMERO DO ESPORTE (DEM, 401 votos)
+3 - MARIO SERGIO FRANÇA BRITO / MARIO BRITO (PSB, 292 votos)
+4 - LAURO NASCIMENTO TOSTA / LAURINHO DO TAXI (PSB, 277 votos)
+5 - GILCIMAR ROCHA SILVA / GIL DO BARRIGA (DEM, 246 votos)
+6 - SANDRA LÚCIA VENTURY CANZIAN LOPES / SANDRA DO ZÉ LUIZ (DEM, 241 votos)
+7 - THIAGO DELORENCE GAVA / THIAGO GAVA (REPUBLICANOS, 235 votos)
+8 - ROBERTO DA SILVA MELLO / ROBERTO MELO (PT, 217 votos)
+9 - ROBERTO ALEMONGE DE SOUZA / ROBERTO ALEMONGE (PDT, 207 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - DEM - 25, 1779 votos (1747 nominais e 32 de legenda), 3 candidatos eleitos
+2 - PSB - 40, 1303 votos (1278 nominais e 25 de legenda), 2 candidatos eleitos
+3 - REPUBLICANOS - 10, 1236 votos (1110 nominais e 126 de legenda), 2 candidatos eleitos
+4 - PDT - 12, 1126 votos (993 nominais e 133 de legenda), 1 candidato eleito
+5 - PT - 13, 666 votos (652 nominais e 14 de legenda), 1 candidato eleito
+6 - PP - 11, 399 votos (382 nominais e 17 de legenda), 0 candidato eleito
+7 - PSD - 55, 50 votos (41 nominais e 9 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REPUBLICANOS - 10, RENAN CORREA (10999, 441 votos) / DENAIR DAS DORES (10010, 5 votos)
+2 - DEM - 25, ROMERO DO ESPORTE (25700, 401 votos) / TIA ZEZÉ (25100, 7 votos)
+3 - PSB - 40, MARIO BRITO (40123, 292 votos) / JOSI JARDIM (40345, 3 votos)
+4 - PT - 13, ROBERTO MELO (13123, 217 votos) / LUANA TRUGILHO (13456, 10 votos)
+5 - PDT - 12, ROBERTO ALEMONGE (12345, 207 votos) / ALEX DA SEGURANÇA (12006, 5 votos)
+6 - PP - 11, DIOGO POGGIAN (11555, 111 votos) / GRACIONI GERA ROSA LIMA (11200, 1 voto)
+7 - PSD - 55, IZAAC BIG DOG (55333, 26 votos) / LUCIANO DO CONSELHO (55222, 1 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    6559
+Total de votos nominais:   6203 (94,57%)
+Total de votos de Legenda: 356 (5,43%)

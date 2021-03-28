@@ -1,0 +1,66 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ORLANDO ALVES DOS SANTOS NETTO / NANDO (PTB, 622 votos)
+2 - ODÉLIO APARECIDO PAULISTA / ODÉLIO COCÓ (PSDB, 399 votos)
+3 - NATAL ANTÔNIO CASAGRANDE / TOIZINHO PONTÃO (SOLIDARIEDADE, 330 votos)
+4 - ALVARO JOSÉ FALCÃO / ALVARO FALCÃO (MDB, 300 votos)
+5 - ADEMIR MACHADO / ADEMIR MACHADO (REPUBLICANOS, 287 votos)
+6 - CAMILO ADOLFO BUCHER / CAMILO ADOLFO (PSDB, 282 votos)
+7 - LUIZ MANHANI FILHO / LUIZ MANHANI (REPUBLICANOS, 241 votos)
+8 - GELSON LUIS GOBBO / GELSON GOBBO (PSB, 204 votos)
+9 - CLAUDISMAR BUSS / LICO BUSS (SOLIDARIEDADE, 163 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ORLANDO ALVES DOS SANTOS NETTO / NANDO (PTB, 622 votos)
+2 - ODÉLIO APARECIDO PAULISTA / ODÉLIO COCÓ (PSDB, 399 votos)
+3 - NATAL ANTÔNIO CASAGRANDE / TOIZINHO PONTÃO (SOLIDARIEDADE, 330 votos)
+4 - ALVARO JOSÉ FALCÃO / ALVARO FALCÃO (MDB, 300 votos)
+5 - ADEMIR MACHADO / ADEMIR MACHADO (REPUBLICANOS, 287 votos)
+6 - CAMILO ADOLFO BUCHER / CAMILO ADOLFO (PSDB, 282 votos)
+7 - SONIA ZANETTI BAZILIO DE SOUZA / SONIA BAZILIO (PSDB, 274 votos)
+8 - ÁTILA LAMBERTI GUMES / ÁTILA (PSDB, 257 votos)
+9 - LUIZ MANHANI FILHO / LUIZ MANHANI (REPUBLICANOS, 241 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - SONIA ZANETTI BAZILIO DE SOUZA / SONIA BAZILIO (PSDB, 274 votos)
+8 - ÁTILA LAMBERTI GUMES / ÁTILA (PSDB, 257 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSDB - 45, 1771 votos (1745 nominais e 26 de legenda), 2 candidatos eleitos
+2 - REPUBLICANOS - 10, 1559 votos (1371 nominais e 188 de legenda), 2 candidatos eleitos
+3 - SOLIDARIEDADE - 77, 1455 votos (1442 nominais e 13 de legenda), 2 candidatos eleitos
+4 - PTB - 14, 1273 votos (1253 nominais e 20 de legenda), 1 candidato eleito
+5 - MDB - 15, 1227 votos (1082 nominais e 145 de legenda), 1 candidato eleito
+6 - PSB - 40, 659 votos (635 nominais e 24 de legenda), 1 candidato eleito
+7 - PSC - 20, 535 votos (525 nominais e 10 de legenda), 0 candidato eleito
+8 - PP - 11, 172 votos (146 nominais e 26 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PTB - 14, NANDO (14000, 622 votos) / MARQUINHO DO HOTDOG (14567, 0 voto)
+2 - PSDB - 45, ODÉLIO COCÓ (45789, 399 votos) / NEIDE (45444, 12 votos)
+3 - SOLIDARIEDADE - 77, TOIZINHO PONTÃO (77777, 330 votos) / CELMA MONTEIRO (77567, 4 votos)
+4 - MDB - 15, ALVARO FALCÃO (15223, 300 votos) / DRA NEILA OLIVEIRA (15200, 6 votos)
+5 - REPUBLICANOS - 10, ADEMIR MACHADO (10666, 287 votos) / ARLETE (10789, 12 votos)
+6 - PSB - 40, GELSON GOBBO (40123, 204 votos) / NETTE MANSK (40654, 5 votos)
+7 - PSC - 20, DADA (20555, 175 votos) / MAX LEANDRO (20567, 2 votos)
+8 - PP - 11, ALEMÃO DO GRIMPINO (11444, 29 votos) / ROSANGELA LOMEU (11113, 5 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 1 (11,11%)
+60 <= Idade     : 4 (44,44%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    8651
+Total de votos nominais:   8199 (94,78%)
+Total de votos de Legenda: 452 (5,22%)

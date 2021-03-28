@@ -1,0 +1,86 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - WELTON DE JESUS PAIVA / WELTON PEZÃO (CIDADANIA, 573 votos)
+2 - CLEOMAR SOARES DE SOUZA / CLEOMAR DA VILA FERNANDES (CIDADANIA, 571 votos)
+3 - ANDERSON ELER / ANDERSON ENFERMEIRO (CIDADANIA, 362 votos)
+4 - EDVAN SILVA ALVES / EDVAN (PSB, 352 votos)
+5 - JANETE BINDACO AKISASKI SILVA / JANETE AKISASKI (PSD, 349 votos)
+6 - WALAS FAZOLO DE SOUZA / WALAS FAZOLO (PTB, 315 votos)
+7 - PABLO RENAN DO NASCIMENTO PEREIRA / PABLO RENAN (PL, 296 votos)
+8 - LUCAS PAULO GAGNO NASCIMENTO / LUCAS SÁ (PDT, 255 votos)
+9 - EVALDO RODRIGUES DOS SANTOS / NEM DO VILA NOVA (PMN, 251 votos)
+10 - DIEGO PASCOALINI FERNANDES / DIEGO PASCOALINI (PTB, 239 votos)
+11 - JOAO JORGE GARCIA SOUSA / JÔ GARCIA (PC DO B, 223 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - WELTON DE JESUS PAIVA / WELTON PEZÃO (CIDADANIA, 573 votos)
+2 - CLEOMAR SOARES DE SOUZA / CLEOMAR DA VILA FERNANDES (CIDADANIA, 571 votos)
+3 - ANDERSON ELER / ANDERSON ENFERMEIRO (CIDADANIA, 362 votos)
+4 - EDVAN SILVA ALVES / EDVAN (PSB, 352 votos)
+5 - JANETE BINDACO AKISASKI SILVA / JANETE AKISASKI (PSD, 349 votos)
+6 - AROLDO GONCALVES PEREIRA / AROLDO DO SOBRADO (PSB, 347 votos)
+7 - WALAS FAZOLO DE SOUZA / WALAS FAZOLO (PTB, 315 votos)
+8 - MARINETE ZAMPROGNO ZIVIANI / MARINETE DA EDUCAÇÃO (PSB, 313 votos)
+9 - PABLO RENAN DO NASCIMENTO PEREIRA / PABLO RENAN (PL, 296 votos)
+10 - ILDERICO GONÇALVES SILVA / DERICÃO (PSD, 274 votos)
+11 - IVAN DOMINGOS SILVESTRE / IVAN DA SAÚDE (PSB, 265 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - AROLDO GONCALVES PEREIRA / AROLDO DO SOBRADO (PSB, 347 votos)
+8 - MARINETE ZAMPROGNO ZIVIANI / MARINETE DA EDUCAÇÃO (PSB, 313 votos)
+10 - ILDERICO GONÇALVES SILVA / DERICÃO (PSD, 274 votos)
+11 - IVAN DOMINGOS SILVESTRE / IVAN DA SAÚDE (PSB, 265 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - DIEGO PASCOALINI FERNANDES / DIEGO PASCOALINI (PTB, 239 votos)
+17 - JOAO JORGE GARCIA SOUSA / JÔ GARCIA (PC DO B, 223 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 2415 votos (2168 nominais e 247 de legenda), 3 candidatos eleitos
+2 - PTB - 14, 1820 votos (1647 nominais e 173 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 1558 votos (1540 nominais e 18 de legenda), 1 candidato eleito
+4 - PMN - 33, 1492 votos (1462 nominais e 30 de legenda), 1 candidato eleito
+5 - PL - 22, 1031 votos (1010 nominais e 21 de legenda), 1 candidato eleito
+6 - PSD - 55, 918 votos (893 nominais e 25 de legenda), 1 candidato eleito
+7 - PDT - 12, 853 votos (802 nominais e 51 de legenda), 1 candidato eleito
+8 - PC do B - 65, 849 votos (845 nominais e 4 de legenda), 1 candidato eleito
+9 - PSDB - 45, 735 votos (719 nominais e 16 de legenda), 0 candidato eleito
+10 - AVANTE - 70, 638 votos (619 nominais e 19 de legenda), 0 candidato eleito
+11 - PMB - 35, 500 votos (497 nominais e 3 de legenda), 0 candidato eleito
+12 - PT - 13, 231 votos (219 nominais e 12 de legenda), 0 candidato eleito
+13 - PRTB - 28, 100 votos (92 nominais e 8 de legenda), 0 candidato eleito
+14 - REPUBLICANOS - 10, 15 votos (11 nominais e 4 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, WELTON PEZÃO (23000, 573 votos) / FABRICIA MOTA (23321, 1 voto)
+2 - PSB - 40, EDVAN (40123, 352 votos) / TIÃO CEARENSE (40111, 15 votos)
+3 - PSD - 55, JANETE AKISASKI (55555, 349 votos) / HELIO DE ZETE (55888, 8 votos)
+4 - PTB - 14, WALAS FAZOLO (14000, 315 votos) / OLIVIA DUTRA (14500, 0 voto)
+5 - PL - 22, PABLO RENAN (22789, 296 votos) / GRAÇA PARAIBANA (22444, 10 votos)
+6 - PDT - 12, LUCAS SÁ (12345, 255 votos) / PROFESSOR ZEZINHO (12376, 6 votos)
+7 - PSDB - 45, MARCELINHO DE EFILINTRO (45678, 255 votos) / VANUZA MARTIMS (45888, 0 voto)
+8 - PMN - 33, NEM DO VILA NOVA (33111, 251 votos) / JORGE DO PINHEIRINHO (33777, 10 votos)
+9 - PC do B - 65, JÔ GARCIA (65123, 223 votos) / RITA DE CÁSSIA (65613, 23 votos)
+10 - PMB - 35, CLEIBER (35555, 161 votos) / LUIZA DO BAR (35000, 30 votos)
+11 - AVANTE - 70, ZOI (70456, 135 votos) / DELEI DO PINHEIRINHO (70144, 6 votos)
+12 - PT - 13, DEYVITH DA CIVIL (13000, 55 votos) / SONIA SOARES (13444, 15 votos)
+13 - PRTB - 28, ALEXANDRE DO SOM (28123, 38 votos) / VALÉRIA MUNIZ (28888, 21 votos)
+14 - REPUBLICANOS - 10, DAZINHO FERNANDES (10444, 11 votos) / DAZINHO FERNANDES (10444, 11 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 8 (72,73%)
+40 <= Idade < 50: 1 (9,09%)
+50 <= Idade < 60: 2 (18,18%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    13155
+Total de votos nominais:   12524 (95,20%)
+Total de votos de Legenda: 631 (4,80%)

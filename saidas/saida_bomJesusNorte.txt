@@ -1,0 +1,72 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - CHARLES CARLOS DINIZ VIEIRA / CHARLES DINIZ (PSD, 416 votos)
+2 - ROMEU LOPES DE SOUZA / ROMEU DA AUTO ESCOLA (PSDB, 328 votos)
+3 - ALEXANDER DE SOUZA PREPETA / XANDÃO MUDANÇAS (PSD, 301 votos)
+4 - FLAVIO BERNARDES MASCARENHAS / TIQUINHO (SOLIDARIEDADE, 252 votos)
+5 - LUIZ ANTONIO MORAES DA SILVA / LUIZ MORAES (DEM, 251 votos)
+6 - FERNANDO CARVALHO DE OLIVEIRA / FERNANDO BROA (PSDB, 248 votos)
+7 - JOSE LUIZ AGUIAR GUIMARÂES / ZELAU (SOLIDARIEDADE, 245 votos)
+8 - IZAIAS CAMPOS BAPTISTA / IZAIAS BAPTISTA (PV, 116 votos)
+9 - RODRIGO VIEIRA SOBRAL / RODRIGO SOBRAL (PP, 86 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - CHARLES CARLOS DINIZ VIEIRA / CHARLES DINIZ (PSD, 416 votos)
+2 - ROMEU LOPES DE SOUZA / ROMEU DA AUTO ESCOLA (PSDB, 328 votos)
+3 - ALEXANDER DE SOUZA PREPETA / XANDÃO MUDANÇAS (PSD, 301 votos)
+4 - PEDRO GOMES DA SILVEIRA / PEDRINHO ENFERMEIRO (PSD, 289 votos)
+5 - FLAVIO BERNARDES MASCARENHAS / TIQUINHO (SOLIDARIEDADE, 252 votos)
+6 - LUIZ ANTONIO MORAES DA SILVA / LUIZ MORAES (DEM, 251 votos)
+7 - FERNANDO CARVALHO DE OLIVEIRA / FERNANDO BROA (PSDB, 248 votos)
+8 - JOSE LUIZ AGUIAR GUIMARÂES / ZELAU (SOLIDARIEDADE, 245 votos)
+9 - CARLOS ALBERTO DOS SANTOS ZANON / BETO ZANON (PSDB, 199 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - PEDRO GOMES DA SILVEIRA / PEDRINHO ENFERMEIRO (PSD, 289 votos)
+9 - CARLOS ALBERTO DOS SANTOS ZANON / BETO ZANON (PSDB, 199 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 1090 votos (1018 nominais e 72 de legenda), 2 candidatos eleitos
+2 - SOLIDARIEDADE - 77, 890 votos (879 nominais e 11 de legenda), 2 candidatos eleitos
+3 - PSDB - 45, 874 votos (864 nominais e 10 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 790 votos (778 nominais e 12 de legenda), 1 candidato eleito
+5 - PV - 43, 682 votos (677 nominais e 5 de legenda), 1 candidato eleito
+6 - PP - 11, 506 votos (458 nominais e 48 de legenda), 1 candidato eleito
+7 - PMN - 33, 384 votos (308 nominais e 76 de legenda), 0 candidato eleito
+8 - PATRIOTA - 51, 218 votos (209 nominais e 9 de legenda), 0 candidato eleito
+9 - REPUBLICANOS - 10, 180 votos (176 nominais e 4 de legenda), 0 candidato eleito
+10 - PSB - 40, 166 votos (160 nominais e 6 de legenda), 0 candidato eleito
+11 - PDT - 12, 101 votos (87 nominais e 14 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, CHARLES DINIZ (55222, 416 votos) / EUNICE LA BAMBA (55877, 1 voto)
+2 - PSDB - 45, ROMEU DA AUTO ESCOLA (45123, 328 votos) / FABIO BAPTISTA (45222, 1 voto)
+3 - SOLIDARIEDADE - 77, TIQUINHO (77000, 252 votos) / ANDRESSA CASTANHEIRA (77555, 4 votos)
+4 - DEM - 25, LUIZ MORAES (25025, 251 votos) / DALIANA DE AGUIAR (25111, 4 votos)
+5 - PV - 43, IZAIAS BAPTISTA (43555, 116 votos) / SILVIO DO TAXI (43225, 8 votos)
+6 - PP - 11, RODRIGO SOBRAL (11444, 86 votos) / ROBERTO ROTEMBOURG (11255, 4 votos)
+7 - PMN - 33, SEBASTIAO PANÃO (33800, 78 votos) / ADÃO DO POSTO (33111, 5 votos)
+8 - PSB - 40, JOÃOZINHO DA JB MÓVEIS (40000, 78 votos) / SILVIO LOUVIZ (40222, 3 votos)
+9 - PATRIOTA - 51, ALEX DELATORRE (51123, 62 votos) / ALE SILVA (51444, 3 votos)
+10 - REPUBLICANOS - 10, CLOVIS (10123, 53 votos) / JORGE ASSAD (10888, 3 votos)
+11 - PDT - 12, PALETA (12555, 40 votos) / WALLACE PACHECO (12112, 1 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 3 (33,33%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    5881
+Total de votos nominais:   5614 (95,46%)
+Total de votos de Legenda: 267 (4,54%)

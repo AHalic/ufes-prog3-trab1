@@ -1,0 +1,69 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - PAULO CESAR DE OLIVEIRA / PAULINHO (REPUBLICANOS, 268 votos)
+2 - ANA BEATRIZ RANGEL GOMES MOUTINHO / ANA BEATRIZ (PDT, 224 votos)
+3 - IVANILDO MENDES DE OLIVEIRA / IVANILDO MENDES (PL, 211 votos)
+4 - DIEGO PEDROSA DE SOUZA / DIEGO DO BETINHO (PV, 192 votos)
+5 - ADELINO GONÇALVES MENDES / PORÉ (PP, 176 votos)
+6 - FABIANO BASILIO ZANARDI / FABIANO ZANARDI (PL, 176 votos)
+7 - ANGELA MARIA HENRIQUES / ANGELA DA SAÚDE (PP, 159 votos)
+8 - ÉDERSON PINTOR / ÉDERSON PINTOR (REPUBLICANOS, 154 votos)
+9 - MARIO LUCIO RIBEIRO MARQUES / MARIO LUCIO (PT, 133 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - PAULO CESAR DE OLIVEIRA / PAULINHO (REPUBLICANOS, 268 votos)
+2 - ANA BEATRIZ RANGEL GOMES MOUTINHO / ANA BEATRIZ (PDT, 224 votos)
+3 - IVANILDO MENDES DE OLIVEIRA / IVANILDO MENDES (PL, 211 votos)
+4 - VILMAR ARAUJO DE OLIVEIRA / VILMAR (PDT, 211 votos)
+5 - DIEGO PEDROSA DE SOUZA / DIEGO DO BETINHO (PV, 192 votos)
+6 - ADELINO GONÇALVES MENDES / PORÉ (PP, 176 votos)
+7 - FABIANO BASILIO ZANARDI / FABIANO ZANARDI (PL, 176 votos)
+8 - ANGELA MARIA HENRIQUES / ANGELA DA SAÚDE (PP, 159 votos)
+9 - ÉDERSON PINTOR / ÉDERSON PINTOR (REPUBLICANOS, 154 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - VILMAR ARAUJO DE OLIVEIRA / VILMAR (PDT, 211 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - REPUBLICANOS - 10, 782 votos (771 nominais e 11 de legenda), 2 candidatos eleitos
+2 - PL - 22, 777 votos (769 nominais e 8 de legenda), 2 candidatos eleitos
+3 - PP - 11, 695 votos (625 nominais e 70 de legenda), 2 candidatos eleitos
+4 - PDT - 12, 656 votos (591 nominais e 65 de legenda), 1 candidato eleito
+5 - PV - 43, 539 votos (459 nominais e 80 de legenda), 1 candidato eleito
+6 - PT - 13, 421 votos (408 nominais e 13 de legenda), 1 candidato eleito
+7 - PMN - 33, 342 votos (325 nominais e 17 de legenda), 0 candidato eleito
+8 - MDB - 15, 305 votos (267 nominais e 38 de legenda), 0 candidato eleito
+9 - PSB - 40, 266 votos (264 nominais e 2 de legenda), 0 candidato eleito
+10 - PTB - 14, 85 votos (60 nominais e 25 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REPUBLICANOS - 10, PAULINHO (10123, 268 votos) / RONILSON MADEIRA (10555, 7 votos)
+2 - PDT - 12, ANA BEATRIZ (12222, 224 votos) / LUANA (12555, 7 votos)
+3 - PL - 22, IVANILDO MENDES (22000, 211 votos) / VANIA MOURA (22485, 8 votos)
+4 - PV - 43, DIEGO DO BETINHO (43333, 192 votos) / NENZINHA (43111, 2 votos)
+5 - PP - 11, PORÉ (11234, 176 votos) / JUAREZ MESTRE JOJO (11345, 5 votos)
+6 - PT - 13, MARIO LUCIO (13130, 133 votos) / DIANA SODRÉ (13100, 3 votos)
+7 - PMN - 33, CESINHA MECANICO (33555, 122 votos) / MAURO MOREIRA (33777, 7 votos)
+8 - PSB - 40, AFONSO (40123, 64 votos) / MAURICIO BARBOSA (40456, 1 voto)
+9 - MDB - 15, LEANDRO GURUBÉIA (15015, 60 votos) / MARCIANO (15115, 5 votos)
+10 - PTB - 14, TIAGO TEQUINHA (14567, 19 votos) / TEREZA DIAS (14300, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 3 (33,33%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 1 (11,11%)
+50 <= Idade < 60: 1 (11,11%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    4868
+Total de votos nominais:   4539 (93,24%)
+Total de votos de Legenda: 329 (6,76%)

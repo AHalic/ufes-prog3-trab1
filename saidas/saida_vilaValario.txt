@@ -1,0 +1,68 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - FRANKNEI JOSIMAR BRUMATTI / FRANK BRUMATTI (CIDADANIA, 786 votos)
+2 - KLEBER RODRIGUES DE OLIVEIRA / KLEBER RODRIGUES (REPUBLICANOS, 447 votos)
+3 - ADILSON RODRIGUES PEREIRA / ADILSON MOTOS (CIDADANIA, 434 votos)
+4 - RENATO SCHMIDT / RENATO SCHMIDT (CIDADANIA, 345 votos)
+5 - ROBSON CORREIA / ROBIM CANELA (PSB, 344 votos)
+6 - DARCY RIBEIRO DOS SANTOS / DARCY RIBEIRO (REPUBLICANOS, 327 votos)
+7 - IARLY MENEGUELLI / IARLY MENEGUELLI (PSDB, 273 votos)
+8 - ADILSON GELTNER / ADILSON DA VIDRAÇARIA (PT, 266 votos)
+9 - LUIZ INACIO LAUERS / LUIZ DA VENDA (DEM, 200 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - FRANKNEI JOSIMAR BRUMATTI / FRANK BRUMATTI (CIDADANIA, 786 votos)
+2 - KLEBER RODRIGUES DE OLIVEIRA / KLEBER RODRIGUES (REPUBLICANOS, 447 votos)
+3 - ADILSON RODRIGUES PEREIRA / ADILSON MOTOS (CIDADANIA, 434 votos)
+4 - RENATO SCHMIDT / RENATO SCHMIDT (CIDADANIA, 345 votos)
+5 - ROBSON CORREIA / ROBIM CANELA (PSB, 344 votos)
+6 - DARCY RIBEIRO DOS SANTOS / DARCY RIBEIRO (REPUBLICANOS, 327 votos)
+7 - NEUCI JOSÉ VIAL / NELSO VIAL (REPUBLICANOS, 308 votos)
+8 - LUCIANO TETZNER / LUCIANO TETZNER (CIDADANIA, 304 votos)
+9 - ADENILSON ROSA NEVES / DENILSON ROSA (CIDADANIA, 282 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - NEUCI JOSÉ VIAL / NELSO VIAL (REPUBLICANOS, 308 votos)
+8 - LUCIANO TETZNER / LUCIANO TETZNER (CIDADANIA, 304 votos)
+9 - ADENILSON ROSA NEVES / DENILSON ROSA (CIDADANIA, 282 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - LUIZ INACIO LAUERS / LUIZ DA VENDA (DEM, 200 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 3037 votos (2871 nominais e 166 de legenda), 3 candidatos eleitos
+2 - REPUBLICANOS - 10, 1824 votos (1801 nominais e 23 de legenda), 2 candidatos eleitos
+3 - DEM - 25, 1079 votos (1054 nominais e 25 de legenda), 1 candidato eleito
+4 - PSDB - 45, 1055 votos (1018 nominais e 37 de legenda), 1 candidato eleito
+5 - PSB - 40, 857 votos (842 nominais e 15 de legenda), 1 candidato eleito
+6 - PT - 13, 806 votos (786 nominais e 20 de legenda), 1 candidato eleito
+7 - PP - 11, 742 votos (587 nominais e 155 de legenda), 0 candidato eleito
+8 - SOLIDARIEDADE - 77, 444 votos (431 nominais e 13 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, FRANK BRUMATTI (23333, 786 votos) / IVANETE AGENTE DE SAUDE (23444, 15 votos)
+2 - REPUBLICANOS - 10, KLEBER RODRIGUES (10900, 447 votos) / SIDINEIA (10987, 8 votos)
+3 - PSB - 40, ROBIM CANELA (40100, 344 votos) / RAUL SCHMIDT (40369, 5 votos)
+4 - PSDB - 45, IARLY MENEGUELLI (45112, 273 votos) / REGIANE (45566, 4 votos)
+5 - PT - 13, ADILSON DA VIDRAÇARIA (13300, 266 votos) / JERRIM (13200, 12 votos)
+6 - SOLIDARIEDADE - 77, NEGÃO MERENCIO (77777, 230 votos) / MIRTA BATISTA (77246, 7 votos)
+7 - DEM - 25, LUIZ DA VENDA (25222, 200 votos) / LUZIA SANTANA (25225, 2 votos)
+8 - PP - 11, GUINHO (11000, 130 votos) / FABRICIO GINELI (11123, 5 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 5 (55,56%)
+50 <= Idade < 60: 0 (,00%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    9844
+Total de votos nominais:   9390 (95,39%)
+Total de votos de Legenda: 454 (4,61%)

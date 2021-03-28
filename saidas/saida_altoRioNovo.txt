@@ -1,0 +1,60 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - SÉRGIO PAULO DE OLIVEIRA BENFICA / SERGINHO (MDB, 486 votos)
+2 - ALEXANDRO DE MELO VALIM / ALEXANDRO DA PADARIA (PP, 380 votos)
+3 - ANDRÉ LUIZ DE FARIA / ANDRÉ FARIA (PRTB, 329 votos)
+4 - OBEDES DIAS RIBEIRO / OBEDES DIAS RIBEIRO (MDB, 293 votos)
+5 - ASTROGILDO NETO CRISTO / BIDIM CRISTO (PRTB, 238 votos)
+6 - ARILTO BARROS DE OLIVEIRA / ARILTO BARROS (MDB, 189 votos)
+7 - RILDO ALVES RODRIGUES / RILDO RODRIGUES (MDB, 178 votos)
+8 - FRANCISCO MENEGUCCI DE SOUZA / FRANCISCO CHIQUINHO (PODE, 169 votos)
+9 - DANIELY BORCHARDT DE OLIVEIRA / DANI DO NANIN (PSDB, 155 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - SÉRGIO PAULO DE OLIVEIRA BENFICA / SERGINHO (MDB, 486 votos)
+2 - ALEXANDRO DE MELO VALIM / ALEXANDRO DA PADARIA (PP, 380 votos)
+3 - ANDRÉ LUIZ DE FARIA / ANDRÉ FARIA (PRTB, 329 votos)
+4 - OBEDES DIAS RIBEIRO / OBEDES DIAS RIBEIRO (MDB, 293 votos)
+5 - ASTROGILDO NETO CRISTO / BIDIM CRISTO (PRTB, 238 votos)
+6 - ARILTO BARROS DE OLIVEIRA / ARILTO BARROS (MDB, 189 votos)
+7 - RILDO ALVES RODRIGUES / RILDO RODRIGUES (MDB, 178 votos)
+8 - FRANCISCO MENEGUCCI DE SOUZA / FRANCISCO CHIQUINHO (PODE, 169 votos)
+9 - DANIELY BORCHARDT DE OLIVEIRA / DANI DO NANIN (PSDB, 155 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - MDB - 15, 1827 votos (1688 nominais e 139 de legenda), 4 candidatos eleitos
+2 - PRTB - 28, 817 votos (802 nominais e 15 de legenda), 2 candidatos eleitos
+3 - PP - 11, 797 votos (753 nominais e 44 de legenda), 1 candidato eleito
+4 - PODE - 19, 662 votos (602 nominais e 60 de legenda), 1 candidato eleito
+5 - PSDB - 45, 431 votos (410 nominais e 21 de legenda), 1 candidato eleito
+6 - PMN - 33, 197 votos (193 nominais e 4 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - MDB - 15, SERGINHO (15555, 486 votos) / GILMAR PROCÓPIO (15678, 14 votos)
+2 - PP - 11, ALEXANDRO DA PADARIA (11222, 380 votos) / ERICA DO TIÃO PEITO LARGO (11789, 10 votos)
+3 - PRTB - 28, ANDRÉ FARIA (28888, 329 votos) / ELIDA  - LEMOÍCA (28333, 7 votos)
+4 - PODE - 19, FRANCISCO CHIQUINHO (19000, 169 votos) / MARTA MIRANDA (19500, 40 votos)
+5 - PSDB - 45, DANI DO NANIN (45045, 155 votos) / ELIETE (45333, 3 votos)
+6 - PMN - 33, MAXUEL (33000, 79 votos) / BENICIO HUK (33444, 6 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 5 (55,56%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 1 (11,11%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    4731
+Total de votos nominais:   4448 (94,02%)
+Total de votos de Legenda: 283 (5,98%)

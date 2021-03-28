@@ -1,0 +1,82 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - LUCIARA FERREIRA DA SILVA / CIARA DA PESCA (PSDB, 658 votos)
+2 - ANDRÉ CLAUDINO ALVES / ANDRÉ DA RADIO (PDT, 569 votos)
+3 - CAMILA APARECIDA RODRIGUES PEREIRA FIGUEIREDO / CAMILA ENFERMEIRA (PL, 535 votos)
+4 - JOSE LUIZ VASCONCELOS / ZÉ LUIZ DO CAMINHÃO (PMN, 491 votos)
+5 - LEANDRO PARANAGUÁ ALBUQUERQUE / LEANDRO DO ESTALEIRO (CIDADANIA, 449 votos)
+6 - ROSENILDA SIMOES BISPO / NILDE DE SANTANA (PT, 439 votos)
+7 - JORNANDES FERREIRA ARAÚJO / JORNANDES (PTB, 418 votos)
+8 - ISAQUE MAIA ELOI / ISAQUE MAIA (PTB, 384 votos)
+9 - WERKS LUIZ BOA / WERKINHO (CIDADANIA, 354 votos)
+10 - AMAURI GOMES JANUÁRIO / AMAURI PROFESSOR (PSC, 338 votos)
+11 - NIVALDO DA CRUZ FERREIRA / NIVALDO DA SANTA RITA (PROS, 265 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - LUCIARA FERREIRA DA SILVA / CIARA DA PESCA (PSDB, 658 votos)
+2 - ANDRÉ CLAUDINO ALVES / ANDRÉ DA RADIO (PDT, 569 votos)
+3 - CAMILA APARECIDA RODRIGUES PEREIRA FIGUEIREDO / CAMILA ENFERMEIRA (PL, 535 votos)
+4 - JOSE LUIZ VASCONCELOS / ZÉ LUIZ DO CAMINHÃO (PMN, 491 votos)
+5 - LEANDRO PARANAGUÁ ALBUQUERQUE / LEANDRO DO ESTALEIRO (CIDADANIA, 449 votos)
+6 - ROSENILDA SIMOES BISPO / NILDE DE SANTANA (PT, 439 votos)
+7 - JORNANDES FERREIRA ARAÚJO / JORNANDES (PTB, 418 votos)
+8 - ISAQUE MAIA ELOI / ISAQUE MAIA (PTB, 384 votos)
+9 - WERKS LUIZ BOA / WERKINHO (CIDADANIA, 354 votos)
+10 - AMAURI GOMES JANUÁRIO / AMAURI PROFESSOR (PSC, 338 votos)
+11 - LEANDRO SANTOS DAS DORES / LEANDRO SANTOS (PMN, 334 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+11 - LEANDRO SANTOS DAS DORES / LEANDRO SANTOS (PMN, 334 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - NIVALDO DA CRUZ FERREIRA / NIVALDO DA SANTA RITA (PROS, 265 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PTB - 14, 2342 votos (2081 nominais e 261 de legenda), 2 candidatos eleitos
+2 - CIDADANIA - 23, 1990 votos (1965 nominais e 25 de legenda), 2 candidatos eleitos
+3 - PSC - 20, 1693 votos (1673 nominais e 20 de legenda), 1 candidato eleito
+4 - PMN - 33, 1677 votos (1631 nominais e 46 de legenda), 1 candidato eleito
+5 - PT - 13, 1309 votos (1216 nominais e 93 de legenda), 1 candidato eleito
+6 - PL - 22, 1226 votos (1197 nominais e 29 de legenda), 1 candidato eleito
+7 - PROS - 90, 1199 votos (1181 nominais e 18 de legenda), 1 candidato eleito
+8 - PDT - 12, 1181 votos (1153 nominais e 28 de legenda), 1 candidato eleito
+9 - PSDB - 45, 864 votos (838 nominais e 26 de legenda), 1 candidato eleito
+10 - PP - 11, 749 votos (723 nominais e 26 de legenda), 0 candidato eleito
+11 - PRTB - 28, 388 votos (375 nominais e 13 de legenda), 0 candidato eleito
+12 - PSL - 17, 327 votos (318 nominais e 9 de legenda), 0 candidato eleito
+13 - PSD - 55, 262 votos (259 nominais e 3 de legenda), 0 candidato eleito
+14 - PSOL - 50, 102 votos (99 nominais e 3 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSDB - 45, CIARA DA PESCA (45000, 658 votos) / GEOVANI DA COBRAICE (45123, 3 votos)
+2 - PDT - 12, ANDRÉ DA RADIO (12333, 569 votos) / JÊ (12212, 3 votos)
+3 - PL - 22, CAMILA ENFERMEIRA (22123, 535 votos) / ANA DA TABACARIA (22260, 10 votos)
+4 - PMN - 33, ZÉ LUIZ DO CAMINHÃO (33456, 491 votos) / NAIARA BARCELOS (33222, 3 votos)
+5 - CIDADANIA - 23, LEANDRO DO ESTALEIRO (23456, 449 votos) / CARLOS SOSSAI (23111, 2 votos)
+6 - PT - 13, NILDE DE SANTANA (13333, 439 votos) / MARTA COUTO (13555, 10 votos)
+7 - PTB - 14, JORNANDES (14444, 418 votos) / ELIZABETE BRITO (14321, 5 votos)
+8 - PSC - 20, AMAURI PROFESSOR (20100, 338 votos) / EVANILDES (20500, 2 votos)
+9 - PROS - 90, NIVALDO DA SANTA RITA (90222, 265 votos) / VANIA DA SAYONARA (90444, 15 votos)
+10 - PP - 11, MAMÁ (11999, 202 votos) / OLINDA DAHER (11456, 22 votos)
+11 - PRTB - 28, EDSON FAGUNDES LEMOS (28333, 141 votos) / BARTOLOMEU (28000, 2 votos)
+12 - PSD - 55, LEO DO ESPORTE (55555, 136 votos) / SERGIO HISTORIADOR (55128, 2 votos)
+13 - PSOL - 50, JOELMA LOPES (50800, 65 votos) / ROBERTO CLARINDO (50500, 14 votos)
+14 - PSL - 17, MAX DE SOUZA (17222, 61 votos) / IDIZIO NOTA 10 (17010, 10 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 4 (36,36%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 3 (27,27%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  3 (27,27%)
+Masculino: 8 (72,73%)
+
+Total de votos válidos:    15309
+Total de votos nominais:   14709 (96,08%)
+Total de votos de Legenda: 600 (3,92%)

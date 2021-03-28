@@ -1,0 +1,59 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - SEBASTIÃO NIVALDO ALVES / CAROLA (CIDADANIA, 352 votos)
+2 - ANTÔNIO RAIMUNDO OLIVEIRA AMARAL / TONINHO ZOREIA (CIDADANIA, 320 votos)
+3 - GUSTAVO TAVARES OLIVEIRA / PROFESSOR GUGU (CIDADANIA, 320 votos)
+4 - ANGELO NUNES OTAVIANO / ANGELO OTAVIANO (PSB, 272 votos)
+5 - BRUNO VIANA MOREIRA / BRUNO DA SAÚDE (REPUBLICANOS, 270 votos)
+6 - RAIMUNDO FERREIRA MAGALHÃES / RAIMUNDO MAGALHÃES (REPUBLICANOS, 217 votos)
+7 - MARINALDO DA SILVA FARIA / MARINALDO (CIDADANIA, 200 votos)
+8 - JEFFERSON LAGARES OLIVEIRA / JEFINHO (PSB, 163 votos)
+9 - NELSON RAMOS FILHO / NELSINHO BRISA (DEM, 159 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - SEBASTIÃO NIVALDO ALVES / CAROLA (CIDADANIA, 352 votos)
+2 - ANTÔNIO RAIMUNDO OLIVEIRA AMARAL / TONINHO ZOREIA (CIDADANIA, 320 votos)
+3 - GUSTAVO TAVARES OLIVEIRA / PROFESSOR GUGU (CIDADANIA, 320 votos)
+4 - ANGELO NUNES OTAVIANO / ANGELO OTAVIANO (PSB, 272 votos)
+5 - BRUNO VIANA MOREIRA / BRUNO DA SAÚDE (REPUBLICANOS, 270 votos)
+6 - RAIMUNDO FERREIRA MAGALHÃES / RAIMUNDO MAGALHÃES (REPUBLICANOS, 217 votos)
+7 - MARINALDO DA SILVA FARIA / MARINALDO (CIDADANIA, 200 votos)
+8 - THIAGO LOPES PESSOTTI / THIAGUINHO (CIDADANIA, 185 votos)
+9 - JEFFERSON LAGARES OLIVEIRA / JEFINHO (PSB, 163 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - THIAGO LOPES PESSOTTI / THIAGUINHO (CIDADANIA, 185 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 1965 votos (1807 nominais e 158 de legenda), 4 candidatos eleitos
+2 - REPUBLICANOS - 10, 1002 votos (976 nominais e 26 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 914 votos (906 nominais e 8 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 855 votos (832 nominais e 23 de legenda), 1 candidato eleito
+5 - PSD - 55, 78 votos (73 nominais e 5 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, CAROLA (23023, 352 votos) / LIVIA MORETI (23300, 14 votos)
+2 - PSB - 40, ANGELO OTAVIANO (40789, 272 votos) / MARCELINO LANTERNEIRO (40444, 12 votos)
+3 - REPUBLICANOS - 10, BRUNO DA SAÚDE (10555, 270 votos) / LANINHA CARRERO (10444, 4 votos)
+4 - DEM - 25, NELSINHO BRISA (25000, 159 votos) / ADILSON CARIOCA (25431, 4 votos)
+5 - PSD - 55, CHICO DA MADALENA (55123, 53 votos) / CIDA (55333, 10 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    4814
+Total de votos nominais:   4594 (95,43%)
+Total de votos de Legenda: 220 (4,57%)

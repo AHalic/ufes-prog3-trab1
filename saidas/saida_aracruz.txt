@@ -1,0 +1,111 @@
+Número de vagas: 17
+
+Vereadores eleitos:
+1 - VILSON BENEDITO DE OLIVEIRA / VILSON JAGUARETÉ (PT, 1325 votos)
+2 - ALCIHELIO LIMA DE NEGREIROS / CECEU (PTC, 1192 votos)
+3 - ANDRE CARLESSO / ANDREZINHO CARLESSO (PP, 946 votos)
+4 - ALEXANDRE FERREIRA MANHÂES / ALEXANDRE MANHÂES (REPUBLICANOS, 944 votos)
+5 - JOSE GOMES DOS SANTOS / LULA (DC, 935 votos)
+6 - LEANDRO RODRIGUES PEREIRA / LÉO PEREIRA (DEM, 926 votos)
+7 - SEBASTIÃO SFALSIN DO NASCIMENTO / TIÃO CORNÉLIO (REPUBLICANOS, 892 votos)
+8 - ADRIANA GUIMARÕES MACHADO / ADRIANA GUIMARÃES (REPUBLICANOS, 881 votos)
+9 - ETIENNE COUTINHO MUSSO / ETIENNE COUTINHO MUSSO (CIDADANIA, 830 votos)
+10 - LUIZ CARLOS MATHIAS CARLOS / CARLINHOS MATHIAS (PTC, 759 votos)
+11 - CARLOS ANDRE FRANÇA DE SOUZA / PAIM (REPUBLICANOS, 750 votos)
+12 - JEAN CARLOS GRATZ PEDRINI / JEAN PEDRINI (CIDADANIA, 678 votos)
+13 - ARTEMIO NUNES ROSSONI / ARTEMIO ROSSONI (PSB, 641 votos)
+14 - ELIOMAR ANTONIO ROSSATO / BIBI ROSSATO (PSL, 614 votos)
+15 - CARLOS ALBERTO PEREIRA VIEIRA / CARLITO CANDIN (SOLIDARIEDADE, 565 votos)
+16 - ROBERTO DOS REIS RANGEL / ROBERTO RANGEL (PODE, 548 votos)
+17 - MARCELO CABRAL SEVERINO / MARCELO NENA (PSD, 383 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - VILSON BENEDITO DE OLIVEIRA / VILSON JAGUARETÉ (PT, 1325 votos)
+2 - ALCIHELIO LIMA DE NEGREIROS / CECEU (PTC, 1192 votos)
+3 - ANDRE CARLESSO / ANDREZINHO CARLESSO (PP, 946 votos)
+4 - ALEXANDRE FERREIRA MANHÂES / ALEXANDRE MANHÂES (REPUBLICANOS, 944 votos)
+5 - JOSE GOMES DOS SANTOS / LULA (DC, 935 votos)
+6 - LEANDRO RODRIGUES PEREIRA / LÉO PEREIRA (DEM, 926 votos)
+7 - SEBASTIÃO SFALSIN DO NASCIMENTO / TIÃO CORNÉLIO (REPUBLICANOS, 892 votos)
+8 - ADRIANA GUIMARÕES MACHADO / ADRIANA GUIMARÃES (REPUBLICANOS, 881 votos)
+9 - ETIENNE COUTINHO MUSSO / ETIENNE COUTINHO MUSSO (CIDADANIA, 830 votos)
+10 - LUIZ CARLOS MATHIAS CARLOS / CARLINHOS MATHIAS (PTC, 759 votos)
+11 - CARLOS ANDRE FRANÇA DE SOUZA / PAIM (REPUBLICANOS, 750 votos)
+12 - EMANUEL DELGADO DA SILVA / KAPITÃO (REPUBLICANOS, 694 votos)
+13 - RENATO PEREIRA SOBRINHO / RENATO  (DC, 690 votos)
+14 - JEAN CARLOS GRATZ PEDRINI / JEAN PEDRINI (CIDADANIA, 678 votos)
+15 - ADEIR ANTONIO LOZER / ADEIR DO GÁS (REPUBLICANOS, 672 votos)
+16 - ANTONIO DE SOUZA PIRES / ANTONIO PIRES (PTC, 651 votos)
+17 - ARTEMIO NUNES ROSSONI / ARTEMIO ROSSONI (PSB, 641 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+12 - EMANUEL DELGADO DA SILVA / KAPITÃO (REPUBLICANOS, 694 votos)
+13 - RENATO PEREIRA SOBRINHO / RENATO  (DC, 690 votos)
+15 - ADEIR ANTONIO LOZER / ADEIR DO GÁS (REPUBLICANOS, 672 votos)
+16 - ANTONIO DE SOUZA PIRES / ANTONIO PIRES (PTC, 651 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - ARTEMIO NUNES ROSSONI / ARTEMIO ROSSONI (PSB, 641 votos)
+18 - ELIOMAR ANTONIO ROSSATO / BIBI ROSSATO (PSL, 614 votos)
+23 - CARLOS ALBERTO PEREIRA VIEIRA / CARLITO CANDIN (SOLIDARIEDADE, 565 votos)
+27 - ROBERTO DOS REIS RANGEL / ROBERTO RANGEL (PODE, 548 votos)
+39 - MARCELO CABRAL SEVERINO / MARCELO NENA (PSD, 383 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - REPUBLICANOS - 10, 7897 votos (7806 nominais e 91 de legenda), 4 candidatos eleitos
+2 - PTC - 36, 4604 votos (4566 nominais e 38 de legenda), 2 candidatos eleitos
+3 - CIDADANIA - 23, 4101 votos (3559 nominais e 542 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 3859 votos (3795 nominais e 64 de legenda), 1 candidato eleito
+5 - PP - 11, 3183 votos (3106 nominais e 77 de legenda), 1 candidato eleito
+6 - SOLIDARIEDADE - 77, 3052 votos (2918 nominais e 134 de legenda), 1 candidato eleito
+7 - PSD - 55, 2680 votos (2263 nominais e 417 de legenda), 1 candidato eleito
+8 - DC - 27, 2493 votos (2459 nominais e 34 de legenda), 1 candidato eleito
+9 - PSB - 40, 2362 votos (2328 nominais e 34 de legenda), 1 candidato eleito
+10 - PSL - 17, 2327 votos (2278 nominais e 49 de legenda), 1 candidato eleito
+11 - PT - 13, 2298 votos (2219 nominais e 79 de legenda), 1 candidato eleito
+12 - PODE - 19, 2179 votos (2151 nominais e 28 de legenda), 1 candidato eleito
+13 - REDE - 18, 1819 votos (1786 nominais e 33 de legenda), 0 candidato eleito
+14 - PC do B - 65, 1815 votos (1797 nominais e 18 de legenda), 0 candidato eleito
+15 - PRTB - 28, 1560 votos (1343 nominais e 217 de legenda), 0 candidato eleito
+16 - PMN - 33, 1092 votos (1058 nominais e 34 de legenda), 0 candidato eleito
+17 - PATRIOTA - 51, 709 votos (704 nominais e 5 de legenda), 0 candidato eleito
+18 - PDT - 12, 281 votos (114 nominais e 167 de legenda), 0 candidato eleito
+19 - PSDB - 45, 108 votos (89 nominais e 19 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PT - 13, VILSON JAGUARETÉ (13000, 1325 votos) / NALDINHO (13133, 2 votos)
+2 - PTC - 36, CECEU (36036, 1192 votos) / INDIA SALES (36219, 0 voto)
+3 - PP - 11, ANDREZINHO CARLESSO (11456, 946 votos) / MASSARICO (11148, 25 votos)
+4 - REPUBLICANOS - 10, ALEXANDRE MANHÂES (10100, 944 votos) / SIMONE (10001, 20 votos)
+5 - DC - 27, LULA (27888, 935 votos) / ANDREIA BUENO (27127, 1 voto)
+6 - DEM - 25, LÉO PEREIRA (25123, 926 votos) / ROSIANE (25008, 4 votos)
+7 - CIDADANIA - 23, ETIENNE COUTINHO MUSSO (23007, 830 votos) / ELIANE SOUZA (23250, 19 votos)
+8 - PSB - 40, ARTEMIO ROSSONI (40567, 641 votos) / BETE ZATTA (40158, 18 votos)
+9 - PSL - 17, BIBI ROSSATO (17360, 614 votos) / CIDA CINDERELA (17190, 2 votos)
+10 - REDE - 18, ELIZEU COSTA (18000, 594 votos) / DETINHA PESCADORA (18999, 1 voto)
+11 - SOLIDARIEDADE - 77, CARLITO CANDIN (77444, 565 votos) / MAURIELEM CYRILLO (77765, 0 voto)
+12 - PC do B - 65, FÁBIO NETTO (65333, 552 votos) / MARIANA SILVA (65777, 4 votos)
+13 - PODE - 19, ROBERTO RANGEL (19000, 548 votos) / SÔNIA (19019, 0 voto)
+14 - PSD - 55, MARCELO NENA (55678, 383 votos) / LUAN MORO (55000, 2 votos)
+15 - PMN - 33, LUIZINHO (33123, 301 votos) / MARCILENE NETO (33033, 1 voto)
+16 - PRTB - 28, EDIMAR CASTIGLIONI (28123, 266 votos) / SILVIO JOSÉ RODRIGUES  (28789, 0 voto)
+17 - PATRIOTA - 51, GENÉSIO PINTO (51777, 200 votos) / ANA LÍDIA (51111, 4 votos)
+18 - PDT - 12, TIÃO BARBOSA (12200, 54 votos) / OSÂNIA ANDRADE (12222, 24 votos)
+19 - PSDB - 45, FRANZ CARLOS (45678, 29 votos) / BRUNO CASOTTO (45555, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 5 (29,41%)
+40 <= Idade < 50: 6 (35,29%)
+50 <= Idade < 60: 6 (35,29%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  2 (11,76%)
+Masculino: 15 (88,24%)
+
+Total de votos válidos:    48419
+Total de votos nominais:   46339 (95,70%)
+Total de votos de Legenda: 2080 (4,30%)

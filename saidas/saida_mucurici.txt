@@ -1,0 +1,61 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ERNESTO BRUNORO COUTO / ERNESTO COUTO (MDB, 459 votos)
+2 - ELIANE VIEIRA SILVA RAMOS / ELIANA (PSB, 214 votos)
+3 - REINALDO ALVES SANTOS / REINALDO DO ESPORTE (PSB, 206 votos)
+4 - LUIZ MARCIO ALMEIDA ROCHA / MARCIO  ROCHA (MDB, 201 votos)
+5 - ROMARIO ALVES DA SILVA / ROMARIO (PSB, 197 votos)
+6 - OTÁVIO SANTOS DE SOUZA / OTÁVIO (PSL, 195 votos)
+7 - RONALDO DE SOUZA FAGUNDES / RONALDO DA OFICINA (PP, 174 votos)
+8 - GERSON BISPO DE OLIVEIRA / GELSINHO DA SAÚDE (PP, 151 votos)
+9 - RICARDO MOTA SOUZA / RICARDO (MDB, 101 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ERNESTO BRUNORO COUTO / ERNESTO COUTO (MDB, 459 votos)
+2 - ELIANE VIEIRA SILVA RAMOS / ELIANA (PSB, 214 votos)
+3 - REINALDO ALVES SANTOS / REINALDO DO ESPORTE (PSB, 206 votos)
+4 - LUIZ MARCIO ALMEIDA ROCHA / MARCIO  ROCHA (MDB, 201 votos)
+5 - ROMARIO ALVES DA SILVA / ROMARIO (PSB, 197 votos)
+6 - ALEX DE JESUS SOUZA / ALEX (PSB, 196 votos)
+7 - OTÁVIO SANTOS DE SOUZA / OTÁVIO (PSL, 195 votos)
+8 - EDIR DIAS LOPES / CABO LOPES (PSL, 178 votos)
+9 - RONALDO DE SOUZA FAGUNDES / RONALDO DA OFICINA (PP, 174 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - ALEX DE JESUS SOUZA / ALEX (PSB, 196 votos)
+8 - EDIR DIAS LOPES / CABO LOPES (PSL, 178 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - RICARDO MOTA SOUZA / RICARDO (MDB, 101 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 1146 votos (1070 nominais e 76 de legenda), 3 candidatos eleitos
+2 - MDB - 15, 1103 votos (1017 nominais e 86 de legenda), 3 candidatos eleitos
+3 - PP - 11, 917 votos (894 nominais e 23 de legenda), 2 candidatos eleitos
+4 - PSL - 17, 728 votos (715 nominais e 13 de legenda), 1 candidato eleito
+5 - PT - 13, 170 votos (159 nominais e 11 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - MDB - 15, ERNESTO COUTO (15000, 459 votos) / ROSANGELA DE JESUS (15222, 2 votos)
+2 - PSB - 40, ELIANA (40999, 214 votos) / ELIENE (40456, 99 votos)
+3 - PSL - 17, OTÁVIO (17123, 195 votos) / NEIDE PROFESSORA (17915, 8 votos)
+4 - PP - 11, RONALDO DA OFICINA (11222, 174 votos) / SONIA (11123, 0 voto)
+5 - PT - 13, IVANILSON (13333, 114 votos) / ANA MARIA (13444, 13 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 4 (44,44%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    4064
+Total de votos nominais:   3855 (94,86%)
+Total de votos de Legenda: 209 (5,14%)

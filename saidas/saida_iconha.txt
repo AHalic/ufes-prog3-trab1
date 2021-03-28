@@ -1,0 +1,63 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - GABRIELA DONATELI / GABRIELA DONATELI (PRTB, 990 votos)
+2 - SAMUEL COELHO NOGAROLLI / SAMUEL NOGAROLLI (PRTB, 470 votos)
+3 - MARCELO LOVATI MACARINI / MARCELO LOVATI MACARINI (PSB, 425 votos)
+4 - FABIO LOPES DALBOM / FABIO DALBOM (REDE, 381 votos)
+5 - ALESSANDRO GOMES DE MELO / ALESSANDRO GOMES (PMN, 364 votos)
+6 - JOSE ALBERTO VALIATI / ZÉ ALBERTO VALIATI (MDB, 324 votos)
+7 - VITOR MARTINS CAPRINI / VITOR CAPRINI (REPUBLICANOS, 298 votos)
+8 - EDIANA CARLA CURITIBA / EDIANA DA SAÚDE (PSB, 294 votos)
+9 - ALESSANDRA PAGANINI LOURENCINI / ALESSANDRA PAGANINI LOURENCINI (REPUBLICANOS, 273 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - GABRIELA DONATELI / GABRIELA DONATELI (PRTB, 990 votos)
+2 - SAMUEL COELHO NOGAROLLI / SAMUEL NOGAROLLI (PRTB, 470 votos)
+3 - MARCELO LOVATI MACARINI / MARCELO LOVATI MACARINI (PSB, 425 votos)
+4 - FABIO LOPES DALBOM / FABIO DALBOM (REDE, 381 votos)
+5 - ALESSANDRO GOMES DE MELO / ALESSANDRO GOMES (PMN, 364 votos)
+6 - JOSE ALBERTO VALIATI / ZÉ ALBERTO VALIATI (MDB, 324 votos)
+7 - VITOR MARTINS CAPRINI / VITOR CAPRINI (REPUBLICANOS, 298 votos)
+8 - EDIANA CARLA CURITIBA / EDIANA DA SAÚDE (PSB, 294 votos)
+9 - MOISES PINTO MARCHIORI / MOISES MARCHIORI (REDE, 277 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+9 - MOISES PINTO MARCHIORI / MOISES MARCHIORI (REDE, 277 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PRTB - 28, 2200 votos (2089 nominais e 111 de legenda), 2 candidatos eleitos
+2 - REPUBLICANOS - 10, 1796 votos (1695 nominais e 101 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 1490 votos (1479 nominais e 11 de legenda), 2 candidatos eleitos
+4 - REDE - 18, 1371 votos (1353 nominais e 18 de legenda), 1 candidato eleito
+5 - MDB - 15, 905 votos (883 nominais e 22 de legenda), 1 candidato eleito
+6 - PMN - 33, 815 votos (805 nominais e 10 de legenda), 1 candidato eleito
+7 - CIDADANIA - 23, 104 votos (100 nominais e 4 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PRTB - 28, GABRIELA DONATELI (28123, 990 votos) / PERLA (28888, 20 votos)
+2 - PSB - 40, MARCELO LOVATI MACARINI (40123, 425 votos) / EVANDRO ENFERMEIRO (40444, 6 votos)
+3 - REDE - 18, FABIO DALBOM (18123, 381 votos) / RENATA ANHOLETTI (18081, 15 votos)
+4 - PMN - 33, ALESSANDRO GOMES (33333, 364 votos) / IGOR FERRARI (33321, 9 votos)
+5 - MDB - 15, ZÉ ALBERTO VALIATI (15677, 324 votos) / LUZIA CARLETTI (15555, 6 votos)
+6 - REPUBLICANOS - 10, VITOR CAPRINI (10789, 298 votos) / ZÉ DA ÉGUA (10111, 15 votos)
+7 - CIDADANIA - 23, IAN JHEIME (23333, 41 votos) / LOLA (23111, 10 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 4 (44,44%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  3 (33,33%)
+Masculino: 6 (66,67%)
+
+Total de votos válidos:    8681
+Total de votos nominais:   8404 (96,81%)
+Total de votos de Legenda: 277 (3,19%)

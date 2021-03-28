@@ -1,0 +1,83 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - JOSÉ SOPRIANO MERÇON / MERÇON (DEM, 849 votos)
+2 - EDUARDO SILVA FERNANDES / DUDU (AVANTE, 791 votos)
+3 - ROMAR AZEVEDO MENDES / ROMAR (SOLIDARIEDADE, 703 votos)
+4 - WILLIAN ANGELETE BESTETE / WILLIAN BESTETE (REPUBLICANOS, 618 votos)
+5 - SEBASTIÃO LINO SALARDANI / TOTOCA (DEM, 573 votos)
+6 - ALEXANDRE DUARTE VENÂNCIO / XODÓ (PDT, 481 votos)
+7 - ROMILTON POLASTRELI / ITA (SOLIDARIEDADE, 444 votos)
+8 - FÁBIO BRAGANÇA POLASTRELI / FABINHO DO CAMINHÃO DO LIXO (AVANTE, 387 votos)
+9 - CARLOS RENATO VIANA / RENATO VIANA (PL, 386 votos)
+10 - GILMAR SILVA DE MATTOS / GILMAR MATTOS (AVANTE, 379 votos)
+11 - TAIZA GARCIA VARGAS PIROVANI / TAIZA GARCIA (AVANTE, 363 votos)
+12 - MAURÍCIO DE OLIVEIRA CORREA / MAURÍCIO DA SAÚDE (PL, 341 votos)
+13 - SEBASTIÃO CLÁUDIO SOBREIRA / CLAUDIO SOBREIRA (REPUBLICANOS, 317 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JOSÉ SOPRIANO MERÇON / MERÇON (DEM, 849 votos)
+2 - EDUARDO SILVA FERNANDES / DUDU (AVANTE, 791 votos)
+3 - ROMAR AZEVEDO MENDES / ROMAR (SOLIDARIEDADE, 703 votos)
+4 - WILLIAN ANGELETE BESTETE / WILLIAN BESTETE (REPUBLICANOS, 618 votos)
+5 - SEBASTIÃO LINO SALARDANI / TOTOCA (DEM, 573 votos)
+6 - ALEXANDRE DUARTE VENÂNCIO / XODÓ (PDT, 481 votos)
+7 - ROMILTON POLASTRELI / ITA (SOLIDARIEDADE, 444 votos)
+8 - ROSA MARIA JACINTO DA SILVA / ROSA CARRERO (PDT, 399 votos)
+9 - FÁBIO BRAGANÇA POLASTRELI / FABINHO DO CAMINHÃO DO LIXO (AVANTE, 387 votos)
+10 - CARLOS RENATO VIANA / RENATO VIANA (PL, 386 votos)
+11 - EMERSON GOMES ALVES / MOSCA (SOLIDARIEDADE, 380 votos)
+12 - GILMAR SILVA DE MATTOS / GILMAR MATTOS (AVANTE, 379 votos)
+13 - THEO ALVES DA ROCHA / THEO ROCHA (PSB, 375 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - ROSA MARIA JACINTO DA SILVA / ROSA CARRERO (PDT, 399 votos)
+11 - EMERSON GOMES ALVES / MOSCA (SOLIDARIEDADE, 380 votos)
+13 - THEO ALVES DA ROCHA / THEO ROCHA (PSB, 375 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - MAURÍCIO DE OLIVEIRA CORREA / MAURÍCIO DA SAÚDE (PL, 341 votos)
+17 - SEBASTIÃO CLÁUDIO SOBREIRA / CLAUDIO SOBREIRA (REPUBLICANOS, 317 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - AVANTE - 70, 3822 votos (3774 nominais e 48 de legenda), 4 candidatos eleitos
+2 - SOLIDARIEDADE - 77, 2478 votos (2167 nominais e 311 de legenda), 2 candidatos eleitos
+3 - DEM - 25, 2446 votos (2244 nominais e 202 de legenda), 2 candidatos eleitos
+4 - PL - 22, 1965 votos (1930 nominais e 35 de legenda), 2 candidatos eleitos
+5 - REPUBLICANOS - 10, 1872 votos (1851 nominais e 21 de legenda), 2 candidatos eleitos
+6 - PDT - 12, 1602 votos (1563 nominais e 39 de legenda), 1 candidato eleito
+7 - PSB - 40, 645 votos (640 nominais e 5 de legenda), 0 candidato eleito
+8 - PTC - 36, 633 votos (622 nominais e 11 de legenda), 0 candidato eleito
+9 - PT - 13, 591 votos (534 nominais e 57 de legenda), 0 candidato eleito
+10 - CIDADANIA - 23, 314 votos (311 nominais e 3 de legenda), 0 candidato eleito
+11 - PSDB - 45, 181 votos (165 nominais e 16 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - DEM - 25, MERÇON (25456, 849 votos) / OSVALDO DA FEIRA (25234, 13 votos)
+2 - AVANTE - 70, DUDU (70999, 791 votos) / CLEIDE DO PULA PULA (70009, 1 voto)
+3 - SOLIDARIEDADE - 77, ROMAR (77111, 703 votos) / THIAGO RUBÊ (77700, 3 votos)
+4 - REPUBLICANOS - 10, WILLIAN BESTETE (10777, 618 votos) / LAYD DAY (10444, 3 votos)
+5 - PDT - 12, XODÓ (12111, 481 votos) / ROSÂNGELA SOBREIRA MAT CONSTRU (12123, 75 votos)
+6 - PL - 22, RENATO VIANA (22456, 386 votos) / SAMARA DA PRAINHA (22113, 5 votos)
+7 - PSB - 40, THEO ROCHA (40123, 375 votos) / ZENI SERAFIM (40100, 0 voto)
+8 - PT - 13, ZIMÁ DOMINGOS (13456, 202 votos) / ELDER DO ALEGRENSE (13123, 22 votos)
+9 - PTC - 36, FABINHO BIBI (36123, 131 votos) / MARIA (36444, 0 voto)
+10 - PSDB - 45, JULIO DA AUTO ESCOLA (45777, 79 votos) / RIQUETH (45045, 0 voto)
+11 - CIDADANIA - 23, JAIRO (23000, 74 votos) / LORUAMA GUEDES (23067, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 1 (7,69%)
+40 <= Idade < 50: 4 (30,77%)
+50 <= Idade < 60: 7 (53,85%)
+60 <= Idade     : 1 (7,69%)
+
+Eleitos, por sexo:
+Feminino:  1 (7,69%)
+Masculino: 12 (92,31%)
+
+Total de votos válidos:    16549
+Total de votos nominais:   15801 (95,48%)
+Total de votos de Legenda: 748 (4,52%)

@@ -1,0 +1,87 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - SUELI ALVES TEODORO / SUELI TEODORO (PC DO B, 604 votos)
+2 - JOSE ROBERTO DA SILVA / JOSÉ ROBERTO (REPUBLICANOS, 545 votos)
+3 - ELIAS FERNANDO MENDES DE ARAÚJO / LIU (PC DO B, 516 votos)
+4 - VARLI QUEIROZ / LICO BORORO (PDT, 501 votos)
+5 - CLOVIS PASCOLAR / CLOVIS PASCOLAR (PMN, 499 votos)
+6 - ALCEBIADES ALVES DE SOUZA NETO / BIDIM (PMN, 484 votos)
+7 - JUSCELINO HENCK / JUSCELINO HENCK (PSD, 462 votos)
+8 - ELISEU SIQUEIRA LIMA / DR ELISEU SIQUEIRA (PSD, 407 votos)
+9 - ALDERINO GONÇALVES VIEIRA FILHO / ALDERINO GONÇALVES (PATRIOTA, 393 votos)
+10 - VALMIR ESTEVÃO DA MOTA / VALMIR MOTA (MDB, 352 votos)
+11 - LEANDRO GOMES DA CRUZ / LEANDRO DA KIMACOL (MDB, 313 votos)
+12 - APRIGIO LUIS RODRIGUES / APRIGIO IBITUBA (SOLIDARIEDADE, 215 votos)
+13 - EDMAR VIEIRA / EDMAR (O PRETO) (REPUBLICANOS, 214 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - SUELI ALVES TEODORO / SUELI TEODORO (PC DO B, 604 votos)
+2 - JOSE ROBERTO DA SILVA / JOSÉ ROBERTO (REPUBLICANOS, 545 votos)
+3 - ELIAS FERNANDO MENDES DE ARAÚJO / LIU (PC DO B, 516 votos)
+4 - VARLI QUEIROZ / LICO BORORO (PDT, 501 votos)
+5 - CLOVIS PASCOLAR / CLOVIS PASCOLAR (PMN, 499 votos)
+6 - ALCEBIADES ALVES DE SOUZA NETO / BIDIM (PMN, 484 votos)
+7 - JUSCELINO HENCK / JUSCELINO HENCK (PSD, 462 votos)
+8 - ERLI TADEU DA SILVA JUNIOR / JUNINHO TADEU (PMN, 443 votos)
+9 - ELISEU SIQUEIRA LIMA / DR ELISEU SIQUEIRA (PSD, 407 votos)
+10 - ALDERINO GONÇALVES VIEIRA FILHO / ALDERINO GONÇALVES (PATRIOTA, 393 votos)
+11 - ALOISIO DOS SANTOS FREIRE / LOLO PEIXEIRO (PATRIOTA, 384 votos)
+12 - VALDECI CACHOEIRO / VALDECI CACHOEIRO (PMN, 370 votos)
+13 - VALMIR ESTEVÃO DA MOTA / VALMIR MOTA (MDB, 352 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - ERLI TADEU DA SILVA JUNIOR / JUNINHO TADEU (PMN, 443 votos)
+11 - ALOISIO DOS SANTOS FREIRE / LOLO PEIXEIRO (PATRIOTA, 384 votos)
+12 - VALDECI CACHOEIRO / VALDECI CACHOEIRO (PMN, 370 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+24 - APRIGIO LUIS RODRIGUES / APRIGIO IBITUBA (SOLIDARIEDADE, 215 votos)
+25 - EDMAR VIEIRA / EDMAR (O PRETO) (REPUBLICANOS, 214 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PMN - 33, 2434 votos (2391 nominais e 43 de legenda), 2 candidatos eleitos
+2 - REPUBLICANOS - 10, 2394 votos (2360 nominais e 34 de legenda), 2 candidatos eleitos
+3 - PC do B - 65, 2236 votos (2196 nominais e 40 de legenda), 2 candidatos eleitos
+4 - MDB - 15, 1942 votos (1893 nominais e 49 de legenda), 2 candidatos eleitos
+5 - PSD - 55, 1899 votos (1856 nominais e 43 de legenda), 2 candidatos eleitos
+6 - SOLIDARIEDADE - 77, 1892 votos (1628 nominais e 264 de legenda), 1 candidato eleito
+7 - PATRIOTA - 51, 1404 votos (1393 nominais e 11 de legenda), 1 candidato eleito
+8 - PDT - 12, 1399 votos (1163 nominais e 236 de legenda), 1 candidato eleito
+9 - PSDB - 45, 853 votos (833 nominais e 20 de legenda), 0 candidato eleito
+10 - PSC - 20, 310 votos (288 nominais e 22 de legenda), 0 candidato eleito
+11 - REDE - 18, 249 votos (245 nominais e 4 de legenda), 0 candidato eleito
+12 - PSB - 40, 194 votos (139 nominais e 55 de legenda), 0 candidato eleito
+13 - AVANTE - 70, 181 votos (169 nominais e 12 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PC do B - 65, SUELI TEODORO (65123, 604 votos) / DONA LOURDES (65258, 14 votos)
+2 - REPUBLICANOS - 10, JOSÉ ROBERTO (10147, 545 votos) / POLACA CALIMAM (10777, 6 votos)
+3 - PDT - 12, LICO BORORO (12789, 501 votos) / GLAUCIA BARBOSA SOUZA (12300, 4 votos)
+4 - PMN - 33, CLOVIS PASCOLAR (33456, 499 votos) / JANE VIEIRA (33257, 3 votos)
+5 - PSD - 55, JUSCELINO HENCK (55789, 462 votos) / TIA BIGAIL (55678, 8 votos)
+6 - PATRIOTA - 51, ALDERINO GONÇALVES (51190, 393 votos) / VANDERLEIA MENDES (51500, 2 votos)
+7 - MDB - 15, VALMIR MOTA (15234, 352 votos) / DIOMAR (MAZINHO) (15999, 3 votos)
+8 - PSDB - 45, CESAR DRAGAO (45123, 243 votos) / MIRIAM DE ANDRADE (45789, 2 votos)
+9 - SOLIDARIEDADE - 77, APRIGIO IBITUBA (77002, 215 votos) / CIDA (77603, 9 votos)
+10 - PSC - 20, CLODOALDO GALÃ (20122, 85 votos) / FELIPE FERREIRA (20222, 2 votos)
+11 - REDE - 18, BRAZ GABLER DA MERCEARIA (18222, 72 votos) / JOÃO PESSOA  LELE (18777, 12 votos)
+12 - PSB - 40, ADEIR IANSEN (40400, 41 votos) / JHENI KELLY (40100, 5 votos)
+13 - AVANTE - 70, CHICÃO (70111, 31 votos) / MARINA BASÍLIO (70999, 6 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 3 (23,08%)
+40 <= Idade < 50: 5 (38,46%)
+50 <= Idade < 60: 5 (38,46%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (7,69%)
+Masculino: 12 (92,31%)
+
+Total de votos válidos:    17387
+Total de votos nominais:   16554 (95,21%)
+Total de votos de Legenda: 833 (4,79%)

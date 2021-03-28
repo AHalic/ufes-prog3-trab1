@@ -1,0 +1,75 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - ELIZEU RIBEIRO DE SOUZA / ELIZEU RIBEIRO (PSB, 765 votos)
+2 - JAIR SANDRINI / JAIR SANDRINI (PSB, 647 votos)
+3 - RICARDO COSTA BARROS / RICARDO BARROS (PP, 594 votos)
+4 - PENHA GROBERIO BETTIM / PENHA BETTIM (DEM, 542 votos)
+5 - VALDEMAR PAIVA SAMPAIO / PROFESSOR TININHA (CIDADANIA, 536 votos)
+6 - PAULO JOSÉ ZANELATO / PAULO ZANELATO (DEM, 470 votos)
+7 - EDSON SEBASTIÃO SOPRANI / TIÃO SOPRANI (CIDADANIA, 462 votos)
+8 - ADEUTER TADEU GABRIEL / TADEU DA FARMÁCIA (PV, 453 votos)
+9 - EDMILSON NUNES DE QUEIROZ / PRETO QUEIROZ (PP, 424 votos)
+10 - JOSE CARLOS ALVES JUNIOR / JÚNIOR ALVES (PODE, 422 votos)
+11 - JEAN FABIO COSTALONGA / PROFESSOR JEAN (CIDADANIA, 323 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ELIZEU RIBEIRO DE SOUZA / ELIZEU RIBEIRO (PSB, 765 votos)
+2 - JAIR SANDRINI / JAIR SANDRINI (PSB, 647 votos)
+3 - RICARDO COSTA BARROS / RICARDO BARROS (PP, 594 votos)
+4 - PENHA GROBERIO BETTIM / PENHA BETTIM (DEM, 542 votos)
+5 - VALDEMAR PAIVA SAMPAIO / PROFESSOR TININHA (CIDADANIA, 536 votos)
+6 - DEJAIR DE SIQUEIRA / FIO SIQUEIRA (PSB, 532 votos)
+7 - PAULO JOSÉ ZANELATO / PAULO ZANELATO (DEM, 470 votos)
+8 - EDSON SEBASTIÃO SOPRANI / TIÃO SOPRANI (CIDADANIA, 462 votos)
+9 - LUIZ CARMO DONDONI / CARMIM DONDONI (DEM, 455 votos)
+10 - ADEUTER TADEU GABRIEL / TADEU DA FARMÁCIA (PV, 453 votos)
+11 - EDMILSON NUNES DE QUEIROZ / PRETO QUEIROZ (PP, 424 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - DEJAIR DE SIQUEIRA / FIO SIQUEIRA (PSB, 532 votos)
+9 - LUIZ CARMO DONDONI / CARMIM DONDONI (DEM, 455 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - JEAN FABIO COSTALONGA / PROFESSOR JEAN (CIDADANIA, 323 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 3096 votos (2696 nominais e 400 de legenda), 3 candidatos eleitos
+2 - PP - 11, 2976 votos (2933 nominais e 43 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 2785 votos (2583 nominais e 202 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 2212 votos (2185 nominais e 27 de legenda), 2 candidatos eleitos
+5 - PV - 43, 2022 votos (1999 nominais e 23 de legenda), 1 candidato eleito
+6 - PODE - 19, 1867 votos (1839 nominais e 28 de legenda), 1 candidato eleito
+7 - REPUBLICANOS - 10, 768 votos (728 nominais e 40 de legenda), 0 candidato eleito
+8 - PSC - 20, 510 votos (492 nominais e 18 de legenda), 0 candidato eleito
+9 - REDE - 18, 112 votos (112 nominais e 0 de legenda), 0 candidato eleito
+10 - PATRIOTA - 51, 67 votos (67 nominais e 0 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, ELIZEU RIBEIRO (40000, 765 votos) / WERCULES (40055, 1 voto)
+2 - PP - 11, RICARDO BARROS (11123, 594 votos) / SUZANA (11487, 0 voto)
+3 - DEM - 25, PENHA BETTIM (25123, 542 votos) / NOEMIA HUPP (25056, 5 votos)
+4 - CIDADANIA - 23, PROFESSOR TININHA (23456, 536 votos) / LARITA BACKER (23666, 10 votos)
+5 - PV - 43, TADEU DA FARMÁCIA (43443, 453 votos) / CEDIENE (43430, 10 votos)
+6 - PODE - 19, JÚNIOR ALVES (19000, 422 votos) / MARLENE MOTTA (19121, 20 votos)
+7 - REPUBLICANOS - 10, KRÂNIO EUDIMARCOS (10400, 190 votos) / PAULO SERGIO (10555, 1 voto)
+8 - PSC - 20, ELIAS DO GÁS (20000, 163 votos) / SANDRA CÔCO (20555, 8 votos)
+9 - REDE - 18, VALDEMIRO CLAUDINO PEREIRA (18000, 57 votos) / ISRAEL (18111, 0 voto)
+10 - PATRIOTA - 51, PASTOR WILLIAN (51123, 37 votos) / NEUZENI SOUZA (51100, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 1 (9,09%)
+40 <= Idade < 50: 5 (45,45%)
+50 <= Idade < 60: 3 (27,27%)
+60 <= Idade     : 2 (18,18%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    16415
+Total de votos nominais:   15634 (95,24%)
+Total de votos de Legenda: 781 (4,76%)

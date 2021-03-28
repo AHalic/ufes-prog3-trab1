@@ -1,0 +1,84 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - ROMILDO CAMPOREZ DA SILVA / INVESTIGADOR CAMPOREZ (MDB, 622 votos)
+2 - HERNANDEZ COELHO VITORASSE / HERNANDEZ COELHO VITORASSE (PSL, 618 votos)
+3 - ROSERENE PAULINO DA SILVA / ROSE (MDB, 589 votos)
+4 - ADEILDE DAVEL DE OLIVEIRA / ADEILDE DAVEL (PODE, 539 votos)
+5 - CARLOS ROBERTO TRISTÃO DE SOUZA / BETO XIXICO (PSB, 504 votos)
+6 - MARCELO BERGER COSTA / MARCELO COSTA (PSB, 444 votos)
+7 - PAULO APARECIDO THEREZA / PAULO APARECIDO (PDT, 405 votos)
+8 - ÉLDO LOPES TOMÉ / ELDO LOPES (PATRIOTA, 374 votos)
+9 - VANILDO KAMPIM / VANILDO TCHUCO (PODE, 365 votos)
+10 - MANOEL MESSIAS TOSTA ABILIO / MANOEL DO TRAILER (PTB, 322 votos)
+11 - HILARIO LINHAUS / PASTOR HILARIO (PSL, 304 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ROMILDO CAMPOREZ DA SILVA / INVESTIGADOR CAMPOREZ (MDB, 622 votos)
+2 - HERNANDEZ COELHO VITORASSE / HERNANDEZ COELHO VITORASSE (PSL, 618 votos)
+3 - ROSERENE PAULINO DA SILVA / ROSE (MDB, 589 votos)
+4 - FRANCISCO BRAGA / BRAGUINHA (MDB, 549 votos)
+5 - ADEILDE DAVEL DE OLIVEIRA / ADEILDE DAVEL (PODE, 539 votos)
+6 - CARLOS ROBERTO TRISTÃO DE SOUZA / BETO XIXICO (PSB, 504 votos)
+7 - MARCELO BERGER COSTA / MARCELO COSTA (PSB, 444 votos)
+8 - PAULO APARECIDO THEREZA / PAULO APARECIDO (PDT, 405 votos)
+9 - ÉLDO LOPES TOMÉ / ELDO LOPES (PATRIOTA, 374 votos)
+10 - ANDERSON GERALDO PAGOTTO DE MOURA / ANDERSON PAGOTTO (PSB, 365 votos)
+11 - VANILDO KAMPIM / VANILDO TCHUCO (PODE, 365 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - FRANCISCO BRAGA / BRAGUINHA (MDB, 549 votos)
+10 - ANDERSON GERALDO PAGOTTO DE MOURA / ANDERSON PAGOTTO (PSB, 365 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - MANOEL MESSIAS TOSTA ABILIO / MANOEL DO TRAILER (PTB, 322 votos)
+18 - HILARIO LINHAUS / PASTOR HILARIO (PSL, 304 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PODE - 19, 2678 votos (2643 nominais e 35 de legenda), 2 candidatos eleitos
+2 - PSB - 40, 2639 votos (2468 nominais e 171 de legenda), 2 candidatos eleitos
+3 - MDB - 15, 2381 votos (2132 nominais e 249 de legenda), 2 candidatos eleitos
+4 - PSL - 17, 2268 votos (2057 nominais e 211 de legenda), 2 candidatos eleitos
+5 - PDT - 12, 2218 votos (2145 nominais e 73 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 1661 votos (1639 nominais e 22 de legenda), 1 candidato eleito
+7 - PTB - 14, 1554 votos (1517 nominais e 37 de legenda), 1 candidato eleito
+8 - PC do B - 65, 590 votos (580 nominais e 10 de legenda), 0 candidato eleito
+9 - REPUBLICANOS - 10, 574 votos (560 nominais e 14 de legenda), 0 candidato eleito
+10 - REDE - 18, 394 votos (363 nominais e 31 de legenda), 0 candidato eleito
+11 - PMN - 33, 347 votos (335 nominais e 12 de legenda), 0 candidato eleito
+12 - PSD - 55, 250 votos (224 nominais e 26 de legenda), 0 candidato eleito
+13 - DC - 27, 123 votos (114 nominais e 9 de legenda), 0 candidato eleito
+14 - PMB - 35, 49 votos (48 nominais e 1 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - MDB - 15, INVESTIGADOR CAMPOREZ (15111, 622 votos) / CÁTIA (15345, 2 votos)
+2 - PSL - 17, HERNANDEZ COELHO VITORASSE (17277, 618 votos) / ADILIO LUIZ (17300, 3 votos)
+3 - PODE - 19, ADEILDE DAVEL (19789, 539 votos) / MARLENE SOUSA FRONTINO (19777, 1 voto)
+4 - PSB - 40, BETO XIXICO (40789, 504 votos) / ZENIL BADARÓ (40400, 15 votos)
+5 - PDT - 12, PAULO APARECIDO (12123, 405 votos) / ESIO MASCARELO (12345, 7 votos)
+6 - PATRIOTA - 51, ELDO LOPES (51333, 374 votos) / ADRIANA VIANA (51888, 1 voto)
+7 - PTB - 14, MANOEL DO TRAILER (14000, 322 votos) / EDIM MINEIRO (14222, 2 votos)
+8 - REPUBLICANOS - 10, KENNEDY LENK (10123, 209 votos) / GÊ (10046, 14 votos)
+9 - PC do B - 65, VANDERLEI KURTH (65173, 199 votos) / MAZINHO DO PULA-PULA (65555, 3 votos)
+10 - PMN - 33, LUCIANO MAGESKI (33333, 166 votos) / TEREZINHA (33444, 0 voto)
+11 - PSD - 55, ADEMAR BUTZKE (55612, 143 votos) / HILDA OTTO (55103, 2 votos)
+12 - REDE - 18, DIESKA PAGOTTO (18888, 101 votos) / PASTORA PATRICIA (18123, 4 votos)
+13 - DC - 27, CELSO EVANGELISTA (27456, 62 votos) / MARLUCIA DA SILVA (27000, 20 votos)
+14 - PMB - 35, DULCE HAMMER (35111, 26 votos) / QUINCAS DA OFICINA (35555, 10 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 1 (9,09%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 4 (36,36%)
+60 <= Idade     : 2 (18,18%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    17726
+Total de votos nominais:   16825 (94,92%)
+Total de votos de Legenda: 901 (5,08%)

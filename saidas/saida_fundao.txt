@@ -1,0 +1,71 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - ROMENIQUE BORGES SIMÕES / ROMENIQUE (CIDADANIA, 533 votos)
+2 - VILCIMAR CORREA / VILCIMAR (PDT, 427 votos)
+3 - FELIX TESCH FRANCISCO / FELIX (REPUBLICANOS, 424 votos)
+4 - SÔNIA LUSIA NEVES RODRIGUES STEINS / SÔNIA PROFESSORA (PATRIOTA, 418 votos)
+5 - PAULO ROBERTO COLE / PAULINHO COLE (CIDADANIA, 389 votos)
+6 - ELOIZIO TADEU RODRIGUES FRAGA / TADEU (PSB, 381 votos)
+7 - AELCIO RODRIGUES PEIXOTO / AELCIO PEIXOTO (PODE, 365 votos)
+8 - JANILTON ALMEIDA DE CARLI / JANILTON DE CARLI (PSB, 350 votos)
+9 - MARSEANDRO AGOSTINI LIMA / SANDRO LIMA (PSD, 289 votos)
+10 - JANDERSON LUIZ SOARES PALTRINIERI / JANDERSON (PODE, 261 votos)
+11 - ANTONIO MARCOS GUILHERMINO / NEGÃO DO BLOCO (REPUBLICANOS, 238 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ROMENIQUE BORGES SIMÕES / ROMENIQUE (CIDADANIA, 533 votos)
+2 - VILCIMAR CORREA / VILCIMAR (PDT, 427 votos)
+3 - FELIX TESCH FRANCISCO / FELIX (REPUBLICANOS, 424 votos)
+4 - SÔNIA LUSIA NEVES RODRIGUES STEINS / SÔNIA PROFESSORA (PATRIOTA, 418 votos)
+5 - PAULO ROBERTO COLE / PAULINHO COLE (CIDADANIA, 389 votos)
+6 - ELOIZIO TADEU RODRIGUES FRAGA / TADEU (PSB, 381 votos)
+7 - FLAVIO XAVIER ALBERTO / PROFESSOR FLÁVIO (PATRIOTA, 367 votos)
+8 - AELCIO RODRIGUES PEIXOTO / AELCIO PEIXOTO (PODE, 365 votos)
+9 - JANILTON ALMEIDA DE CARLI / JANILTON DE CARLI (PSB, 350 votos)
+10 - JOSENIL BORGES ALVES / NINIU (CIDADANIA, 310 votos)
+11 - MOISES PEREIRA DE ALMEIDA / TENENTE PEREIRA (PSB, 291 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - FLAVIO XAVIER ALBERTO / PROFESSOR FLÁVIO (PATRIOTA, 367 votos)
+10 - JOSENIL BORGES ALVES / NINIU (CIDADANIA, 310 votos)
+11 - MOISES PEREIRA DE ALMEIDA / TENENTE PEREIRA (PSB, 291 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 2017 votos (1985 nominais e 32 de legenda), 2 candidatos eleitos
+2 - PSB - 40, 1778 votos (1585 nominais e 193 de legenda), 2 candidatos eleitos
+3 - PODE - 19, 1719 votos (1566 nominais e 153 de legenda), 2 candidatos eleitos
+4 - REPUBLICANOS - 10, 1667 votos (1645 nominais e 22 de legenda), 2 candidatos eleitos
+5 - PDT - 12, 1250 votos (1202 nominais e 48 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 1043 votos (1034 nominais e 9 de legenda), 1 candidato eleito
+7 - PSD - 55, 776 votos (759 nominais e 17 de legenda), 1 candidato eleito
+8 - PSDB - 45, 297 votos (267 nominais e 30 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, ROMENIQUE (23456, 533 votos) / DONA PENHA (23222, 50 votos)
+2 - PDT - 12, VILCIMAR (12345, 427 votos) / CARLA GOMES (12200, 18 votos)
+3 - REPUBLICANOS - 10, FELIX (10900, 424 votos) / RAIMUNDO (10444, 5 votos)
+4 - PATRIOTA - 51, SÔNIA PROFESSORA (51111, 418 votos) / AMANDA SALLES (51094, 2 votos)
+5 - PSB - 40, TADEU (40789, 381 votos) / PAULO DINIZ (40040, 3 votos)
+6 - PODE - 19, AELCIO PEIXOTO (19123, 365 votos) / DADÁ (19567, 4 votos)
+7 - PSD - 55, SANDRO LIMA (55000, 289 votos) / ESTER (55113, 3 votos)
+8 - PSDB - 45, RITA PIMENTEL (45123, 89 votos) / CLOVIS COUTINHO (45777, 6 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (9,09%)
+30 <= Idade < 40: 2 (18,18%)
+40 <= Idade < 50: 3 (27,27%)
+50 <= Idade < 60: 3 (27,27%)
+60 <= Idade     : 2 (18,18%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    10547
+Total de votos nominais:   10043 (95,22%)
+Total de votos de Legenda: 504 (4,78%)

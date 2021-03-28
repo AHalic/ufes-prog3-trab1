@@ -1,0 +1,72 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ANTONIO MARCOS BONIFACIO DE SOUZA / ANTONIO DA SAÚDE (CIDADANIA, 382 votos)
+2 - LEANDRO SANTANA DA SILVA / LEANDRO SANTANA (PDT, 321 votos)
+3 - LUCIANA MARIA DA SILVA / LUCIANA DO POSTO (PV, 265 votos)
+4 - ANTONIO FERREIRA BRUM NETO / NETO (PP, 261 votos)
+5 - JAIRO CUNHA / JAIRO CUNHA (DC, 213 votos)
+6 - DENIS SIMOES DIAS / DENIS DO TAXI (PP, 174 votos)
+7 - ADEMIR ANTONIO CORREA / ADEMIR CORREA (REPUBLICANOS, 163 votos)
+8 - DELURDES DA COSTA MIRANDA / DELURDES (MDB, 154 votos)
+9 - ARLI JOSE DELA COSTA / ARLI DELA COSTA (PDT, 143 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ANTONIO MARCOS BONIFACIO DE SOUZA / ANTONIO DA SAÚDE (CIDADANIA, 382 votos)
+2 - LEANDRO SANTANA DA SILVA / LEANDRO SANTANA (PDT, 321 votos)
+3 - JOSUE JOSE CELIRIO / JOSUE (CIDADANIA, 303 votos)
+4 - LUCIANA MARIA DA SILVA / LUCIANA DO POSTO (PV, 265 votos)
+5 - ANTONIO FERREIRA BRUM NETO / NETO (PP, 261 votos)
+6 - JAIRO CUNHA / JAIRO CUNHA (DC, 213 votos)
+7 - WESLEY DE SOUZA FONSECA / WESLEY FONSECA (PV, 192 votos)
+8 - DENIS SIMOES DIAS / DENIS DO TAXI (PP, 174 votos)
+9 - SEBASTIÃO RAIMUNDO FILHO / TUTU (PV, 173 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+3 - JOSUE JOSE CELIRIO / JOSUE (CIDADANIA, 303 votos)
+7 - WESLEY DE SOUZA FONSECA / WESLEY FONSECA (PV, 192 votos)
+9 - SEBASTIÃO RAIMUNDO FILHO / TUTU (PV, 173 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - ARLI JOSE DELA COSTA / ARLI DELA COSTA (PDT, 143 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PDT - 12, 1404 votos (1184 nominais e 220 de legenda), 2 candidatos eleitos
+2 - PP - 11, 1397 votos (1250 nominais e 147 de legenda), 2 candidatos eleitos
+3 - PV - 43, 1083 votos (1065 nominais e 18 de legenda), 1 candidato eleito
+4 - CIDADANIA - 23, 807 votos (790 nominais e 17 de legenda), 1 candidato eleito
+5 - DC - 27, 713 votos (704 nominais e 9 de legenda), 1 candidato eleito
+6 - MDB - 15, 606 votos (593 nominais e 13 de legenda), 1 candidato eleito
+7 - REPUBLICANOS - 10, 567 votos (552 nominais e 15 de legenda), 1 candidato eleito
+8 - PSL - 17, 490 votos (475 nominais e 15 de legenda), 0 candidato eleito
+9 - PSDB - 45, 170 votos (160 nominais e 10 de legenda), 0 candidato eleito
+10 - PSB - 40, 48 votos (42 nominais e 6 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, ANTONIO DA SAÚDE (23000, 382 votos) / LAUDICEIA DO JORNAL (23222, 6 votos)
+2 - PDT - 12, LEANDRO SANTANA (12000, 321 votos) / MIRTA ROSA (12678, 7 votos)
+3 - PV - 43, LUCIANA DO POSTO (43456, 265 votos) / TIÃO GUEDES (43789, 45 votos)
+4 - PP - 11, NETO (11333, 261 votos) / DINALVA FONSECA (11900, 8 votos)
+5 - DC - 27, JAIRO CUNHA (27777, 213 votos) / PATRICIA CLEMENTINO (27100, 7 votos)
+6 - REPUBLICANOS - 10, ADEMIR CORREA (10234, 163 votos) / SANDRO MAQUINISTA (10521, 16 votos)
+7 - MDB - 15, DELURDES (15123, 154 votos) / TIAO FISCAL (15101, 9 votos)
+8 - PSL - 17, ELIA FLORIANO (17000, 106 votos) / PIPITO (17222, 10 votos)
+9 - PSDB - 45, ERMI DO SO ELIO (45123, 93 votos) / CAMILA SOARES (45789, 6 votos)
+10 - PSB - 40, GERALDINHO (40000, 23 votos) / ROSELANE (40123, 19 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 1 (11,11%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    7285
+Total de votos nominais:   6815 (93,55%)
+Total de votos de Legenda: 470 (6,45%)

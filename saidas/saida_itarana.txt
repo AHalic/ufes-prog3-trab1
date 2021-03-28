@@ -1,0 +1,67 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - FRANCISCO MARTINELLI BERGAMASCHI / CHIQUINHO BERGAMASCHI (REPUBLICANOS, 492 votos)
+2 - EDVAN PIOROTTI DE QUEIROZ / EDVAN QUEIROZ (PMN, 470 votos)
+3 - ILZA JASTROW ARNHOLZ / ILZA JASTROW (PTB, 398 votos)
+4 - BRAZ SIMÃO BALDOTTO FILHO / BRAIZINHO ENFERMEIRO (PMN, 336 votos)
+5 - WARLEY JUNIOR SOBREIRO KRAUZE / WARLEY KRAUZE (PTB, 235 votos)
+6 - CARLOS ROBERTO AGNER / CARLOS AGNER (PMN, 229 votos)
+7 - ODAIR DOMINGOS PINTO DOS SANTOS / ODAIR DA PEDRA ALEGRE (PSB, 176 votos)
+8 - BRUNELLA COLOMBO SANTOS / BRUNELLA (PSDB, 172 votos)
+9 - MARIO KUSTER / MARIO KUSTER (AVANTE, 154 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - FRANCISCO MARTINELLI BERGAMASCHI / CHIQUINHO BERGAMASCHI (REPUBLICANOS, 492 votos)
+2 - EDVAN PIOROTTI DE QUEIROZ / EDVAN QUEIROZ (PMN, 470 votos)
+3 - ILZA JASTROW ARNHOLZ / ILZA JASTROW (PTB, 398 votos)
+4 - BRAZ SIMÃO BALDOTTO FILHO / BRAIZINHO ENFERMEIRO (PMN, 336 votos)
+5 - WARLEY JUNIOR SOBREIRO KRAUZE / WARLEY KRAUZE (PTB, 235 votos)
+6 - CARLOS ROBERTO AGNER / CARLOS AGNER (PMN, 229 votos)
+7 - LINDOMAR FERRARI / LINDOMAR RIZZI FERRARI (REPUBLICANOS, 220 votos)
+8 - GOUTIERRE JASTROW GRINEWALD / GOUTI DO SINDICATO (PTB, 208 votos)
+9 - LUSIA TIBURCIO DA SILVA / LUSIA TIBURCIO (PMN, 198 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - LINDOMAR FERRARI / LINDOMAR RIZZI FERRARI (REPUBLICANOS, 220 votos)
+8 - GOUTIERRE JASTROW GRINEWALD / GOUTI DO SINDICATO (PTB, 208 votos)
+9 - LUSIA TIBURCIO DA SILVA / LUSIA TIBURCIO (PMN, 198 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PMN - 33, 1789 votos (1766 nominais e 23 de legenda), 3 candidatos eleitos
+2 - PTB - 14, 1453 votos (1269 nominais e 184 de legenda), 2 candidatos eleitos
+3 - REPUBLICANOS - 10, 1189 votos (1177 nominais e 12 de legenda), 1 candidato eleito
+4 - PSDB - 45, 882 votos (805 nominais e 77 de legenda), 1 candidato eleito
+5 - PSB - 40, 677 votos (666 nominais e 11 de legenda), 1 candidato eleito
+6 - AVANTE - 70, 618 votos (588 nominais e 30 de legenda), 1 candidato eleito
+7 - PDT - 12, 340 votos (312 nominais e 28 de legenda), 0 candidato eleito
+8 - PT - 13, 173 votos (166 nominais e 7 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REPUBLICANOS - 10, CHIQUINHO BERGAMASCHI (10000, 492 votos) / ERLINDA HAASE (10456, 6 votos)
+2 - PMN - 33, EDVAN QUEIROZ (33456, 470 votos) / CAMARGO (33969, 3 votos)
+3 - PTB - 14, ILZA JASTROW (14500, 398 votos) / TIA GIL (14386, 12 votos)
+4 - PSB - 40, ODAIR DA PEDRA ALEGRE (40222, 176 votos) / PENHA DA RÁDIO (40111, 20 votos)
+5 - PSDB - 45, BRUNELLA (45300, 172 votos) / SONINHA MEDEIROS (45222, 3 votos)
+6 - AVANTE - 70, MARIO KUSTER (70321, 154 votos) / SILENE BLANCK (70123, 10 votos)
+7 - PDT - 12, DEDEU (12123, 107 votos) / KARINA VENTURINI (12333, 20 votos)
+8 - PT - 13, JOSE MARIA CAETANO (13123, 64 votos) / IZAAC DE SANTA TEREZINHA (13000, 11 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 3 (33,33%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    7121
+Total de votos nominais:   6749 (94,78%)
+Total de votos de Legenda: 372 (5,22%)

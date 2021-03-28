@@ -1,0 +1,79 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - SEBASTIAO SARTE FILHO / NEM SARTE (SOLIDARIEDADE, 992 votos)
+2 - CRISTIANO VALPASSO CAMPOS / CRISTIANO VALPASSO (REPUBLICANOS, 726 votos)
+3 - ALCIMAR PERUZINI / MUIÚ (REPUBLICANOS, 630 votos)
+4 - MARCOS MOREIRA ESCARPINI / MARQUINHO JAÚ (PSB, 620 votos)
+5 - SEBASTIÃO RENATO CABRAL / RENATINHO CABRAL (PTB, 597 votos)
+6 - JOSÉ ROBEL LOPES DE VASCONCELOS / ZEZINHO DO ROBEMAR (PMN, 466 votos)
+7 - WELISON MAGNO LEAL PIRES / ROBÔ WELISON PIRES (PSDB, 387 votos)
+8 - CASSIANO MENDES PORCINO / CASSIANO MENDES (CIDADANIA, 355 votos)
+9 - GLORIA TORRES MARQUÊS / GLORINHA DA AREIA BRANCA (SOLIDARIEDADE, 354 votos)
+10 - ALMIR DE SOUZA MENDES / ALMIR DA OFICINA (PSDB, 309 votos)
+11 - WELLINGTON RODRIGUES RIBEIRO / WELLINGTON RIBEIRO (DEM, 232 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - SEBASTIAO SARTE FILHO / NEM SARTE (SOLIDARIEDADE, 992 votos)
+2 - CRISTIANO VALPASSO CAMPOS / CRISTIANO VALPASSO (REPUBLICANOS, 726 votos)
+3 - ALCIMAR PERUZINI / MUIÚ (REPUBLICANOS, 630 votos)
+4 - MARCOS MOREIRA ESCARPINI / MARQUINHO JAÚ (PSB, 620 votos)
+5 - SEBASTIÃO RENATO CABRAL / RENATINHO CABRAL (PTB, 597 votos)
+6 - LUCIANO GONÇALVES BELLOTI / LUCIANO BELLOTI (PSD, 516 votos)
+7 - JOSÉ ROBEL LOPES DE VASCONCELOS / ZEZINHO DO ROBEMAR (PMN, 466 votos)
+8 - WELISON MAGNO LEAL PIRES / ROBÔ WELISON PIRES (PSDB, 387 votos)
+9 - CASSIANO MENDES PORCINO / CASSIANO MENDES (CIDADANIA, 355 votos)
+10 - GLORIA TORRES MARQUÊS / GLORINHA DA AREIA BRANCA (SOLIDARIEDADE, 354 votos)
+11 - DANIEL DO NASCIMENTO / DANIEL CORDEIRO (PMN, 336 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - LUCIANO GONÇALVES BELLOTI / LUCIANO BELLOTI (PSD, 516 votos)
+11 - DANIEL DO NASCIMENTO / DANIEL CORDEIRO (PMN, 336 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+20 - WELLINGTON RODRIGUES RIBEIRO / WELLINGTON RIBEIRO (DEM, 232 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - SOLIDARIEDADE - 77, 2421 votos (2381 nominais e 40 de legenda), 2 candidatos eleitos
+2 - REPUBLICANOS - 10, 2193 votos (1901 nominais e 292 de legenda), 2 candidatos eleitos
+3 - PSDB - 45, 1778 votos (1695 nominais e 83 de legenda), 2 candidatos eleitos
+4 - PSB - 40, 1738 votos (1706 nominais e 32 de legenda), 1 candidato eleito
+5 - PMN - 33, 1637 votos (1600 nominais e 37 de legenda), 1 candidato eleito
+6 - DEM - 25, 1532 votos (1335 nominais e 197 de legenda), 1 candidato eleito
+7 - PTB - 14, 1212 votos (1181 nominais e 31 de legenda), 1 candidato eleito
+8 - CIDADANIA - 23, 1169 votos (1143 nominais e 26 de legenda), 1 candidato eleito
+9 - PSD - 55, 744 votos (726 nominais e 18 de legenda), 0 candidato eleito
+10 - PT - 13, 633 votos (485 nominais e 148 de legenda), 0 candidato eleito
+11 - PRTB - 28, 68 votos (64 nominais e 4 de legenda), 0 candidato eleito
+12 - PODE - 19, 24 votos (16 nominais e 8 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - SOLIDARIEDADE - 77, NEM SARTE (77777, 992 votos) / QUIVIA LIMA (77091, 1 voto)
+2 - REPUBLICANOS - 10, CRISTIANO VALPASSO (10444, 726 votos) / ALINE MANICURE (10700, 7 votos)
+3 - PSB - 40, MARQUINHO JAÚ (40500, 620 votos) / MARILZA (40680, 3 votos)
+4 - PTB - 14, RENATINHO CABRAL (14123, 597 votos) / LUMA DE OLIVEIRA (14250, 9 votos)
+5 - PSD - 55, LUCIANO BELLOTI (55555, 516 votos) / BENEDITA (55615, 1 voto)
+6 - PMN - 33, ZEZINHO DO ROBEMAR (33222, 466 votos) / ROSANGELA (33444, 5 votos)
+7 - PSDB - 45, ROBÔ WELISON PIRES (45222, 387 votos) / JUSSARA FERREIRA (45137, 0 voto)
+8 - CIDADANIA - 23, CASSIANO MENDES (23333, 355 votos) / LICA (23700, 3 votos)
+9 - DEM - 25, WELLINGTON RIBEIRO (25500, 232 votos) / SIMONE NUNES (25111, 13 votos)
+10 - PT - 13, IGOR DO SALÃO (13222, 100 votos) / SARGENTO MAX (13456, 8 votos)
+11 - PRTB - 28, MIRIAN DO LAGEADO (28100, 38 votos) / ELIBERTO SIMONI (28500, 10 votos)
+12 - PODE - 19, JORGE MACHADO (19123, 11 votos) / CHICO DE PONTÕES (19100, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 3 (27,27%)
+40 <= Idade < 50: 3 (27,27%)
+50 <= Idade < 60: 5 (45,45%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    15149
+Total de votos nominais:   14233 (93,95%)
+Total de votos de Legenda: 916 (6,05%)

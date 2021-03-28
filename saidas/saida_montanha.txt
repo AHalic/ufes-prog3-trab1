@@ -1,0 +1,66 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - BRUNO DA SILVA GUIMARÃES / ADORADOR BRUNO GUIMARÃES (PSB, 502 votos)
+2 - ADIVALDO RODRIGUES DE SOUZA / DIVALDIM DA AGRICULTURA (REPUBLICANOS, 470 votos)
+3 - MAINE ALVES BRITO / MAINE BRITO (PSB, 433 votos)
+4 - CLEBIO MACIEL RAULINO / CLEBÃO (PMN, 420 votos)
+5 - CELIA RODRIGUES DE SOUZA / CÉLIA DO POSTO (MDB, 400 votos)
+6 - CARMEN DOLORES RIOS ALMEIDA / CARMINHA (REPUBLICANOS, 361 votos)
+7 - NEILTON WANDERLAN DA SILVA CORTES / ALLAN CÔRTES (MDB, 316 votos)
+8 - ZENILDO PEREIRA XAVIER / ZENILDO DO SINDICATO (PSB, 307 votos)
+9 - LAFAETE VIEIRA ROSA MOREIRA / LAFAETE DO HOSPITAL (PODE, 208 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - BRUNO DA SILVA GUIMARÃES / ADORADOR BRUNO GUIMARÃES (PSB, 502 votos)
+2 - ADIVALDO RODRIGUES DE SOUZA / DIVALDIM DA AGRICULTURA (REPUBLICANOS, 470 votos)
+3 - MAINE ALVES BRITO / MAINE BRITO (PSB, 433 votos)
+4 - CLEBIO MACIEL RAULINO / CLEBÃO (PMN, 420 votos)
+5 - CELIA RODRIGUES DE SOUZA / CÉLIA DO POSTO (MDB, 400 votos)
+6 - CARMEN DOLORES RIOS ALMEIDA / CARMINHA (REPUBLICANOS, 361 votos)
+7 - THEODORO JOSE DE SOUZA / THEODORINHO (REPUBLICANOS, 358 votos)
+8 - LAURA DA SILVA SILVA / LAURA DA SAÚDE (PMN, 338 votos)
+9 - NEILTON WANDERLAN DA SILVA CORTES / ALLAN CÔRTES (MDB, 316 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - THEODORO JOSE DE SOUZA / THEODORINHO (REPUBLICANOS, 358 votos)
+8 - LAURA DA SILVA SILVA / LAURA DA SAÚDE (PMN, 338 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 2482 votos (2249 nominais e 233 de legenda), 3 candidatos eleitos
+2 - REPUBLICANOS - 10, 1856 votos (1662 nominais e 194 de legenda), 2 candidatos eleitos
+3 - MDB - 15, 1637 votos (1599 nominais e 38 de legenda), 2 candidatos eleitos
+4 - PMN - 33, 1508 votos (1467 nominais e 41 de legenda), 1 candidato eleito
+5 - PODE - 19, 1174 votos (1156 nominais e 18 de legenda), 1 candidato eleito
+6 - PT - 13, 727 votos (707 nominais e 20 de legenda), 0 candidato eleito
+7 - PSDB - 45, 673 votos (655 nominais e 18 de legenda), 0 candidato eleito
+8 - PC do B - 65, 130 votos (125 nominais e 5 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, ADORADOR BRUNO GUIMARÃES (40333, 502 votos) / THAYSE RAMALHO (40222, 8 votos)
+2 - REPUBLICANOS - 10, DIVALDIM DA AGRICULTURA (10333, 470 votos) / PATY FIGUEIREDO (10110, 12 votos)
+3 - PMN - 33, CLEBÃO (33333, 420 votos) / NANGUINHA PERIQUITINHO (33222, 23 votos)
+4 - MDB - 15, CÉLIA DO POSTO (15650, 400 votos) / DARIS DA REAL (15123, 42 votos)
+5 - PT - 13, ELSON DO SINDICATO (13123, 299 votos) / MARIA FERNANDES (13999, 6 votos)
+6 - PODE - 19, LAFAETE DO HOSPITAL (19999, 208 votos) / ARLETE CRUZ (19444, 5 votos)
+7 - PSDB - 45, LUCAS BITENCOURT (45678, 204 votos) / SINHA (45111, 0 voto)
+8 - PC do B - 65, ZE CARLOS DO ASSENTAMENTO (65000, 65 votos) / MARLENE DO BAR (65789, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (22,22%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 1 (11,11%)
+50 <= Idade < 60: 4 (44,44%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  3 (33,33%)
+Masculino: 6 (66,67%)
+
+Total de votos válidos:    10187
+Total de votos nominais:   9620 (94,43%)
+Total de votos de Legenda: 567 (5,57%)

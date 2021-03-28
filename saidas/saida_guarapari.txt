@@ -1,0 +1,111 @@
+Número de vagas: 17
+
+Vereadores eleitos:
+1 - ADEMIR JOSÉ GOMES PEREIRA / ZÉ PRETO (PATRIOTA, 1638 votos)
+2 - KAMILLA CARVALHO ROCHA / KAMILLA ROCHA (PTB, 1343 votos)
+3 - ROSANA SILVA DE SOUZA / ROSANA PINHEIRO (CIDADANIA, 1247 votos)
+4 - WENDEL SANT'ANA LIMA / WENDEL LIMA (PTB, 1203 votos)
+5 - OLDAIR ROSSI / OLDAIR ROSSI (DEM, 1188 votos)
+6 - LUCIANO COSTA  LOIOLA BRUNO / PROFESSOR LUCIANO (PDT, 1177 votos)
+7 - FABIO GERALDO MAIO / FABIO VETERINÁRIO (PSB, 1146 votos)
+8 - FRANCISCO DE ASSIS PEREIRA DUARTE / CHICO MÓVEIS (PSDB, 1006 votos)
+9 - DENIZART LUIZ DO NASCIMENTO / DENIZART ZAZÁ (PODE, 939 votos)
+10 - RODRIGO LEMOS BORGES / RODRIGO BORGES (REPUBLICANOS, 819 votos)
+11 - LEONARDO PESSANHA DANTAS / LEO DANTAS (PATRIOTA, 815 votos)
+12 - CARLOS EDUARDO DOS SANTOS NASCIMENTO / DUDU CORRETOR (CIDADANIA, 813 votos)
+13 - MARCELO NASCIMENTO ROSA / MARCELO ROSA (PL, 738 votos)
+14 - SABRINA BUBACH ASTORI / SABRINA ASTORI (DC, 650 votos)
+15 - FRANZ TRISTAO DE ALMEIDA / DR FRANZ (PP, 590 votos)
+16 - MAXWELL JOAO DOS SANTOS JUNIOR / MAX JUNIOR (AVANTE, 581 votos)
+17 - IZAC QUEIROZ DE JESUS / IZAC QUEIROZ (PP, 547 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ADEMIR JOSÉ GOMES PEREIRA / ZÉ PRETO (PATRIOTA, 1638 votos)
+2 - KAMILLA CARVALHO ROCHA / KAMILLA ROCHA (PTB, 1343 votos)
+3 - ROSANA SILVA DE SOUZA / ROSANA PINHEIRO (CIDADANIA, 1247 votos)
+4 - WENDEL SANT'ANA LIMA / WENDEL LIMA (PTB, 1203 votos)
+5 - OLDAIR ROSSI / OLDAIR ROSSI (DEM, 1188 votos)
+6 - LUCIANO COSTA  LOIOLA BRUNO / PROFESSOR LUCIANO (PDT, 1177 votos)
+7 - FABIO GERALDO MAIO / FABIO VETERINÁRIO (PSB, 1146 votos)
+8 - ENIS SOARES DE CARVALHO / ENIS GORDIN (PSB, 1012 votos)
+9 - FRANCISCO DE ASSIS PEREIRA DUARTE / CHICO MÓVEIS (PSDB, 1006 votos)
+10 - DENIZART LUIZ DO NASCIMENTO / DENIZART ZAZÁ (PODE, 939 votos)
+11 - ALEXANDER BIGOSSI / SANDRO BIGOSSI (DEM, 870 votos)
+12 - LENNON MONJARDIM DE ARAÚJO / LENNON MONJARDIM (PODE, 860 votos)
+13 - MARCOS ANTONIO DA SILVA DE  SOUZA GRIJÓ / MARCOS GRIJÓ (PDT, 841 votos)
+14 - RODRIGO LEMOS BORGES / RODRIGO BORGES (REPUBLICANOS, 819 votos)
+15 - LEONARDO PESSANHA DANTAS / LEO DANTAS (PATRIOTA, 815 votos)
+16 - CARLOS EDUARDO DOS SANTOS NASCIMENTO / DUDU CORRETOR (CIDADANIA, 813 votos)
+17 - MARCIAL SOUZA ALMEIDA / DITO XARÉU (PSDB, 757 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - ENIS SOARES DE CARVALHO / ENIS GORDIN (PSB, 1012 votos)
+11 - ALEXANDER BIGOSSI / SANDRO BIGOSSI (DEM, 870 votos)
+12 - LENNON MONJARDIM DE ARAÚJO / LENNON MONJARDIM (PODE, 860 votos)
+13 - MARCOS ANTONIO DA SILVA DE  SOUZA GRIJÓ / MARCOS GRIJÓ (PDT, 841 votos)
+17 - MARCIAL SOUZA ALMEIDA / DITO XARÉU (PSDB, 757 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - CARLOS EDUARDO DOS SANTOS NASCIMENTO / DUDU CORRETOR (CIDADANIA, 813 votos)
+18 - MARCELO NASCIMENTO ROSA / MARCELO ROSA (PL, 738 votos)
+26 - SABRINA BUBACH ASTORI / SABRINA ASTORI (DC, 650 votos)
+29 - FRANZ TRISTAO DE ALMEIDA / DR FRANZ (PP, 590 votos)
+31 - MAXWELL JOAO DOS SANTOS JUNIOR / MAX JUNIOR (AVANTE, 581 votos)
+34 - IZAC QUEIROZ DE JESUS / IZAC QUEIROZ (PP, 547 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 6641 votos (6566 nominais e 75 de legenda), 2 candidatos eleitos
+2 - PTB - 14, 5487 votos (5392 nominais e 95 de legenda), 2 candidatos eleitos
+3 - PATRIOTA - 51, 5164 votos (5104 nominais e 60 de legenda), 2 candidatos eleitos
+4 - PP - 11, 5110 votos (4977 nominais e 133 de legenda), 2 candidatos eleitos
+5 - PSB - 40, 5064 votos (4775 nominais e 289 de legenda), 1 candidato eleito
+6 - AVANTE - 70, 4605 votos (4141 nominais e 464 de legenda), 1 candidato eleito
+7 - PSDB - 45, 4257 votos (3320 nominais e 937 de legenda), 1 candidato eleito
+8 - DEM - 25, 4198 votos (4120 nominais e 78 de legenda), 1 candidato eleito
+9 - PODE - 19, 3933 votos (3887 nominais e 46 de legenda), 1 candidato eleito
+10 - REPUBLICANOS - 10, 3587 votos (3472 nominais e 115 de legenda), 1 candidato eleito
+11 - PDT - 12, 3309 votos (3190 nominais e 119 de legenda), 1 candidato eleito
+12 - PL - 22, 3178 votos (3102 nominais e 76 de legenda), 1 candidato eleito
+13 - DC - 27, 2919 votos (2879 nominais e 40 de legenda), 1 candidato eleito
+14 - PSC - 20, 1717 votos (1616 nominais e 101 de legenda), 0 candidato eleito
+15 - PSD - 55, 1470 votos (1415 nominais e 55 de legenda), 0 candidato eleito
+16 - PT - 13, 1239 votos (1146 nominais e 93 de legenda), 0 candidato eleito
+17 - PROS - 90, 824 votos (811 nominais e 13 de legenda), 0 candidato eleito
+18 - PRTB - 28, 709 votos (686 nominais e 23 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PATRIOTA - 51, ZÉ PRETO (51500, 1638 votos) / IVAN DE SOUZA SANTOS (51155, 9 votos)
+2 - PTB - 14, KAMILLA ROCHA (14123, 1343 votos) / ALEMÃO (14024, 17 votos)
+3 - CIDADANIA - 23, ROSANA PINHEIRO (23123, 1247 votos) / ÉRICA RAMOS (23579, 2 votos)
+4 - DEM - 25, OLDAIR ROSSI (25333, 1188 votos) / OZEANDRA HUNGRIA (25600, 13 votos)
+5 - PDT - 12, PROFESSOR LUCIANO (12456, 1177 votos) / RENATA LACERDA (12344, 5 votos)
+6 - PSB - 40, FABIO VETERINÁRIO (40333, 1146 votos) / RITA LOVATTI (40321, 0 voto)
+7 - PSDB - 45, CHICO MÓVEIS (45444, 1006 votos) / CELINA (45555, 47 votos)
+8 - PODE - 19, DENIZART ZAZÁ (19600, 939 votos) / PATRÍCIA (19200, 1 voto)
+9 - REPUBLICANOS - 10, RODRIGO BORGES (10456, 819 votos) / BAIANINHO DE IGUAPE (10144, 0 voto)
+10 - PL - 22, MARCELO ROSA (22777, 738 votos) / MANSOUR CADAIS (22555, 0 voto)
+11 - DC - 27, SABRINA ASTORI (27610, 650 votos) / MANCINI (27800, 3 votos)
+12 - PP - 11, DR FRANZ (11200, 590 votos) / DONA ANGELA (11149, 3 votos)
+13 - AVANTE - 70, MAX JUNIOR (70123, 581 votos) / VAN SOUZA (70220, 12 votos)
+14 - PT - 13, PROFESSOR HELIO (13123, 444 votos) / TADEU VILLANOVA (13555, 15 votos)
+15 - PSC - 20, DEBORA DE SOUSA (20220, 440 votos) / PROFESSORA VANIA MORESCHI (20791, 6 votos)
+16 - PSD - 55, THIAGO OLIVEIRA (55123, 357 votos) / DENI (55747, 2 votos)
+17 - PRTB - 28, DOUTOR MICHEL (28999, 249 votos) / JESSICA MARQUES (28222, 6 votos)
+18 - PROS - 90, PROFESSOR ELVIS DE FREITAS (90123, 213 votos) / RICARDO CORREA (90444, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (11,76%)
+30 <= Idade < 40: 3 (17,65%)
+40 <= Idade < 50: 6 (35,29%)
+50 <= Idade < 60: 6 (35,29%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  3 (17,65%)
+Masculino: 14 (82,35%)
+
+Total de votos válidos:    63411
+Total de votos nominais:   60599 (95,57%)
+Total de votos de Legenda: 2812 (4,43%)

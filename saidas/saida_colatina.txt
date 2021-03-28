@@ -1,0 +1,104 @@
+Número de vagas: 15
+
+Vereadores eleitos:
+1 - WAGNER NEUMEG / WAGUINHO (PATRIOTA, 1356 votos)
+2 - OLMIR FERNANDO DE ARAÚJO CASTIGLIONI / OLMIR CASTIGLIONI (AVANTE, 1299 votos)
+3 - JOAO MARCOS CUNHA FILHO / JOÃO MARCOS (PL, 1190 votos)
+4 - CLAUDINEI COSTA SANTOS / CLAUDINEI COSTA (PSB, 1147 votos)
+5 - JOLIMAR BARBOSA DA SILVA / JOLIMAR BARBOSA (PL, 1127 votos)
+6 - ADINILCIO PINTOS DA SILVA / COELHO (PSB, 972 votos)
+7 - MARCELO CARVALHO PRETTI / MARCELO PRETTI (PATRIOTA, 933 votos)
+8 - MARLUCIO PEDRO DO NASCIMENTO / MARLUCIO  (CIDADANIA, 921 votos)
+9 - FELIPPE COUTINHO MARTINS / FELIPPE TEDINHA (PP, 793 votos)
+10 - WANDERSON RODRIGUES / WANDERSON RODRIGUES (SOLIDARIEDADE, 776 votos)
+11 - GEFERSON ISRAEL ALVES / GEFERSON ALVES (SOLIDARIEDADE, 751 votos)
+12 - ANGELO STELZER NETO / ANGELO STELZER (DEM, 734 votos)
+13 - MIGUEL ANGELO GUINZANI CHIEPPE / MIGUEL CHIEPPE (REPUBLICANOS, 723 votos)
+14 - DARIO RUDIO JUNIOR / DARIN RUDIO PAVAN (MDB, 660 votos)
+15 - KECIA NASCIMENTO BASSETTI GREGORIO / KECIA BASSETTI (PDT, 551 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - WAGNER NEUMEG / WAGUINHO (PATRIOTA, 1356 votos)
+2 - OLMIR FERNANDO DE ARAÚJO CASTIGLIONI / OLMIR CASTIGLIONI (AVANTE, 1299 votos)
+3 - JOAO MARCOS CUNHA FILHO / JOÃO MARCOS (PL, 1190 votos)
+4 - CLAUDINEI COSTA SANTOS / CLAUDINEI COSTA (PSB, 1147 votos)
+5 - JOLIMAR BARBOSA DA SILVA / JOLIMAR BARBOSA (PL, 1127 votos)
+6 - GEZIANO LUCIO SOUZA FERREIRA / FERREIRINHA (PL, 988 votos)
+7 - ADINILCIO PINTOS DA SILVA / COELHO (PSB, 972 votos)
+8 - MARCELO CARVALHO PRETTI / MARCELO PRETTI (PATRIOTA, 933 votos)
+9 - MARLUCIO PEDRO DO NASCIMENTO / MARLUCIO  (CIDADANIA, 921 votos)
+10 - MARCELO RODRIGUES / MARCELÃO (PATRIOTA, 918 votos)
+11 - CHARLES HENRIQUE LUPPI / CHARLES LUPPI (PSB, 801 votos)
+12 - FELIPPE COUTINHO MARTINS / FELIPPE TEDINHA (PP, 793 votos)
+13 - WANDERSON RODRIGUES / WANDERSON RODRIGUES (SOLIDARIEDADE, 776 votos)
+14 - GEFERSON ISRAEL ALVES / GEFERSON ALVES (SOLIDARIEDADE, 751 votos)
+15 - ANGELO STELZER NETO / ANGELO STELZER (DEM, 734 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - GEZIANO LUCIO SOUZA FERREIRA / FERREIRINHA (PL, 988 votos)
+10 - MARCELO RODRIGUES / MARCELÃO (PATRIOTA, 918 votos)
+11 - CHARLES HENRIQUE LUPPI / CHARLES LUPPI (PSB, 801 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - MIGUEL ANGELO GUINZANI CHIEPPE / MIGUEL CHIEPPE (REPUBLICANOS, 723 votos)
+23 - DARIO RUDIO JUNIOR / DARIN RUDIO PAVAN (MDB, 660 votos)
+31 - KECIA NASCIMENTO BASSETTI GREGORIO / KECIA BASSETTI (PDT, 551 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PL - 22, 6981 votos (6784 nominais e 197 de legenda), 2 candidatos eleitos
+2 - PATRIOTA - 51, 6670 votos (6099 nominais e 571 de legenda), 2 candidatos eleitos
+3 - SOLIDARIEDADE - 77, 6308 votos (6220 nominais e 88 de legenda), 2 candidatos eleitos
+4 - PSB - 40, 6178 votos (6090 nominais e 88 de legenda), 2 candidatos eleitos
+5 - PP - 11, 4815 votos (4712 nominais e 103 de legenda), 1 candidato eleito
+6 - PDT - 12, 3890 votos (3746 nominais e 144 de legenda), 1 candidato eleito
+7 - CIDADANIA - 23, 3609 votos (3231 nominais e 378 de legenda), 1 candidato eleito
+8 - AVANTE - 70, 3075 votos (3035 nominais e 40 de legenda), 1 candidato eleito
+9 - DEM - 25, 3072 votos (3024 nominais e 48 de legenda), 1 candidato eleito
+10 - MDB - 15, 3015 votos (2937 nominais e 78 de legenda), 1 candidato eleito
+11 - REPUBLICANOS - 10, 2974 votos (2921 nominais e 53 de legenda), 1 candidato eleito
+12 - PODE - 19, 2937 votos (2896 nominais e 41 de legenda), 0 candidato eleito
+13 - PSC - 20, 2072 votos (1172 nominais e 900 de legenda), 0 candidato eleito
+14 - DC - 27, 1858 votos (1783 nominais e 75 de legenda), 0 candidato eleito
+15 - PT - 13, 1690 votos (1520 nominais e 170 de legenda), 0 candidato eleito
+16 - PMN - 33, 871 votos (818 nominais e 53 de legenda), 0 candidato eleito
+17 - PTB - 14, 794 votos (766 nominais e 28 de legenda), 0 candidato eleito
+18 - PSOL - 50, 653 votos (604 nominais e 49 de legenda), 0 candidato eleito
+19 - PSDB - 45, 382 votos (348 nominais e 34 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PATRIOTA - 51, WAGUINHO (51555, 1356 votos) / MARIA FLORES (51155, 0 voto)
+2 - AVANTE - 70, OLMIR CASTIGLIONI (70123, 1299 votos) / TIGRE CAETANO (70007, 12 votos)
+3 - PL - 22, JOÃO MARCOS (22321, 1190 votos) / PATRICIA DOMINGOS (22622, 2 votos)
+4 - PSB - 40, CLAUDINEI COSTA (40123, 1147 votos) / SONIA FURACÃO (40000, 14 votos)
+5 - CIDADANIA - 23, MARLUCIO  (23456, 921 votos) / JOSI BOAVENTURA (23420, 0 voto)
+6 - PP - 11, FELIPPE TEDINHA (11111, 793 votos) / MARCOS BITTENCOURT (11244, 5 votos)
+7 - SOLIDARIEDADE - 77, WANDERSON RODRIGUES (77888, 776 votos) / PATRICIA PEREIRA (77001, 9 votos)
+8 - DEM - 25, ANGELO STELZER (25333, 734 votos) / IZABEL SOUZA (25321, 8 votos)
+9 - REPUBLICANOS - 10, MIGUEL CHIEPPE (10111, 723 votos) / ALEXSANDRA DA PADARIA MANÁ (10800, 12 votos)
+10 - PODE - 19, JUAREZ DO HOTEL (19456, 678 votos) / SANDRA (19354, 16 votos)
+11 - MDB - 15, DARIN RUDIO PAVAN (15699, 660 votos) / KAROL (15456, 4 votos)
+12 - PDT - 12, KECIA BASSETTI (12321, 551 votos) / METAL (12182, 14 votos)
+13 - PT - 13, ZÉ IZIDORO (13130, 452 votos) / VANIA LANSCHI (13355, 14 votos)
+14 - DC - 27, ANTONIO SILVA (27100, 422 votos) / CLAUDIA OSCAR DE ASSIS (27932, 3 votos)
+15 - PSC - 20, XURU (20222, 252 votos) / DIEGO SKAD (20900, 4 votos)
+16 - PMN - 33, SENAIR (33010, 163 votos) / ROSÂNGELA PIZZN (33004, 0 voto)
+17 - PSOL - 50, PROFESSOR FERRON (50555, 161 votos) / RAUL FERREIRA (50120, 5 votos)
+18 - PTB - 14, TICA MOTORISTA DO ONIBUS (14778, 154 votos) / MARA (14570, 4 votos)
+19 - PSDB - 45, ALINE BARRETO (45222, 91 votos) / DISMO RENOVA JÁ (45101, 4 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (13,33%)
+30 <= Idade < 40: 5 (33,33%)
+40 <= Idade < 50: 4 (26,67%)
+50 <= Idade < 60: 3 (20,00%)
+60 <= Idade     : 1 (6,67%)
+
+Eleitos, por sexo:
+Feminino:  1 (6,67%)
+Masculino: 14 (93,33%)
+
+Total de votos válidos:    61844
+Total de votos nominais:   58706 (94,93%)
+Total de votos de Legenda: 3138 (5,07%)

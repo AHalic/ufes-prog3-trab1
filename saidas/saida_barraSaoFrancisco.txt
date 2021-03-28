@@ -1,0 +1,88 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - REINALDO GOMES NERI DA SILVA / BORRINHA NERI (PSD, 1323 votos)
+2 - ADEMAR ANTONIO VIEIRA / LEMAO VITORINO (PSD, 1112 votos)
+3 - GEORGE STFERSON FELISMINO FERREIRA / TECO FERREIRA (PSD, 910 votos)
+4 - JADEIR PEREIRA BRUM / JADEIR BRUM (REPUBLICANOS, 827 votos)
+5 - JONCICLE HONORIO / CABO JONCICLE (MDB, 785 votos)
+6 - LEANDRO GOMES DOS SANTOS / LEANDRO AIS (CIDADANIA, 656 votos)
+7 - ELIVAN RAMOS NASCIMENTO / ELIVAN DO VARGEM ALEGRE (PODE, 549 votos)
+8 - JOAO LUIZ COZER / LULA COZER (REPUBLICANOS, 522 votos)
+9 - JOÃO BATISTA FARIAS VENCIONECK / SARGENTO FARIAS (CIDADANIA, 494 votos)
+10 - JAIR FERNANDES FILHO / FERNANDO CARABINA (PODE, 452 votos)
+11 - RAFAEL MALAQUIAS VENANCIO / RAFAEL MALAQUIAS (PSD, 397 votos)
+12 - EMERSON LIMA / EMERSON LIMA (PSD, 322 votos)
+13 - HIGOR MATHEUS SOARES / HIGOR SOARES (PP, 252 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - REINALDO GOMES NERI DA SILVA / BORRINHA NERI (PSD, 1323 votos)
+2 - ADEMAR ANTONIO VIEIRA / LEMAO VITORINO (PSD, 1112 votos)
+3 - GEORGE STFERSON FELISMINO FERREIRA / TECO FERREIRA (PSD, 910 votos)
+4 - JADEIR PEREIRA BRUM / JADEIR BRUM (REPUBLICANOS, 827 votos)
+5 - JONCICLE HONORIO / CABO JONCICLE (MDB, 785 votos)
+6 - LEANDRO GOMES DOS SANTOS / LEANDRO AIS (CIDADANIA, 656 votos)
+7 - SULIMAR VALERIO DA CUNHA / MAZINHO (MDB, 630 votos)
+8 - ELIVAN RAMOS NASCIMENTO / ELIVAN DO VARGEM ALEGRE (PODE, 549 votos)
+9 - JOAO LUIZ COZER / LULA COZER (REPUBLICANOS, 522 votos)
+10 - JOÃO BATISTA FARIAS VENCIONECK / SARGENTO FARIAS (CIDADANIA, 494 votos)
+11 - JAIR FERNANDES FILHO / FERNANDO CARABINA (PODE, 452 votos)
+12 - EDERSON INACIO LIZARDO / DERSON LANCHES (CIDADANIA, 416 votos)
+13 - RAFAEL MALAQUIAS VENANCIO / RAFAEL MALAQUIAS (PSD, 397 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - SULIMAR VALERIO DA CUNHA / MAZINHO (MDB, 630 votos)
+12 - EDERSON INACIO LIZARDO / DERSON LANCHES (CIDADANIA, 416 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+18 - EMERSON LIMA / EMERSON LIMA (PSD, 322 votos)
+27 - HIGOR MATHEUS SOARES / HIGOR SOARES (PP, 252 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 5594 votos (5057 nominais e 537 de legenda), 5 candidatos eleitos
+2 - PODE - 19, 3145 votos (3108 nominais e 37 de legenda), 2 candidatos eleitos
+3 - REPUBLICANOS - 10, 2635 votos (2597 nominais e 38 de legenda), 2 candidatos eleitos
+4 - CIDADANIA - 23, 2586 votos (2550 nominais e 36 de legenda), 2 candidatos eleitos
+5 - MDB - 15, 2139 votos (2079 nominais e 60 de legenda), 1 candidato eleito
+6 - PP - 11, 1645 votos (1433 nominais e 212 de legenda), 1 candidato eleito
+7 - PSB - 40, 966 votos (950 nominais e 16 de legenda), 0 candidato eleito
+8 - PSDB - 45, 956 votos (930 nominais e 26 de legenda), 0 candidato eleito
+9 - PDT - 12, 942 votos (901 nominais e 41 de legenda), 0 candidato eleito
+10 - PT - 13, 835 votos (816 nominais e 19 de legenda), 0 candidato eleito
+11 - REDE - 18, 830 votos (820 nominais e 10 de legenda), 0 candidato eleito
+12 - PTB - 14, 570 votos (551 nominais e 19 de legenda), 0 candidato eleito
+13 - SOLIDARIEDADE - 77, 426 votos (336 nominais e 90 de legenda), 0 candidato eleito
+14 - PMN - 33, 165 votos (157 nominais e 8 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, BORRINHA NERI (55000, 1323 votos) / RUTE LEIA (55655, 7 votos)
+2 - REPUBLICANOS - 10, JADEIR BRUM (10888, 827 votos) / DIMAZINHO DA LAJE (10321, 4 votos)
+3 - MDB - 15, CABO JONCICLE (15123, 785 votos) / ELSON DA SILVA (15300, 1 voto)
+4 - CIDADANIA - 23, LEANDRO AIS (23123, 656 votos) / TIENE (23666, 6 votos)
+5 - PODE - 19, ELIVAN DO VARGEM ALEGRE (19777, 549 votos) / MARIA FERREIRA (19444, 6 votos)
+6 - PSB - 40, HUANDER BOFF (40000, 385 votos) / CREUZA NATURA (40197, 19 votos)
+7 - PDT - 12, MULINHA (12123, 268 votos) / NAZINHA (12011, 3 votos)
+8 - PP - 11, HIGOR SOARES (11200, 252 votos) / SAMARA (11999, 2 votos)
+9 - REDE - 18, FERNANDO DA RT (18888, 240 votos) / GERALDINHO ELETRICISTA (18444, 5 votos)
+10 - PSDB - 45, ADILSON PERNINHA (45555, 234 votos) / REGGYMARA OLIVEIRA (45420, 3 votos)
+11 - PT - 13, ADENIR GOMES DE MOURA (13444, 187 votos) / CHARLES FIRMINO (13789, 11 votos)
+12 - SOLIDARIEDADE - 77, ALEMÃO DA VERDURA (77123, 107 votos) / JOAQUIM DO CRIATURA (77000, 0 voto)
+13 - PMN - 33, REGIANE RODRIGUES (33456, 99 votos) / VANUSA CORTE (33222, 12 votos)
+14 - PTB - 14, VAURY PROFIRIO (14000, 90 votos) / LEKÃO (ALEX MUCIO) (14640, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (15,38%)
+30 <= Idade < 40: 1 (7,69%)
+40 <= Idade < 50: 6 (46,15%)
+50 <= Idade < 60: 4 (30,77%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 13 (100,00%)
+
+Total de votos válidos:    23434
+Total de votos nominais:   22285 (95,10%)
+Total de votos de Legenda: 1149 (4,90%)

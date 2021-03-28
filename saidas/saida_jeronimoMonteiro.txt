@@ -1,0 +1,63 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - EVERALDO ALVES RODRIGUES / EVERALDO CARVÃO (PSB, 395 votos)
+2 - EDUARDO GOMES / DUDA DA SAÚDE (MDB, 394 votos)
+3 - ADEZILDA DA SILVA SANTOS / ADEZILDA (PSB, 378 votos)
+4 - WAGNER RIBEIRO MASIOLI / WAGUINHO MASIOLI (PSB, 375 votos)
+5 - THIAGO BERNARDO DE SOUZA / THIAGO BERNARDO (PP, 367 votos)
+6 - MATHEUS GARCIA CARVALHO / MATHEUS GARCIA MARIOLA (REPUBLICANOS, 339 votos)
+7 - ELIAS LUGÃO BRITTO / ELIAS BRITTO (MDB, 309 votos)
+8 - JOSE VALBER CABRAL LISBOA / DOG (REPUBLICANOS, 256 votos)
+9 - LENEANDRO BRAGA GOULART / ANU (PDT, 206 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - EVERALDO ALVES RODRIGUES / EVERALDO CARVÃO (PSB, 395 votos)
+2 - EDUARDO GOMES / DUDA DA SAÚDE (MDB, 394 votos)
+3 - ADEZILDA DA SILVA SANTOS / ADEZILDA (PSB, 378 votos)
+4 - WAGNER RIBEIRO MASIOLI / WAGUINHO MASIOLI (PSB, 375 votos)
+5 - THIAGO BERNARDO DE SOUZA / THIAGO BERNARDO (PP, 367 votos)
+6 - MATHEUS GARCIA CARVALHO / MATHEUS GARCIA MARIOLA (REPUBLICANOS, 339 votos)
+7 - ELIAS LUGÃO BRITTO / ELIAS BRITTO (MDB, 309 votos)
+8 - LUZIA ELENA BASTOS ZUCOLOTO / LUZIA BASTOS ZUCOLOTO (MDB, 279 votos)
+9 - JOSE VALBER CABRAL LISBOA / DOG (REPUBLICANOS, 256 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - LUZIA ELENA BASTOS ZUCOLOTO / LUZIA BASTOS ZUCOLOTO (MDB, 279 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 2036 votos (2012 nominais e 24 de legenda), 3 candidatos eleitos
+2 - MDB - 15, 1708 votos (1663 nominais e 45 de legenda), 2 candidatos eleitos
+3 - REPUBLICANOS - 10, 1387 votos (1285 nominais e 102 de legenda), 2 candidatos eleitos
+4 - PP - 11, 899 votos (869 nominais e 30 de legenda), 1 candidato eleito
+5 - PDT - 12, 634 votos (602 nominais e 32 de legenda), 1 candidato eleito
+6 - PT - 13, 286 votos (277 nominais e 9 de legenda), 0 candidato eleito
+7 - PRTB - 28, 283 votos (281 nominais e 2 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, EVERALDO CARVÃO (40222, 395 votos) / THAYOHANE (40524, 8 votos)
+2 - MDB - 15, DUDA DA SAÚDE (15100, 394 votos) / VERONICA (15004, 5 votos)
+3 - PP - 11, THIAGO BERNARDO (11111, 367 votos) / ANA ESTEVÃO (11333, 8 votos)
+4 - REPUBLICANOS - 10, MATHEUS GARCIA MARIOLA (10123, 339 votos) / ROSANGELA BAZANI (10200, 3 votos)
+5 - PDT - 12, ANU (12000, 206 votos) / ELZA DO ROMARIO (12024, 4 votos)
+6 - PT - 13, MARCINHA DO SINDICATO (13123, 158 votos) / BARBARA  (13444, 2 votos)
+7 - PRTB - 28, SIRLENE DO PET SHOP (28333, 95 votos) / ANA BEATRIZ PASTORA (28466, 7 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 4 (44,44%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    7233
+Total de votos nominais:   6989 (96,63%)
+Total de votos de Legenda: 244 (3,37%)

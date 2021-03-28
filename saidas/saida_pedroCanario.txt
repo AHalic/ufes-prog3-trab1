@@ -1,0 +1,69 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - DENIS PEREIRA AMÂNCIO / DENIS AMÂNCIO (PSDB, 536 votos)
+2 - SIRLANDE OLIVEIRA DIAS DE FREITAS / SIRLANDE (REPUBLICANOS, 514 votos)
+3 - ELEANDRO REIS KONOSKI / ELEANDRO DE FLORESTA DO SUL (PSB, 513 votos)
+4 - LUCAS VASCONCELLOS PEREIRA / LUQUINHAS BAIENSE (PSB, 477 votos)
+5 - CLECIO PEREIRA DA SILVA / KELSAT (REPUBLICANOS, 406 votos)
+6 - JACONIAS DIAS MARTINS / JACONIAS CONTADOR (REPUBLICANOS, 406 votos)
+7 - WANDERSON SANTOS DE SOUZA / WANDERSON SANTOS (PV, 371 votos)
+8 - JOSÉ DA PAIXÃO QUEIROZ / ZÉ QUEIROZ (PSDB, 333 votos)
+9 - JOÃO MENDES AMORIM / JOÃO AMORIM (PSB, 320 votos)
+10 - RENATO PINHEIRO SILVA / RENATO TAQUARAS (PV, 284 votos)
+11 - ADEMIR GONÇALVES DOS SANTOS / DEMIZINHO DA FARMÁCIA (PATRIOTA, 275 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - DENIS PEREIRA AMÂNCIO / DENIS AMÂNCIO (PSDB, 536 votos)
+2 - SIRLANDE OLIVEIRA DIAS DE FREITAS / SIRLANDE (REPUBLICANOS, 514 votos)
+3 - ELEANDRO REIS KONOSKI / ELEANDRO DE FLORESTA DO SUL (PSB, 513 votos)
+4 - LUCAS VASCONCELLOS PEREIRA / LUQUINHAS BAIENSE (PSB, 477 votos)
+5 - CLECIO PEREIRA DA SILVA / KELSAT (REPUBLICANOS, 406 votos)
+6 - JACONIAS DIAS MARTINS / JACONIAS CONTADOR (REPUBLICANOS, 406 votos)
+7 - EDINALDO VENTURINI DE AMORIM / CABO VENTURINI (REPUBLICANOS, 376 votos)
+8 - WANDERSON SANTOS DE SOUZA / WANDERSON SANTOS (PV, 371 votos)
+9 - ROGÉRIO MOURA DE OLIVEIRA / ROGÉRIO MOURA (REPUBLICANOS, 368 votos)
+10 - CONRADO DOS SANTOS MENDES / CONRADO MENDES (REPUBLICANOS, 357 votos)
+11 - GERSON SILVA SANTOS / GERSON CARAPINA (REPUBLICANOS, 338 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - EDINALDO VENTURINI DE AMORIM / CABO VENTURINI (REPUBLICANOS, 376 votos)
+9 - ROGÉRIO MOURA DE OLIVEIRA / ROGÉRIO MOURA (REPUBLICANOS, 368 votos)
+10 - CONRADO DOS SANTOS MENDES / CONRADO MENDES (REPUBLICANOS, 357 votos)
+11 - GERSON SILVA SANTOS / GERSON CARAPINA (REPUBLICANOS, 338 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+18 - ADEMIR GONÇALVES DOS SANTOS / DEMIZINHO DA FARMÁCIA (PATRIOTA, 275 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - REPUBLICANOS - 10, 3413 votos (3078 nominais e 335 de legenda), 3 candidatos eleitos
+2 - PSB - 40, 2843 votos (2800 nominais e 43 de legenda), 3 candidatos eleitos
+3 - PV - 43, 2341 votos (2303 nominais e 38 de legenda), 2 candidatos eleitos
+4 - PSDB - 45, 2174 votos (2117 nominais e 57 de legenda), 2 candidatos eleitos
+5 - PATRIOTA - 51, 1327 votos (1313 nominais e 14 de legenda), 1 candidato eleito
+6 - DEM - 25, 764 votos (655 nominais e 109 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSDB - 45, DENIS AMÂNCIO (45000, 536 votos) / MIRIAN OLIVEIRA (45165, 6 votos)
+2 - REPUBLICANOS - 10, SIRLANDE (10100, 514 votos) / PATRICIA MEDEIROS (10222, 5 votos)
+3 - PSB - 40, ELEANDRO DE FLORESTA DO SUL (40000, 513 votos) / MARIA DAS NEVES (40111, 9 votos)
+4 - PV - 43, WANDERSON SANTOS (43456, 371 votos) / PASTORA ANGELA DO CAMATA (43681, 5 votos)
+5 - DEM - 25, GILENO (25555, 292 votos) / BELA (25457, 2 votos)
+6 - PATRIOTA - 51, DEMIZINHO DA FARMÁCIA (51123, 275 votos) / NANY CARVALHO (51666, 4 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (18,18%)
+30 <= Idade < 40: 2 (18,18%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 0 (,00%)
+60 <= Idade     : 3 (27,27%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 11 (100,00%)
+
+Total de votos válidos:    12862
+Total de votos nominais:   12266 (95,37%)
+Total de votos de Legenda: 596 (4,63%)

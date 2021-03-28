@@ -1,0 +1,61 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - MAICON GOMES DE MORAES / MAICON GOMES (MAIQUIM) (PSB, 505 votos)
+2 - SHEILA FARIA DOS SANTOS / SHEILA FARIA (PSB, 422 votos)
+3 - ALDO BATISTA DOS SANTOS / ALDO DO MEL (SOLIDARIEDADE, 351 votos)
+4 - CARLOS VENANCIO / CARLOS VENANCIO (REPUBLICANOS, 314 votos)
+5 - CHARLES COSTALONGA LADISLAU / CHARLES LADISLAU (SOLIDARIEDADE, 289 votos)
+6 - ADEILSON GONÇALVES GOMES / CARECA (PT, 260 votos)
+7 - SANDERSON VIANA ROSA / SANDRINHO DA FARMÁCIA (PSB, 239 votos)
+8 - WEVERTON MATTUSOCH FILGUEIRA / VEVÉ (MDB, 236 votos)
+9 - RENATO BARROS / RENATO BARROS (SOLIDARIEDADE, 209 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - MAICON GOMES DE MORAES / MAICON GOMES (MAIQUIM) (PSB, 505 votos)
+2 - SHEILA FARIA DOS SANTOS / SHEILA FARIA (PSB, 422 votos)
+3 - ALDO BATISTA DOS SANTOS / ALDO DO MEL (SOLIDARIEDADE, 351 votos)
+4 - CARLOS VENANCIO / CARLOS VENANCIO (REPUBLICANOS, 314 votos)
+5 - CHARLES COSTALONGA LADISLAU / CHARLES LADISLAU (SOLIDARIEDADE, 289 votos)
+6 - ADEILSON GONÇALVES GOMES / CARECA (PT, 260 votos)
+7 - SANDERSON VIANA ROSA / SANDRINHO DA FARMÁCIA (PSB, 239 votos)
+8 - WEVERTON MATTUSOCH FILGUEIRA / VEVÉ (MDB, 236 votos)
+9 - JOSÉ MARIA RAFALSKI / ZÉ MARIA (REPUBLICANOS, 220 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+9 - JOSÉ MARIA RAFALSKI / ZÉ MARIA (REPUBLICANOS, 220 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 2228 votos (2192 nominais e 36 de legenda), 3 candidatos eleitos
+2 - SOLIDARIEDADE - 77, 2037 votos (1877 nominais e 160 de legenda), 3 candidatos eleitos
+3 - PT - 13, 1188 votos (1163 nominais e 25 de legenda), 1 candidato eleito
+4 - REPUBLICANOS - 10, 1163 votos (1149 nominais e 14 de legenda), 1 candidato eleito
+5 - MDB - 15, 776 votos (759 nominais e 17 de legenda), 1 candidato eleito
+6 - PP - 11, 588 votos (571 nominais e 17 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, MAICON GOMES (MAIQUIM) (40111, 505 votos) / ETEVALDO (40456, 6 votos)
+2 - SOLIDARIEDADE - 77, ALDO DO MEL (77777, 351 votos) / ELIENE DE OLIVEIRA (77999, 8 votos)
+3 - REPUBLICANOS - 10, CARLOS VENANCIO (10456, 314 votos) / WALLAS CARVALHO (10555, 20 votos)
+4 - PT - 13, CARECA (13444, 260 votos) / BITA (13456, 14 votos)
+5 - MDB - 15, VEVÉ (15300, 236 votos) / PACO (15888, 12 votos)
+6 - PP - 11, CHARLES ELETRICISTA (11234, 201 votos) / ROSI AGUIAR (11123, 31 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 4 (44,44%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    7980
+Total de votos nominais:   7711 (96,63%)
+Total de votos de Legenda: 269 (3,37%)

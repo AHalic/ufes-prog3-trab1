@@ -1,0 +1,66 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - TIAGO FERNANDES DA COSTA / TIAGO DA FARMACIA (REPUBLICANOS, 409 votos)
+2 - JOSÉ ANTÔNIO MENDONÇA / BERÉ (PSB, 382 votos)
+3 - EROS PRUCOLI / EROS PRUCOLI (REPUBLICANOS, 316 votos)
+4 - ISAIAS MONTEIRO MELONI / ZAZÁ MELONI (CIDADANIA, 265 votos)
+5 - JOSÉ MARTINS FILHO / ZINHO (PDT, 258 votos)
+6 - TADEU CUSTODIO / TADEU CUSTODIO (PTB, 238 votos)
+7 - WALLESON CLAUDIO PETINI ALVES / CLAUDINHO DO SÃO DOMINGOS (DEM, 230 votos)
+8 - CARLOS HENRIQUE DIAS LUPARELLI / CARLINHOS DO LEITE (PDT, 219 votos)
+9 - RONALD BARBOSA EDUARDO / BOLA SETE (PSB, 178 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - TIAGO FERNANDES DA COSTA / TIAGO DA FARMACIA (REPUBLICANOS, 409 votos)
+2 - JOSÉ ANTÔNIO MENDONÇA / BERÉ (PSB, 382 votos)
+3 - EROS PRUCOLI / EROS PRUCOLI (REPUBLICANOS, 316 votos)
+4 - THADEU ELIOTERIO DA SILVA / THADEU ELIOTÉRIO (REPUBLICANOS, 275 votos)
+5 - ISAIAS MONTEIRO MELONI / ZAZÁ MELONI (CIDADANIA, 265 votos)
+6 - MARCELO ASSIS VALIM / BARRELA (CIDADANIA, 260 votos)
+7 - JOSÉ MARTINS FILHO / ZINHO (PDT, 258 votos)
+8 - TADEU CUSTODIO / TADEU CUSTODIO (PTB, 238 votos)
+9 - WALLESON CLAUDIO PETINI ALVES / CLAUDINHO DO SÃO DOMINGOS (DEM, 230 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - THADEU ELIOTERIO DA SILVA / THADEU ELIOTÉRIO (REPUBLICANOS, 275 votos)
+6 - MARCELO ASSIS VALIM / BARRELA (CIDADANIA, 260 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - REPUBLICANOS - 10, 1685 votos (1569 nominais e 116 de legenda), 2 candidatos eleitos
+2 - PSB - 40, 1578 votos (1395 nominais e 183 de legenda), 2 candidatos eleitos
+3 - PDT - 12, 1363 votos (1327 nominais e 36 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 1314 votos (1182 nominais e 132 de legenda), 1 candidato eleito
+5 - PTB - 14, 1183 votos (1166 nominais e 17 de legenda), 1 candidato eleito
+6 - CIDADANIA - 23, 1052 votos (1031 nominais e 21 de legenda), 1 candidato eleito
+7 - PSC - 20, 224 votos (220 nominais e 4 de legenda), 0 candidato eleito
+8 - PP - 11, 130 votos (116 nominais e 14 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REPUBLICANOS - 10, TIAGO DA FARMACIA (10789, 409 votos) / ROBERTA MARQUES (10777, 22 votos)
+2 - PSB - 40, BERÉ (40456, 382 votos) / ÁTILA MADEIRA (40321, 15 votos)
+3 - CIDADANIA - 23, ZAZÁ MELONI (23000, 265 votos) / NELIA DO MACUCO (23285, 4 votos)
+4 - PDT - 12, ZINHO (12333, 258 votos) / ADDA MACHADÃO (12320, 0 voto)
+5 - PTB - 14, TADEU CUSTODIO (14660, 238 votos) / MARIA RITA (14014, 10 votos)
+6 - DEM - 25, CLAUDINHO DO SÃO DOMINGOS (25680, 230 votos) / ESPIRRO (25333, 15 votos)
+7 - PSC - 20, ADONIAS (20800, 58 votos) / MARCELO (20888, 5 votos)
+8 - PP - 11, FATIMA CORREIA (11222, 32 votos) / LOCUTOR LEONARDO MEDEIROS (11777, 2 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    8529
+Total de votos nominais:   8006 (93,87%)
+Total de votos de Legenda: 523 (6,13%)

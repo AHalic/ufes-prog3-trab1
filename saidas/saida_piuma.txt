@@ -1,0 +1,94 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - TOBIAS SCHERRER ROCHA / TOBIAS SCHERRER (SOLIDARIEDADE, 487 votos)
+2 - JORGE MIGUEL FERES MIRANDA / JORGE MIRANDA (PMB, 413 votos)
+3 - BERNARDETE MARIA CALENZANI / BERNARDETE CALENZANI (PATRIOTA, 343 votos)
+4 - ELBER LUIZ MULINARI LOYOLA / ELBER LUIZ (PMN, 335 votos)
+5 - BRUNO HERNANDES DE FREITAS / BRUNO DA OI (CIDADANIA, 328 votos)
+6 - WALLACE CAMPI / WALLACE CAMPI (PSD, 319 votos)
+7 - ELIEZER DIAS FREIRE / ELIEZER DIAS (PMN, 317 votos)
+8 - DANIEL ETCHEVERRY / DANIELZINHO (PTB, 269 votos)
+9 - FERNANDA TAYLOR DE SOUZA / FERNANDA TAYLOR (SOLIDARIEDADE, 243 votos)
+10 - FABRICIO TAYLOR MARVILA / FABRICIO TAYLOR (CIDADANIA, 227 votos)
+11 - JOSÉ CARLOS MACHADO DE ARAÚJO / JOSÉ CARLOS ARAUJO (PSDB, 169 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - TOBIAS SCHERRER ROCHA / TOBIAS SCHERRER (SOLIDARIEDADE, 487 votos)
+2 - JORGE MIGUEL FERES MIRANDA / JORGE MIRANDA (PMB, 413 votos)
+3 - BERNARDETE MARIA CALENZANI / BERNARDETE CALENZANI (PATRIOTA, 343 votos)
+4 - ELBER LUIZ MULINARI LOYOLA / ELBER LUIZ (PMN, 335 votos)
+5 - BRUNO HERNANDES DE FREITAS / BRUNO DA OI (CIDADANIA, 328 votos)
+6 - WALLACE CAMPI / WALLACE CAMPI (PSD, 319 votos)
+7 - ELIEZER DIAS FREIRE / ELIEZER DIAS (PMN, 317 votos)
+8 - HELIOMAR DA SILVA ZUCOLOTO / HELIOMAR ALEMÃO DA VAN (PSD, 297 votos)
+9 - JOEL ALVES ROSA / DOUTOR JOEL (PATRIOTA, 293 votos)
+10 - DANIEL ETCHEVERRY / DANIELZINHO (PTB, 269 votos)
+11 - GEOVANE BIDIM DE PAULA / GEOVANE BIDIM (PMN, 260 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - HELIOMAR DA SILVA ZUCOLOTO / HELIOMAR ALEMÃO DA VAN (PSD, 297 votos)
+9 - JOEL ALVES ROSA / DOUTOR JOEL (PATRIOTA, 293 votos)
+11 - GEOVANE BIDIM DE PAULA / GEOVANE BIDIM (PMN, 260 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+20 - JOSÉ CARLOS MACHADO DE ARAÚJO / JOSÉ CARLOS ARAUJO (PSDB, 169 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 1742 votos (1659 nominais e 83 de legenda), 2 candidatos eleitos
+2 - PMN - 33, 1536 votos (1522 nominais e 14 de legenda), 2 candidatos eleitos
+3 - SOLIDARIEDADE - 77, 1226 votos (1215 nominais e 11 de legenda), 2 candidatos eleitos
+4 - PSD - 55, 1207 votos (1196 nominais e 11 de legenda), 1 candidato eleito
+5 - PSDB - 45, 1191 votos (1075 nominais e 116 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 1115 votos (1018 nominais e 97 de legenda), 1 candidato eleito
+7 - PMB - 35, 1014 votos (1007 nominais e 7 de legenda), 1 candidato eleito
+8 - PTB - 14, 643 votos (631 nominais e 12 de legenda), 1 candidato eleito
+9 - PDT - 12, 563 votos (547 nominais e 16 de legenda), 0 candidato eleito
+10 - PSB - 40, 528 votos (494 nominais e 34 de legenda), 0 candidato eleito
+11 - PL - 22, 304 votos (295 nominais e 9 de legenda), 0 candidato eleito
+12 - PSL - 17, 269 votos (260 nominais e 9 de legenda), 0 candidato eleito
+13 - PSC - 20, 245 votos (243 nominais e 2 de legenda), 0 candidato eleito
+14 - PP - 11, 226 votos (214 nominais e 12 de legenda), 0 candidato eleito
+15 - DEM - 25, 206 votos (197 nominais e 9 de legenda), 0 candidato eleito
+16 - PODE - 19, 203 votos (200 nominais e 3 de legenda), 0 candidato eleito
+17 - REPUBLICANOS - 10, 155 votos (148 nominais e 7 de legenda), 0 candidato eleito
+18 - PC do B - 65, 23 votos (23 nominais e 0 de legenda), 0 candidato eleito
+19 - PV - 43, 15 votos (11 nominais e 4 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - SOLIDARIEDADE - 77, TOBIAS SCHERRER (77123, 487 votos) / ROBERTA AZEVEDO (77002, 5 votos)
+2 - PMB - 35, JORGE MIRANDA (35123, 413 votos) / VANESSA OLIVEIRA (35001, 4 votos)
+3 - PATRIOTA - 51, BERNARDETE CALENZANI (51007, 343 votos) / ADRIANA (51100, 1 voto)
+4 - PMN - 33, ELBER LUIZ (33123, 335 votos) / ELIER (33111, 1 voto)
+5 - CIDADANIA - 23, BRUNO DA OI (23444, 328 votos) / DU DO CEU AZUL (23222, 4 votos)
+6 - PSD - 55, WALLACE CAMPI (55666, 319 votos) / ERICA CARVALHO (55203, 0 voto)
+7 - PTB - 14, DANIELZINHO (14444, 269 votos) / SAMARA CABRAL (14500, 1 voto)
+8 - PP - 11, LÉO BONIOLO (11123, 172 votos) / KEILINHA (11456, 1 voto)
+9 - PSDB - 45, JOSÉ CARLOS ARAUJO (45000, 169 votos) / OSEIAS O FAMOSINHO (45500, 6 votos)
+10 - PDT - 12, JESSICA DE ANDRADE (12456, 153 votos) / WALTER BARBOSA (12111, 5 votos)
+11 - PSB - 40, GUILHERME BARBEIRO (40111, 116 votos) / KARLA REGINA DO AGHÁ (40777, 25 votos)
+12 - PSC - 20, CARLOS ALBERTO DELAROLI (20222, 110 votos) / KATIA ABALADA (20456, 1 voto)
+13 - REPUBLICANOS - 10, MICHELE (10111, 76 votos) / FERNANDO DA TOMATE SECO (10333, 7 votos)
+14 - PL - 22, ALAN DIAS (22000, 70 votos) / POLIANA LYRIO (22789, 0 voto)
+15 - PSL - 17, LUDMILLA (17011, 58 votos) / FAGNER MOREIRA (17111, 2 votos)
+16 - DEM - 25, EDVALDO SILVA (25333, 40 votos) / SINÉZINHO DO GÁS (25111, 0 voto)
+17 - PODE - 19, BURRO DO FORRO  (19333, 34 votos) / SANDRINHA (19138, 1 voto)
+18 - PC do B - 65, NEVINHA (65225, 23 votos) / NEVINHA (65225, 23 votos)
+19 - PV - 43, ROSANGELA LIMA (43333, 5 votos) / LEILA SOARES (43777, 2 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 5 (45,45%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 1 (9,09%)
+60 <= Idade     : 1 (9,09%)
+
+Eleitos, por sexo:
+Feminino:  2 (18,18%)
+Masculino: 9 (81,82%)
+
+Total de votos válidos:    12411
+Total de votos nominais:   11955 (96,33%)
+Total de votos de Legenda: 456 (3,67%)

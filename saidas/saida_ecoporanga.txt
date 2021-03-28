@@ -1,0 +1,68 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - JEFFERSON SALAZAR DAL COL / JEFIM DAL' COL (PP, 701 votos)
+2 - LOUZERINO LOUZADA DE ANDRADE / LOLÔ (PSB, 701 votos)
+3 - EDUARDO ALVES MUQUY / EDUARDO MUQUY (PSB, 660 votos)
+4 - ESDRAS FERREIRA CHAVES / BAIANO DA AMBULÂNCIA (PSD, 571 votos)
+5 - GENIVALDO JOSE DE OLIVEIRA / NEM GARI (PSD, 433 votos)
+6 - NÉLIO HENRIQUE QUEDEVÊZ / NÉLIO QUEDEVÊZ (PSD, 427 votos)
+7 - FABIO TEIXEIRA DE MATOS / FABINHO DA ÁGUIA BRANCA (PSD, 426 votos)
+8 - ELIAS DO CARMO / NEGO MARIANA (DEM, 421 votos)
+9 - DENIVALDO ALVES CALDEIRA / NIVALDO TOLEDO (PSB, 420 votos)
+10 - EDSON PEREIRA DOS SANTOS / PÊGA DA MURITIBA (PP, 387 votos)
+11 - JOÃO BATISTA FILHO / JOÃO BATISTA (PDT, 260 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JEFFERSON SALAZAR DAL COL / JEFIM DAL' COL (PP, 701 votos)
+2 - LOUZERINO LOUZADA DE ANDRADE / LOLÔ (PSB, 701 votos)
+3 - EDUARDO ALVES MUQUY / EDUARDO MUQUY (PSB, 660 votos)
+4 - ESDRAS FERREIRA CHAVES / BAIANO DA AMBULÂNCIA (PSD, 571 votos)
+5 - GENIVALDO JOSE DE OLIVEIRA / NEM GARI (PSD, 433 votos)
+6 - NÉLIO HENRIQUE QUEDEVÊZ / NÉLIO QUEDEVÊZ (PSD, 427 votos)
+7 - FABIO TEIXEIRA DE MATOS / FABINHO DA ÁGUIA BRANCA (PSD, 426 votos)
+8 - ELIAS DO CARMO / NEGO MARIANA (DEM, 421 votos)
+9 - DENIVALDO ALVES CALDEIRA / NIVALDO TOLEDO (PSB, 420 votos)
+10 - EDSON PEREIRA DOS SANTOS / PÊGA DA MURITIBA (PP, 387 votos)
+11 - IZAIAS RAMOS NETO / IZAIAS RAMOS (PSB, 352 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+11 - IZAIAS RAMOS NETO / IZAIAS RAMOS (PSB, 352 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+20 - JOÃO BATISTA FILHO / JOÃO BATISTA (PDT, 260 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 4101 votos (3823 nominais e 278 de legenda), 4 candidatos eleitos
+2 - PSB - 40, 3503 votos (3282 nominais e 221 de legenda), 3 candidatos eleitos
+3 - PP - 11, 2710 votos (2648 nominais e 62 de legenda), 2 candidatos eleitos
+4 - DEM - 25, 1671 votos (1633 nominais e 38 de legenda), 1 candidato eleito
+5 - PDT - 12, 1232 votos (1160 nominais e 72 de legenda), 1 candidato eleito
+6 - PODE - 19, 545 votos (527 nominais e 18 de legenda), 0 candidato eleito
+7 - REDE - 18, 207 votos (203 nominais e 4 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PP - 11, JEFIM DAL' COL (11111, 701 votos) / MÔNICA DO ZÉ DO RÁDIO (11999, 12 votos)
+2 - PSB - 40, LOLÔ (40123, 701 votos) / JULIANA FERREIRA (40300, 3 votos)
+3 - PSD - 55, BAIANO DA AMBULÂNCIA (55888, 571 votos) / JAQUELINE VEREADORA (55321, 7 votos)
+4 - DEM - 25, NEGO MARIANA (25555, 421 votos) / FERNANDA ALVES (25407, 1 voto)
+5 - PDT - 12, JOÃO BATISTA (12000, 260 votos) / ILZA DA SANTA RITA (12888, 9 votos)
+6 - PODE - 19, ROMAR (19190, 89 votos) / NEGUIM BITU (19666, 4 votos)
+7 - REDE - 18, TUTI DE ITAPEBA (18123, 70 votos) / ALAOR CIGANO (18444, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 3 (27,27%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 2 (18,18%)
+60 <= Idade     : 2 (18,18%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 11 (100,00%)
+
+Total de votos válidos:    13969
+Total de votos nominais:   13276 (95,04%)
+Total de votos de Legenda: 693 (4,96%)

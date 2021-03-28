@@ -1,0 +1,79 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - ADEMIR FAGUNDES DEAMBROSIO / JUNIOR DEAMBROSIO (PL, 327 votos)
+2 - GLAUBER TONON / GLAUBER TONON (REPUBLICANOS, 326 votos)
+3 - ELIEL DOS ANJOS DOS SANTOS / PROFESSOR ELIEL (PP, 301 votos)
+4 - MARCELO ALMEIDA CAMPOSTRINI / MARCELO CAMPOSTRINI (REPUBLICANOS, 301 votos)
+5 - JOSE EVANDRO DE SOUZA / EVANDRO BOCALISA (PSDB, 290 votos)
+6 - CELSO LUIZ GUZZO / CELSO GUZZO (PSD, 281 votos)
+7 - SIMONE LOSS FAVARATO / SIMONE DENTISTA (PP, 255 votos)
+8 - FARAILDES ALVES DE OLIVEIRA DE ALMEIDA / FARAH OLIVEIRA  (PODE, 202 votos)
+9 - ERALDO FRANCISCO POLEZE / ERALDO POLEZE (PV, 198 votos)
+10 - LUCAS DA ROS RECLA / LUCAS RECLA (PSL, 195 votos)
+11 - EDILSON MANTOVANI / EDILSON MANTOVANI (DEM, 97 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ADEMIR FAGUNDES DEAMBROSIO / JUNIOR DEAMBROSIO (PL, 327 votos)
+2 - GLAUBER TONON / GLAUBER TONON (REPUBLICANOS, 326 votos)
+3 - ELIEL DOS ANJOS DOS SANTOS / PROFESSOR ELIEL (PP, 301 votos)
+4 - MARCELO ALMEIDA CAMPOSTRINI / MARCELO CAMPOSTRINI (REPUBLICANOS, 301 votos)
+5 - JOSE EVANDRO DE SOUZA / EVANDRO BOCALISA (PSDB, 290 votos)
+6 - CELSO LUIZ GUZZO / CELSO GUZZO (PSD, 281 votos)
+7 - SIMONE LOSS FAVARATO / SIMONE DENTISTA (PP, 255 votos)
+8 - GABRIEL CASOTTI / GABRIEL CASOTTI (PP, 235 votos)
+9 - CLAUDIA BERNADETE SILVERIO  DA SILVA / DETE DA SAÚDE (CIDADANIA, 209 votos)
+10 - FARAILDES ALVES DE OLIVEIRA DE ALMEIDA / FARAH OLIVEIRA  (PODE, 202 votos)
+11 - ERALDO FRANCISCO POLEZE / ERALDO POLEZE (PV, 198 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - GABRIEL CASOTTI / GABRIEL CASOTTI (PP, 235 votos)
+9 - CLAUDIA BERNADETE SILVERIO  DA SILVA / DETE DA SAÚDE (CIDADANIA, 209 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+32 - EDILSON MANTOVANI / EDILSON MANTOVANI (DEM, 97 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PP - 11, 1491 votos (1371 nominais e 120 de legenda), 2 candidatos eleitos
+2 - REPUBLICANOS - 10, 1259 votos (1107 nominais e 152 de legenda), 2 candidatos eleitos
+3 - PV - 43, 996 votos (984 nominais e 12 de legenda), 1 candidato eleito
+4 - PSD - 55, 952 votos (935 nominais e 17 de legenda), 1 candidato eleito
+5 - PL - 22, 926 votos (912 nominais e 14 de legenda), 1 candidato eleito
+6 - PSDB - 45, 838 votos (811 nominais e 27 de legenda), 1 candidato eleito
+7 - PSL - 17, 641 votos (630 nominais e 11 de legenda), 1 candidato eleito
+8 - PODE - 19, 636 votos (625 nominais e 11 de legenda), 1 candidato eleito
+9 - DEM - 25, 597 votos (559 nominais e 38 de legenda), 1 candidato eleito
+10 - CIDADANIA - 23, 545 votos (470 nominais e 75 de legenda), 0 candidato eleito
+11 - PSB - 40, 304 votos (300 nominais e 4 de legenda), 0 candidato eleito
+12 - AVANTE - 70, 172 votos (171 nominais e 1 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PL - 22, JUNIOR DEAMBROSIO (22123, 327 votos) / SEBASTIAO TONON (22022, 12 votos)
+2 - REPUBLICANOS - 10, GLAUBER TONON (10000, 326 votos) / ANTONIO CRUZ (10336, 19 votos)
+3 - PP - 11, PROFESSOR ELIEL (11123, 301 votos) / VIVI (11236, 7 votos)
+4 - PSDB - 45, EVANDRO BOCALISA (45789, 290 votos) / VALERIA DA SAUDE (45555, 8 votos)
+5 - PSD - 55, CELSO GUZZO (55678, 281 votos) / IVANETE RECLA (55999, 1 voto)
+6 - CIDADANIA - 23, DETE DA SAÚDE (23333, 209 votos) / BUIÚ (23789, 3 votos)
+7 - PODE - 19, FARAH OLIVEIRA  (19190, 202 votos) /  EVA CAROLINA SOARES ARAUJO (19000, 1 voto)
+8 - PV - 43, ERALDO POLEZE (43321, 198 votos) / ROGÉRIO FARIA (43193, 19 votos)
+9 - PSL - 17, LUCAS RECLA (17120, 195 votos) / LUIS CARLOS ASSIS MIRANDA (17770, 0 voto)
+10 - PSB - 40, AUGUSTO (40500, 118 votos) / ROSI (40900, 3 votos)
+11 - DEM - 25, EDILSON MANTOVANI (25333, 97 votos) / VALDINEI COWBOY (25677, 4 votos)
+12 - AVANTE - 70, MENELLI DO TAXI (70466, 73 votos) / NETE SFALSIN (70440, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (9,09%)
+30 <= Idade < 40: 3 (27,27%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 3 (27,27%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  2 (18,18%)
+Masculino: 9 (81,82%)
+
+Total de votos válidos:    9357
+Total de votos nominais:   8875 (94,85%)
+Total de votos de Legenda: 482 (5,15%)

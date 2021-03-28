@@ -1,0 +1,83 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - MARCO ANTONIO SANDRE CORREIA / MARCO ZOIM (PSDB, 724 votos)
+2 - RAMON LAMBRANHO / RAMON LAMBRANHO (DEM, 631 votos)
+3 - TIAGO DE SOUZA / TIAGO DA PAPELARIA (PTB, 564 votos)
+4 - WARLEN CÉSAR BORTOLI / VERMELHO (REPUBLICANOS, 556 votos)
+5 - LUCIANO DINIZ SANT'ANNA / LUCIANO DINIZ (PODE, 533 votos)
+6 - DIMAS LUZÓRIO / DIMAS LUZÓRIO (PSB, 527 votos)
+7 - RENAN VIÇOSI MAIA / RENAN MAIA (PV, 470 votos)
+8 - MARIA LÚCIA VENTORIM / LÚCIA VENTORIM (DEM, 460 votos)
+9 - NEUCILENE COGO VIANA / DU DO SALÃO (REPUBLICANOS, 423 votos)
+10 - MARCIA APARECIDA PICOLI MENDONÇA PEDRUZZI / MÁRCIA PEDRUZZI (MDB, 411 votos)
+11 - MATEUS FIM PAGIO / MATEUS FIM PAGIO (PSL, 401 votos)
+12 - EDIMAR CELIN / MAZINHO CELIN (PSDB, 383 votos)
+13 - CIDCLEI CÔCO / YHAYHA CÔCO (PV, 337 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - MARCO ANTONIO SANDRE CORREIA / MARCO ZOIM (PSDB, 724 votos)
+2 - RAMON LAMBRANHO / RAMON LAMBRANHO (DEM, 631 votos)
+3 - TIAGO DE SOUZA / TIAGO DA PAPELARIA (PTB, 564 votos)
+4 - WARLEN CÉSAR BORTOLI / VERMELHO (REPUBLICANOS, 556 votos)
+5 - AGNALDO MASSAFRA / GASOLINA (PTB, 547 votos)
+6 - LUCIANO DINIZ SANT'ANNA / LUCIANO DINIZ (PODE, 533 votos)
+7 - DIMAS LUZÓRIO / DIMAS LUZÓRIO (PSB, 527 votos)
+8 - RENAN VIÇOSI MAIA / RENAN MAIA (PV, 470 votos)
+9 - MARIA LÚCIA VENTORIM / LÚCIA VENTORIM (DEM, 460 votos)
+10 - HENRIQUE FRAUCHES / HENRIQUE FRAUCHES (PSB, 447 votos)
+11 - NEUCILENE COGO VIANA / DU DO SALÃO (REPUBLICANOS, 423 votos)
+12 - MARCIA APARECIDA PICOLI MENDONÇA PEDRUZZI / MÁRCIA PEDRUZZI (MDB, 411 votos)
+13 - MATEUS FIM PAGIO / MATEUS FIM PAGIO (PSL, 401 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+5 - AGNALDO MASSAFRA / GASOLINA (PTB, 547 votos)
+10 - HENRIQUE FRAUCHES / HENRIQUE FRAUCHES (PSB, 447 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - CIDCLEI CÔCO / YHAYHA CÔCO (PV, 337 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - DEM - 25, 2656 votos (2586 nominais e 70 de legenda), 2 candidatos eleitos
+2 - PSDB - 45, 2574 votos (2172 nominais e 402 de legenda), 2 candidatos eleitos
+3 - PV - 43, 2449 votos (2291 nominais e 158 de legenda), 2 candidatos eleitos
+4 - REPUBLICANOS - 10, 2337 votos (2308 nominais e 29 de legenda), 2 candidatos eleitos
+5 - PTB - 14, 2248 votos (1900 nominais e 348 de legenda), 1 candidato eleito
+6 - PODE - 19, 2159 votos (2132 nominais e 27 de legenda), 1 candidato eleito
+7 - PSB - 40, 2124 votos (2075 nominais e 49 de legenda), 1 candidato eleito
+8 - MDB - 15, 1676 votos (1525 nominais e 151 de legenda), 1 candidato eleito
+9 - PSL - 17, 1284 votos (1271 nominais e 13 de legenda), 1 candidato eleito
+10 - PL - 22, 597 votos (555 nominais e 42 de legenda), 0 candidato eleito
+11 - PT - 13, 269 votos (251 nominais e 18 de legenda), 0 candidato eleito
+12 - DC - 27, 227 votos (212 nominais e 15 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSDB - 45, MARCO ZOIM (45200, 724 votos) / DANIELE LOPES (45999, 17 votos)
+2 - DEM - 25, RAMON LAMBRANHO (25555, 631 votos) / CARMINHA PÉ NO CHÃO (25333, 1 voto)
+3 - PTB - 14, TIAGO DA PAPELARIA (14100, 564 votos) / APARECIDA PIASSI (14140, 18 votos)
+4 - REPUBLICANOS - 10, VERMELHO (10123, 556 votos) / JANAIR (10010, 9 votos)
+5 - PODE - 19, LUCIANO DINIZ (19456, 533 votos) / MAGDA MAGRI (19555, 6 votos)
+6 - PSB - 40, DIMAS LUZÓRIO (40608, 527 votos) / CLAUDIONILHA (40555, 4 votos)
+7 - PV - 43, RENAN MAIA (43333, 470 votos) / ANA ELOÍSA (43357, 4 votos)
+8 - MDB - 15, MÁRCIA PEDRUZZI (15123, 411 votos) / JÉSSICA ANDREÃO (15333, 21 votos)
+9 - PSL - 17, MATEUS FIM PAGIO (17000, 401 votos) / JULIA DIAS (17111, 12 votos)
+10 - PT - 13, JANETE VALANI (13000, 216 votos) / EDUVIRGEM (13227, 17 votos)
+11 - PL - 22, BRUM (22000, 168 votos) / ZULEICA AYRES (22444, 3 votos)
+12 - DC - 27, LUCIANO ZANELATO (27999, 78 votos) / ROSIRENE (27789, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (15,38%)
+30 <= Idade < 40: 3 (23,08%)
+40 <= Idade < 50: 5 (38,46%)
+50 <= Idade < 60: 2 (15,38%)
+60 <= Idade     : 1 (7,69%)
+
+Eleitos, por sexo:
+Feminino:  3 (23,08%)
+Masculino: 10 (76,92%)
+
+Total de votos válidos:    20600
+Total de votos nominais:   19278 (93,58%)
+Total de votos de Legenda: 1322 (6,42%)

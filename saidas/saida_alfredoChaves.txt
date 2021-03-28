@@ -1,0 +1,62 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - NILTON CESAR BELMOK / NILTON BELMOK (PSB, 533 votos)
+2 - NARCISO DE ABREU GRASSI / NARCIZO GRASSI (PATRIOTA, 530 votos)
+3 - CHARLES GAIGHER / CHARLES GAIGHER (PSB, 479 votos)
+4 - SERAFINO ANTONIO SIMONI / SERAFINO SIMONI (PSB, 437 votos)
+5 - ADILSON JOSE ROVETA / ADILSON ROVETA (PSB, 382 votos)
+6 - SERGIO BIANCHI / SERGIO BIANCHI (PSDB, 347 votos)
+7 - HUGO LUIZ PICOLI MENEGHEL / HUGO LUIZ (PTB, 345 votos)
+8 - OSVALDO SGULMARO / OSVALDO SGULMARO (PP, 338 votos)
+9 - ARMANDO ZANATA INGLE RIBEIRO / ZANATA (REPUBLICANOS, 193 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - NILTON CESAR BELMOK / NILTON BELMOK (PSB, 533 votos)
+2 - NARCISO DE ABREU GRASSI / NARCIZO GRASSI (PATRIOTA, 530 votos)
+3 - CHARLES GAIGHER / CHARLES GAIGHER (PSB, 479 votos)
+4 - SERAFINO ANTONIO SIMONI / SERAFINO SIMONI (PSB, 437 votos)
+5 - ADILSON JOSE ROVETA / ADILSON ROVETA (PSB, 382 votos)
+6 - SERGIO BIANCHI / SERGIO BIANCHI (PSDB, 347 votos)
+7 - HUGO LUIZ PICOLI MENEGHEL / HUGO LUIZ (PTB, 345 votos)
+8 - OSVALDO SGULMARO / OSVALDO SGULMARO (PP, 338 votos)
+9 - DANIEL ORLANDI / DANIEL ORLANDI (PSB, 310 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+9 - DANIEL ORLANDI / DANIEL ORLANDI (PSB, 310 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - ARMANDO ZANATA INGLE RIBEIRO / ZANATA (REPUBLICANOS, 193 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 3460 votos (3242 nominais e 218 de legenda), 4 candidatos eleitos
+2 - PTB - 14, 1372 votos (1353 nominais e 19 de legenda), 1 candidato eleito
+3 - REPUBLICANOS - 10, 1282 votos (1194 nominais e 88 de legenda), 1 candidato eleito
+4 - PSDB - 45, 1249 votos (1223 nominais e 26 de legenda), 1 candidato eleito
+5 - PP - 11, 978 votos (951 nominais e 27 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 889 votos (880 nominais e 9 de legenda), 1 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, NILTON BELMOK (40000, 533 votos) / DULCIANE BRUNORO (40555, 8 votos)
+2 - PATRIOTA - 51, NARCIZO GRASSI (51311, 530 votos) / GIANNE COSTUREIRA (51222, 6 votos)
+3 - PSDB - 45, SERGIO BIANCHI (45100, 347 votos) / FRANÇA (45888, 4 votos)
+4 - PTB - 14, HUGO LUIZ (14123, 345 votos) / SARAH ALVES (14789, 3 votos)
+5 - PP - 11, OSVALDO SGULMARO (11999, 338 votos) / ELIZANGELA SOUZA DA SILVA (11357, 6 votos)
+6 - REPUBLICANOS - 10, ZANATA (10345, 193 votos) / MATHIAS JUNIOR (10100, 9 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 2 (22,22%)
+30 <= Idade < 40: 0 (,00%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 4 (44,44%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    9230
+Total de votos nominais:   8843 (95,81%)
+Total de votos de Legenda: 387 (4,19%)

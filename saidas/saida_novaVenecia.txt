@@ -1,0 +1,91 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - ANDERSON MERLIN SALVADOR / ANDERSON SALVADOR (PSDB, 1210 votos)
+2 - DAMIÃO BONOMETTE / DAMIÃO BONOMETTE (PSB, 1052 votos)
+3 - JUAREZ OLIOSI / JUAREZ OLIOSI (PSB, 858 votos)
+4 - JOSE LUIZ DA SILVA / ZE LUIZ DO CRICARE (PDT, 602 votos)
+5 - PEDRO HENRIQUE PESTANA GONÇALVES / PEDRO GONÇALVES (PODE, 569 votos)
+6 - VANDERLEI BASTOS GONÇALVES / DELEI DA BORRACHARIA (SOLIDARIEDADE, 541 votos)
+7 - VALDECIR SILVESTRE JULIATTI / FIO JULIATTI (PSB, 536 votos)
+8 - MAYARA APARECIDA MORAES ELLER MININO / MAYARA ELLER (REPUBLICANOS, 508 votos)
+9 - ENÉAS SCARDINI JUNIOR / JUNINHO CATATAU (PSB, 439 votos)
+10 - JOSE PEREIRA SENA / DEGA DO ALTOE (PDT, 377 votos)
+11 - JOSIAS MENDES MACHADO / JORGE MACHADO (DC, 306 votos)
+12 - ROAN ROGER GOMES MARQUES / ROAN ROGER (MDB, 291 votos)
+13 - SEBASTIÃO ANTONIO MACEDO / TIÃO (SOLIDARIEDADE, 284 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ANDERSON MERLIN SALVADOR / ANDERSON SALVADOR (PSDB, 1210 votos)
+2 - DAMIÃO BONOMETTE / DAMIÃO BONOMETTE (PSB, 1052 votos)
+3 - JUAREZ OLIOSI / JUAREZ OLIOSI (PSB, 858 votos)
+4 - JOSE LUIZ DA SILVA / ZE LUIZ DO CRICARE (PDT, 602 votos)
+5 - PEDRO HENRIQUE PESTANA GONÇALVES / PEDRO GONÇALVES (PODE, 569 votos)
+6 - VANDERLEI BASTOS GONÇALVES / DELEI DA BORRACHARIA (SOLIDARIEDADE, 541 votos)
+7 - VALDECIR SILVESTRE JULIATTI / FIO JULIATTI (PSB, 536 votos)
+8 - MAYARA APARECIDA MORAES ELLER MININO / MAYARA ELLER (REPUBLICANOS, 508 votos)
+9 - ENÉAS SCARDINI JUNIOR / JUNINHO CATATAU (PSB, 439 votos)
+10 - OTAMIR CARLONI / CARLONI (PSB, 414 votos)
+11 - SAULO DE SOUZA RIBEIRO / SAULO RIBEIRO (PSB, 407 votos)
+12 - JOSE LIMA NETO / ZEZIM DA AMBULÂNCIA (PSB, 392 votos)
+13 - ANDRE NETO ZEN / ANDRÉ ZEN (REPUBLICANOS, 391 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+10 - OTAMIR CARLONI / CARLONI (PSB, 414 votos)
+11 - SAULO DE SOUZA RIBEIRO / SAULO RIBEIRO (PSB, 407 votos)
+12 - JOSE LIMA NETO / ZEZIM DA AMBULÂNCIA (PSB, 392 votos)
+13 - ANDRE NETO ZEN / ANDRÉ ZEN (REPUBLICANOS, 391 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+19 - JOSIAS MENDES MACHADO / JORGE MACHADO (DC, 306 votos)
+20 - ROAN ROGER GOMES MARQUES / ROAN ROGER (MDB, 291 votos)
+22 - SEBASTIÃO ANTONIO MACEDO / TIÃO (SOLIDARIEDADE, 284 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 6100 votos (5734 nominais e 366 de legenda), 4 candidatos eleitos
+2 - PDT - 12, 2972 votos (2530 nominais e 442 de legenda), 2 candidatos eleitos
+3 - SOLIDARIEDADE - 77, 2794 votos (2760 nominais e 34 de legenda), 2 candidatos eleitos
+4 - PODE - 19, 2443 votos (2406 nominais e 37 de legenda), 1 candidato eleito
+5 - PSDB - 45, 2393 votos (2361 nominais e 32 de legenda), 1 candidato eleito
+6 - REPUBLICANOS - 10, 2314 votos (2265 nominais e 49 de legenda), 1 candidato eleito
+7 - DC - 27, 1717 votos (1701 nominais e 16 de legenda), 1 candidato eleito
+8 - MDB - 15, 1436 votos (1159 nominais e 277 de legenda), 1 candidato eleito
+9 - REDE - 18, 1153 votos (1139 nominais e 14 de legenda), 0 candidato eleito
+10 - PT - 13, 934 votos (863 nominais e 71 de legenda), 0 candidato eleito
+11 - PSD - 55, 903 votos (885 nominais e 18 de legenda), 0 candidato eleito
+12 - DEM - 25, 476 votos (430 nominais e 46 de legenda), 0 candidato eleito
+13 - CIDADANIA - 23, 80 votos (36 nominais e 44 de legenda), 0 candidato eleito
+14 - PSL - 17, 66 votos (43 nominais e 23 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSDB - 45, ANDERSON SALVADOR (45555, 1210 votos) / SCHAULIN (45150, 6 votos)
+2 - PSB - 40, DAMIÃO BONOMETTE (40333, 1052 votos) / SANDRO DANCE (40234, 18 votos)
+3 - PDT - 12, ZE LUIZ DO CRICARE (12000, 602 votos) / VALMIR DO GAS (12121, 16 votos)
+4 - PODE - 19, PEDRO GONÇALVES (19019, 569 votos) / GLEICIELE TEODORIO (19020, 0 voto)
+5 - SOLIDARIEDADE - 77, DELEI DA BORRACHARIA (77777, 541 votos) / PATRICIA COSTA (77999, 20 votos)
+6 - REPUBLICANOS - 10, MAYARA ELLER (10000, 508 votos) / CIDA DO VALDÓ (10999, 15 votos)
+7 - DC - 27, JORGE MACHADO (27333, 306 votos) / DÉBORA BRAGA (27707, 1 voto)
+8 - MDB - 15, ROAN ROGER (15111, 291 votos) / EDMAR CAFÉ (15155, 13 votos)
+9 - DEM - 25, MARCELO ALEMÃO (25123, 279 votos) / WELVES ARAUJO (25250, 15 votos)
+10 - REDE - 18, CLAUDIO DO GRANITO (18888, 274 votos) / RAULISTEIA SOARES (18999, 6 votos)
+11 - PSD - 55, MICHEL VALENTIM (55765, 182 votos) / OLINTO CHAGAS (55555, 30 votos)
+12 - PT - 13, VAL DA GARRA (13222, 157 votos) / GERALDO JUSTINIANO (13111, 32 votos)
+13 - PSL - 17, EVERALDO MOTOBOY (17100, 43 votos) / EVERALDO MOTOBOY (17100, 43 votos)
+14 - CIDADANIA - 23, AFONSO BONOMO (23151, 36 votos) / AFONSO BONOMO (23151, 36 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 4 (30,77%)
+40 <= Idade < 50: 4 (30,77%)
+50 <= Idade < 60: 4 (30,77%)
+60 <= Idade     : 1 (7,69%)
+
+Eleitos, por sexo:
+Feminino:  1 (7,69%)
+Masculino: 12 (92,31%)
+
+Total de votos válidos:    25781
+Total de votos nominais:   24312 (94,30%)
+Total de votos de Legenda: 1469 (5,70%)

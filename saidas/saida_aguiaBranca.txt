@@ -1,0 +1,67 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - AMARILDO FRANSKOVIASK / NIQUIM BRUNI (PSD, 365 votos)
+2 - FLORESMIL BARBOSA FIUZA / FLOR (PSDB, 289 votos)
+3 - ALTAIR ANDREIA POLEZ / POLEZ (PSDB, 274 votos)
+4 - ANTONIA APARECIDA CASSUNDÉ DE OLIVEIRA / APARECIDA CASSUNDÉ (PSB, 267 votos)
+5 - MARTA MARIA ALVES DA SILVA FARIAS / MARTA (PSDB, 261 votos)
+6 - WALACE ANTONIO DA SILVA SOUZA / WALACE CHUAMBA (PSB, 241 votos)
+7 - LENILSON DA FONSECA LACERDA / LENILSON LACERDA (PSD, 215 votos)
+8 - JOSE CARLOS DE SOUZA PARANHO / ZE CARLOS (CIDADANIA, 167 votos)
+9 - GEOVANE NICHIO RONCONI / GEOVANI RONCONI (PP, 123 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - AMARILDO FRANSKOVIASK / NIQUIM BRUNI (PSD, 365 votos)
+2 - FLORESMIL BARBOSA FIUZA / FLOR (PSDB, 289 votos)
+3 - ALTAIR ANDREIA POLEZ / POLEZ (PSDB, 274 votos)
+4 - ANTONIA APARECIDA CASSUNDÉ DE OLIVEIRA / APARECIDA CASSUNDÉ (PSB, 267 votos)
+5 - MARTA MARIA ALVES DA SILVA FARIAS / MARTA (PSDB, 261 votos)
+6 - CLODOALDO CASSARO / CLODOALDO (PT, 244 votos)
+7 - WALACE ANTONIO DA SILVA SOUZA / WALACE CHUAMBA (PSB, 241 votos)
+8 - ERALDO JOSE RORIZ / DR ERALDO (PSB, 235 votos)
+9 - EDIRLEI DO COUTO QUIUQUI / DIDI (PSDB, 229 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - CLODOALDO CASSARO / CLODOALDO (PT, 244 votos)
+8 - ERALDO JOSE RORIZ / DR ERALDO (PSB, 235 votos)
+9 - EDIRLEI DO COUTO QUIUQUI / DIDI (PSDB, 229 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+19 - JOSE CARLOS DE SOUZA PARANHO / ZE CARLOS (CIDADANIA, 167 votos)
+21 - GEOVANE NICHIO RONCONI / GEOVANI RONCONI (PP, 123 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSDB - 45, 1778 votos (1749 nominais e 29 de legenda), 3 candidatos eleitos
+2 - PSB - 40, 1334 votos (1233 nominais e 101 de legenda), 2 candidatos eleitos
+3 - PSD - 55, 1164 votos (1151 nominais e 13 de legenda), 2 candidatos eleitos
+4 - CIDADANIA - 23, 912 votos (789 nominais e 123 de legenda), 1 candidato eleito
+5 - PP - 11, 563 votos (528 nominais e 35 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 562 votos (552 nominais e 10 de legenda), 0 candidato eleito
+7 - PT - 13, 529 votos (516 nominais e 13 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, NIQUIM BRUNI (55678, 365 votos) / MARA ANDRADE (55333, 7 votos)
+2 - PSDB - 45, FLOR (45000, 289 votos) / GEDEAN  (45666, 12 votos)
+3 - PSB - 40, APARECIDA CASSUNDÉ (40333, 267 votos) / FLAVIA NEGRELLI (40140, 17 votos)
+4 - PT - 13, CLODOALDO (13999, 244 votos) / MARIA DO CARMO (13555, 7 votos)
+5 - PATRIOTA - 51, JULIO TATU (51333, 198 votos) / LUCI DO PESQUE E PAGUE (51222, 53 votos)
+6 - CIDADANIA - 23, ZE CARLOS (23222, 167 votos) / CELIO (23369, 8 votos)
+7 - PP - 11, GEOVANI RONCONI (11111, 123 votos) / KHAIRA TRAJANO (11773, 7 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 1 (11,11%)
+50 <= Idade < 60: 5 (55,56%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    6842
+Total de votos nominais:   6518 (95,26%)
+Total de votos de Legenda: 324 (4,74%)

@@ -1,0 +1,110 @@
+Número de vagas: 17
+
+Vereadores eleitos:
+1 - JUAREZ SANTO DONATELLI / JUAREZ DONATELLI (PV, 1649 votos)
+2 - GILSON GATTI / GILSON GATTI DA FARMÁCIA (MDB, 1637 votos)
+3 - VALDIR RODRIGUES MACIEL / VALDIR MACIEL (PODE, 1529 votos)
+4 - ROQUE CHILE DE SOUZA / ROQUE CHILE (PSDB, 1424 votos)
+5 - EGMAR SOUZA MATIAS / EGMAR O GUIGUI (PSC, 1230 votos)
+6 - FABRÍCIO LOPES DA SILVA / FABRÍCIO LOPES (MDB, 1149 votos)
+7 - CARLOS ALMEIDA FILHO / DR CARLOS ALMEIDA (PDT, 1117 votos)
+8 - EDIMAR VITORAZZI / EDIMAR VITORAZZI (REPUBLICANOS, 1058 votos)
+9 - RONALD PASSOS PEREIRA / RONINHO NA URNA (DC, 1053 votos)
+10 - ALYSSON FRANCISCO GOMES REIS / ALYSSON REIS (DC, 1038 votos)
+11 - ANTONIO CESAR MACHADO DA SILVA / PROFESSOR ANTÔNIO CESAR (PV, 1038 votos)
+12 - WALDEIR DE FREITAS LOPES / WALDEIR DE FREITAS (PTB, 1031 votos)
+13 - FRANCISCO TARCISIO SILVA / TARCISIO SILVA (PSB, 898 votos)
+14 - JADIR RIGOTTI JUNIOR / JUNINHO BUGUIU (PV, 798 votos)
+15 - MANOEL MESSIAS CALIMAN / MESSIAS CALIMAN (REDE, 722 votos)
+16 - THEREZINHA VERGNA VIEIRA / THEREZINHA DE RIO QUARTEL (REDE, 700 votos)
+17 - WELLINGTON VIZENTINI / VICENTINI (REDE, 694 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JUAREZ SANTO DONATELLI / JUAREZ DONATELLI (PV, 1649 votos)
+2 - GILSON GATTI / GILSON GATTI DA FARMÁCIA (MDB, 1637 votos)
+3 - VALDIR RODRIGUES MACIEL / VALDIR MACIEL (PODE, 1529 votos)
+4 - ROQUE CHILE DE SOUZA / ROQUE CHILE (PSDB, 1424 votos)
+5 - EGMAR SOUZA MATIAS / EGMAR O GUIGUI (PSC, 1230 votos)
+6 - CARLOS ROBERTO ROMANHA / SARGENTO ROMANHA (PSL, 1199 votos)
+7 - PAMELA GONÇALVES MAIA / PAMELA MAIA (PSDB, 1150 votos)
+8 - FABRÍCIO LOPES DA SILVA / FABRÍCIO LOPES (MDB, 1149 votos)
+9 - GELSON LUIZ SUAVE / GELSON SUAVE (PSC, 1122 votos)
+10 - CARLOS ALMEIDA FILHO / DR CARLOS ALMEIDA (PDT, 1117 votos)
+11 - EVELSON LIMA MIRANDA / EVELSON LIMA (PDT, 1082 votos)
+12 - PEDRO JOEL CELESTRINI / JOEL CELESTRINI (PSDB, 1081 votos)
+13 - EDIMAR VITORAZZI / EDIMAR VITORAZZI (REPUBLICANOS, 1058 votos)
+14 - RONALD PASSOS PEREIRA / RONINHO NA URNA (DC, 1053 votos)
+15 - ALYSSON FRANCISCO GOMES REIS / ALYSSON REIS (DC, 1038 votos)
+16 - ANTONIO CESAR MACHADO DA SILVA / PROFESSOR ANTÔNIO CESAR (PV, 1038 votos)
+17 - WALDEIR DE FREITAS LOPES / WALDEIR DE FREITAS (PTB, 1031 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - CARLOS ROBERTO ROMANHA / SARGENTO ROMANHA (PSL, 1199 votos)
+7 - PAMELA GONÇALVES MAIA / PAMELA MAIA (PSDB, 1150 votos)
+9 - GELSON LUIZ SUAVE / GELSON SUAVE (PSC, 1122 votos)
+11 - EVELSON LIMA MIRANDA / EVELSON LIMA (PDT, 1082 votos)
+12 - PEDRO JOEL CELESTRINI / JOEL CELESTRINI (PSDB, 1081 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - ANTONIO CESAR MACHADO DA SILVA / PROFESSOR ANTÔNIO CESAR (PV, 1038 votos)
+17 - WALDEIR DE FREITAS LOPES / WALDEIR DE FREITAS (PTB, 1031 votos)
+21 - FRANCISCO TARCISIO SILVA / TARCISIO SILVA (PSB, 898 votos)
+25 - JADIR RIGOTTI JUNIOR / JUNINHO BUGUIU (PV, 798 votos)
+29 - MANOEL MESSIAS CALIMAN / MESSIAS CALIMAN (REDE, 722 votos)
+33 - THEREZINHA VERGNA VIEIRA / THEREZINHA DE RIO QUARTEL (REDE, 700 votos)
+34 - WELLINGTON VIZENTINI / VICENTINI (REDE, 694 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PV - 43, 10709 votos (10344 nominais e 365 de legenda), 3 candidatos eleitos
+2 - REDE - 18, 9249 votos (9118 nominais e 131 de legenda), 3 candidatos eleitos
+3 - DC - 27, 8030 votos (7494 nominais e 536 de legenda), 2 candidatos eleitos
+4 - MDB - 15, 7062 votos (5429 nominais e 1633 de legenda), 2 candidatos eleitos
+5 - PSB - 40, 6047 votos (5971 nominais e 76 de legenda), 1 candidato eleito
+6 - PODE - 19, 5875 votos (5659 nominais e 216 de legenda), 1 candidato eleito
+7 - PSC - 20, 5445 votos (5368 nominais e 77 de legenda), 1 candidato eleito
+8 - PSDB - 45, 4982 votos (4864 nominais e 118 de legenda), 1 candidato eleito
+9 - PTB - 14, 4543 votos (4447 nominais e 96 de legenda), 1 candidato eleito
+10 - REPUBLICANOS - 10, 4350 votos (4288 nominais e 62 de legenda), 1 candidato eleito
+11 - PDT - 12, 3937 votos (3766 nominais e 171 de legenda), 1 candidato eleito
+12 - PSD - 55, 2528 votos (2499 nominais e 29 de legenda), 0 candidato eleito
+13 - CIDADANIA - 23, 1983 votos (1922 nominais e 61 de legenda), 0 candidato eleito
+14 - PSL - 17, 1892 votos (1847 nominais e 45 de legenda), 0 candidato eleito
+15 - PT - 13, 449 votos (353 nominais e 96 de legenda), 0 candidato eleito
+16 - PSOL - 50, 295 votos (267 nominais e 28 de legenda), 0 candidato eleito
+17 - AVANTE - 70, 62 votos (54 nominais e 8 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PV - 43, JUAREZ DONATELLI (43233, 1649 votos) / SUZANA FRANÇA (43333, 28 votos)
+2 - MDB - 15, GILSON GATTI DA FARMÁCIA (15123, 1637 votos) / ANTÔNIO NUNES DATENA (15121, 8 votos)
+3 - PODE - 19, VALDIR MACIEL (19333, 1529 votos) / MARINALVA (19719, 0 voto)
+4 - PSDB - 45, ROQUE CHILE (45000, 1424 votos) / KATIA ABREU (45580, 14 votos)
+5 - PSC - 20, EGMAR O GUIGUI (20111, 1230 votos) / LEONARDO ANTUNES (20322, 6 votos)
+6 - PSL - 17, SARGENTO ROMANHA (17000, 1199 votos) / LU MENELLI (17007, 12 votos)
+7 - PDT - 12, DR CARLOS ALMEIDA (12300, 1117 votos) / SARA SOUZA (12789, 3 votos)
+8 - REPUBLICANOS - 10, EDIMAR VITORAZZI (10444, 1058 votos) / JOSI (10100, 1 voto)
+9 - DC - 27, RONINHO NA URNA (27456, 1053 votos) / ALDA CABELEREIRA (27700, 14 votos)
+10 - PTB - 14, WALDEIR DE FREITAS (14000, 1031 votos) / JULIO CEZAR (14119, 0 voto)
+11 - PSB - 40, TARCISIO SILVA (40000, 898 votos) / AUREA VEIGA (40224, 16 votos)
+12 - PSD - 55, SAMUEL DO NOVA ESPERANÇA (55444, 846 votos) / ELTON KATI (55156, 20 votos)
+13 - REDE - 18, MESSIAS CALIMAN (18666, 722 votos) / CÉLIA FERREIRA (18124, 14 votos)
+14 - CIDADANIA - 23, ZÉ DA ÉGUA (23111, 613 votos) / SÔNIA MARA (23218, 2 votos)
+15 - PSOL - 50, PROFESSOR LÉO MARTINS (50000, 188 votos) / SANDRA MARA (50123, 79 votos)
+16 - PT - 13, ROSILDA (13155, 87 votos) / MARCOS (13456, 2 votos)
+17 - AVANTE - 70, PROFESSORA GRAÇA (70000, 27 votos) / TELINHO (70222, 27 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 5 (29,41%)
+40 <= Idade < 50: 2 (11,76%)
+50 <= Idade < 60: 5 (29,41%)
+60 <= Idade     : 5 (29,41%)
+
+Eleitos, por sexo:
+Feminino:  1 (5,88%)
+Masculino: 16 (94,12%)
+
+Total de votos válidos:    77438
+Total de votos nominais:   73690 (95,16%)
+Total de votos de Legenda: 3748 (4,84%)

@@ -1,0 +1,62 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ERALDO FRANCISCO DE SOUZA / ERALDO DA SAÚDE (PSD, 783 votos)
+2 - JOAZI FERNANDES BATISTA / JOAZI CRIC (PSD, 509 votos)
+3 - JOÃO JOSE DE OLIVEIRA NETO / JOÃO MADALENA (PSB, 502 votos)
+4 - HELIO PEREIRA / HELIO DA ÁGUA (PSD, 450 votos)
+5 - FERNANDO CAITANO DE OLIVEIRA / FERNANDINHO DO JORGEIRA (PP, 421 votos)
+6 - VILMA COSTA AQUINO DE ASSIS / VILMA ENFERMEIRA (REPUBLICANOS, 411 votos)
+7 - JACINTO LOPES CABRAL / JUNINHO CABRAL (PP, 365 votos)
+8 - EDMAR BRUM DA FONSECA / BRUM (PSB, 334 votos)
+9 - LUIZ ROBERTO DE BARROS AZZINI / ROBERTO AZZINI (REPUBLICANOS, 188 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ERALDO FRANCISCO DE SOUZA / ERALDO DA SAÚDE (PSD, 783 votos)
+2 - JOAZI FERNANDES BATISTA / JOAZI CRIC (PSD, 509 votos)
+3 - JOÃO JOSE DE OLIVEIRA NETO / JOÃO MADALENA (PSB, 502 votos)
+4 - HELIO PEREIRA / HELIO DA ÁGUA (PSD, 450 votos)
+5 - FERNANDO CAITANO DE OLIVEIRA / FERNANDINHO DO JORGEIRA (PP, 421 votos)
+6 - VILMA COSTA AQUINO DE ASSIS / VILMA ENFERMEIRA (REPUBLICANOS, 411 votos)
+7 - JACINTO LOPES CABRAL / JUNINHO CABRAL (PP, 365 votos)
+8 - EDMAR BRUM DA FONSECA / BRUM (PSB, 334 votos)
+9 - SIDICLEI VALENTIM DA COSTA / SIDICLEI DO SIDEUM (PSD, 273 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+9 - SIDICLEI VALENTIM DA COSTA / SIDICLEI DO SIDEUM (PSD, 273 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - LUIZ ROBERTO DE BARROS AZZINI / ROBERTO AZZINI (REPUBLICANOS, 188 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 2830 votos (2633 nominais e 197 de legenda), 3 candidatos eleitos
+2 - PP - 11, 1721 votos (1688 nominais e 33 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 1597 votos (1441 nominais e 156 de legenda), 2 candidatos eleitos
+4 - REPUBLICANOS - 10, 1503 votos (1467 nominais e 36 de legenda), 2 candidatos eleitos
+5 - PSDB - 45, 247 votos (204 nominais e 43 de legenda), 0 candidato eleito
+6 - PT - 13, 223 votos (210 nominais e 13 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, ERALDO DA SAÚDE (55222, 783 votos) / JULIA EVENTOS (55111, 3 votos)
+2 - PSB - 40, JOÃO MADALENA (40222, 502 votos) / EVA GOMES (40100, 2 votos)
+3 - PP - 11, FERNANDINHO DO JORGEIRA (11007, 421 votos) / SIMONE MENEZES (11123, 3 votos)
+4 - REPUBLICANOS - 10, VILMA ENFERMEIRA (10123, 411 votos) / NINA (10404, 13 votos)
+5 - PT - 13, OSVALDO (13456, 87 votos) / GERSOM RIBEIRO (13333, 13 votos)
+6 - PSDB - 45, PASSIL (45123, 56 votos) / CELIA (45888, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 5 (55,56%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    8121
+Total de votos nominais:   7643 (94,11%)
+Total de votos de Legenda: 478 (5,89%)

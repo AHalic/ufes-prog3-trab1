@@ -1,0 +1,69 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ROBERTO PESSIN DESTEFFANI / ROBSON DESTEFFANI (PSB, 406 votos)
+2 - WESLEY SATLHER DA COSTA / PROFESSOR WESLEY (CIDADANIA, 365 votos)
+3 - JOSÉ LUCIO DE AGUIAR / JOSÉ LUCIO DE AGUIAR (CIDADANIA, 298 votos)
+4 - SAULO MARETO / SAULO MARETO (PSB, 272 votos)
+5 - AUGUSTO SOARES / AUGUSTO SOARES (PSDB, 268 votos)
+6 - THIAGO DAMIÃO LOPES / THIAGO VIANA (REPUBLICANOS, 261 votos)
+7 - MARCOS AURELIO OLIVEIRA PINTO / MARCOS PINTO (PP, 251 votos)
+8 - ANDRÉIA DE ANDRADE DALBÓ / ANDRÉIA DALBÓ (PSB, 244 votos)
+9 - MARIO CARLOS AMBROSIM / PROFESSOR CARLIM (PDT, 238 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ROBERTO PESSIN DESTEFFANI / ROBSON DESTEFFANI (PSB, 406 votos)
+2 - WESLEY SATLHER DA COSTA / PROFESSOR WESLEY (CIDADANIA, 365 votos)
+3 - JOSÉ LUCIO DE AGUIAR / JOSÉ LUCIO DE AGUIAR (CIDADANIA, 298 votos)
+4 - SAULO MARETO / SAULO MARETO (PSB, 272 votos)
+5 - AUGUSTO SOARES / AUGUSTO SOARES (PSDB, 268 votos)
+6 - ANTONIO ANTELMO RIGO VENTORIN / ANTELMINHO VENTORIM (CIDADANIA, 267 votos)
+7 - HUMBERTO ANTÔNIO DA ROCHA / HUMBERTO ROCHA (PSDB, 263 votos)
+8 - THIAGO DAMIÃO LOPES / THIAGO VIANA (REPUBLICANOS, 261 votos)
+9 - CLOVIS DA SILVA VARGAS / CLOVINHO VARGAS (PSDB, 255 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - ANTONIO ANTELMO RIGO VENTORIN / ANTELMINHO VENTORIM (CIDADANIA, 267 votos)
+7 - HUMBERTO ANTÔNIO DA ROCHA / HUMBERTO ROCHA (PSDB, 263 votos)
+9 - CLOVIS DA SILVA VARGAS / CLOVINHO VARGAS (PSDB, 255 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 1843 votos (1729 nominais e 114 de legenda), 3 candidatos eleitos
+2 - CIDADANIA - 23, 1256 votos (1136 nominais e 120 de legenda), 2 candidatos eleitos
+3 - PSDB - 45, 952 votos (913 nominais e 39 de legenda), 1 candidato eleito
+4 - PDT - 12, 660 votos (637 nominais e 23 de legenda), 1 candidato eleito
+5 - PP - 11, 628 votos (614 nominais e 14 de legenda), 1 candidato eleito
+6 - REPUBLICANOS - 10, 622 votos (607 nominais e 15 de legenda), 1 candidato eleito
+7 - AVANTE - 70, 437 votos (352 nominais e 85 de legenda), 0 candidato eleito
+8 - PATRIOTA - 51, 299 votos (293 nominais e 6 de legenda), 0 candidato eleito
+9 - PODE - 19, 195 votos (193 nominais e 2 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, ROBSON DESTEFFANI (40500, 406 votos) / GILMAR MARETO (40777, 3 votos)
+2 - CIDADANIA - 23, PROFESSOR WESLEY (23333, 365 votos) / ARLETE LIMA (23666, 0 voto)
+3 - PSDB - 45, AUGUSTO SOARES (45345, 268 votos) / JOSELIA (45615, 2 votos)
+4 - REPUBLICANOS - 10, THIAGO VIANA (10000, 261 votos) / MAURA (10111, 4 votos)
+5 - PP - 11, MARCOS PINTO (11111, 251 votos) / DALBEM (11999, 1 voto)
+6 - PDT - 12, PROFESSOR CARLIM (12111, 238 votos) / PEDRO CANDIDO DE DEUS (12113, 0 voto)
+7 - PATRIOTA - 51, ALEX MANCHA (51970, 125 votos) / FERNANDO CORRÊA (51003, 2 votos)
+8 - PODE - 19, CONSTANTINO (19000, 77 votos) / RAFAEL CAÇADOR (19444, 6 votos)
+9 - AVANTE - 70, DOUGLAS ZANOLLI (70242, 63 votos) / LIDIA (70000, 1 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 4 (44,44%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    6892
+Total de votos nominais:   6474 (93,93%)
+Total de votos de Legenda: 418 (6,07%)

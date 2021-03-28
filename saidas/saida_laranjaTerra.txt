@@ -1,0 +1,65 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ROBERTO KUSTER BECKER / ROBERTO DA SAÚDE (PP, 487 votos)
+2 - HENRIQUE KUSTER FILHO / HENRIQUE KUSTER (PSB, 453 votos)
+3 - VALÉRIO SARNÁLIA ALVES DEMONER / VALÉRIO DEMONER (PP, 434 votos)
+4 - JAIRO MAYER / JARIM (PSDB, 338 votos)
+5 - JACKSON BULERIANM / JACKSON BULERIANM (MDB, 330 votos)
+6 - JUDAZIO SEIBEL / JUDAZIO SEIBEL (PSB, 293 votos)
+7 - ELSON ARMANI / ETA ARMANI (PSDB, 273 votos)
+8 - ADILSON JOSÉ FERNANDES / ADILSON FERNANDES (PODE, 230 votos)
+9 - JEFERSON JASKE / JÉ DA AGRICULTURA (MDB, 224 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ROBERTO KUSTER BECKER / ROBERTO DA SAÚDE (PP, 487 votos)
+2 - HENRIQUE KUSTER FILHO / HENRIQUE KUSTER (PSB, 453 votos)
+3 - VALÉRIO SARNÁLIA ALVES DEMONER / VALÉRIO DEMONER (PP, 434 votos)
+4 - JAIRO MAYER / JARIM (PSDB, 338 votos)
+5 - JACKSON BULERIANM / JACKSON BULERIANM (MDB, 330 votos)
+6 - CAMILA MARQUES DORING / CAMILA DORING (PP, 310 votos)
+7 - JUDAZIO SEIBEL / JUDAZIO SEIBEL (PSB, 293 votos)
+8 - ELSON ARMANI / ETA ARMANI (PSDB, 273 votos)
+9 - ADILSON JOSÉ FERNANDES / ADILSON FERNANDES (PODE, 230 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - CAMILA MARQUES DORING / CAMILA DORING (PP, 310 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PP - 11, 1788 votos (1755 nominais e 33 de legenda), 2 candidatos eleitos
+2 - MDB - 15, 1517 votos (1394 nominais e 123 de legenda), 2 candidatos eleitos
+3 - PSB - 40, 1472 votos (1348 nominais e 124 de legenda), 2 candidatos eleitos
+4 - PSDB - 45, 1386 votos (1360 nominais e 26 de legenda), 2 candidatos eleitos
+5 - PODE - 19, 1021 votos (1011 nominais e 10 de legenda), 1 candidato eleito
+6 - REDE - 18, 423 votos (401 nominais e 22 de legenda), 0 candidato eleito
+7 - CIDADANIA - 23, 136 votos (133 nominais e 3 de legenda), 0 candidato eleito
+8 - SOLIDARIEDADE - 77, 24 votos (14 nominais e 10 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PP - 11, ROBERTO DA SAÚDE (11111, 487 votos) / MEL ZANOTTI (11017, 3 votos)
+2 - PSB - 40, HENRIQUE KUSTER (40789, 453 votos) / IZALDINA SIMAO (40246, 1 voto)
+3 - PSDB - 45, JARIM (45611, 338 votos) / NILZA KEFFLER (45779, 3 votos)
+4 - MDB - 15, JACKSON BULERIANM (15500, 330 votos) / LETÍCIA DO DOGÃO (15123, 4 votos)
+5 - PODE - 19, ADILSON FERNANDES (19789, 230 votos) / MARILZA PROCHNOW (19999, 7 votos)
+6 - REDE - 18, KIKO MERCANDELE (18000, 213 votos) / LUCIANO TESCH (18001, 2 votos)
+7 - CIDADANIA - 23, JOZIAS TEODORO DA SILVA  (23456, 39 votos) / ELIANE (23111, 2 votos)
+8 - SOLIDARIEDADE - 77, RENATO UHLIG (77444, 8 votos) / KESIA FILHA DO BAMBA (77888, 3 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 3 (33,33%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    7767
+Total de votos nominais:   7416 (95,48%)
+Total de votos de Legenda: 351 (4,52%)

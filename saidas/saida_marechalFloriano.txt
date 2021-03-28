@@ -1,0 +1,64 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - FELIPE HULLE DELPUPPO / FELIPE DELPUPPO (REDE, 794 votos)
+2 - MAYLSON LITTIG / MAYLSON LITTIG (PSB, 689 votos)
+3 - RENATO LUIZ VELOSO WERNECK / RENATO DA AMBULÂNCIA (PSDB, 532 votos)
+4 - ABRÃO LEVI KIFFER / COQUINHO (PTB, 431 votos)
+5 - CEZAR TADEU RONCHI JUNIOR / CEZINHA RONCHI (PSDB, 412 votos)
+6 - JOSE RODOLFO KROHLING / DODO KROHLING (REPUBLICANOS, 401 votos)
+7 - LUCIANO NAVAR BOENO MENENDEZ / NAVAR BOENO (PSB, 363 votos)
+8 - JUAREZ JOSE XAVIER / JUAREZ XAVIER (REDE, 327 votos)
+9 - NATALINO BIANQUI NETTO / NATALINO DA MANOS (PRTB, 295 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - FELIPE HULLE DELPUPPO / FELIPE DELPUPPO (REDE, 794 votos)
+2 - MAYLSON LITTIG / MAYLSON LITTIG (PSB, 689 votos)
+3 - RENATO LUIZ VELOSO WERNECK / RENATO DA AMBULÂNCIA (PSDB, 532 votos)
+4 - ABRÃO LEVI KIFFER / COQUINHO (PTB, 431 votos)
+5 - CEZAR TADEU RONCHI JUNIOR / CEZINHA RONCHI (PSDB, 412 votos)
+6 - JOSE RODOLFO KROHLING / DODO KROHLING (REPUBLICANOS, 401 votos)
+7 - LUCIANO NAVAR BOENO MENENDEZ / NAVAR BOENO (PSB, 363 votos)
+8 - PAULO LOVATTI JUNIOR / JUNIOR LOVATTI (PSB, 338 votos)
+9 - UBALDINO SARAIVA / UBALDINO SARAIVA (PSDB, 335 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+8 - PAULO LOVATTI JUNIOR / JUNIOR LOVATTI (PSB, 338 votos)
+9 - UBALDINO SARAIVA / UBALDINO SARAIVA (PSDB, 335 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 1947 votos (1757 nominais e 190 de legenda), 2 candidatos eleitos
+2 - PSDB - 45, 1806 votos (1779 nominais e 27 de legenda), 2 candidatos eleitos
+3 - REDE - 18, 1584 votos (1556 nominais e 28 de legenda), 2 candidatos eleitos
+4 - PTB - 14, 1425 votos (1402 nominais e 23 de legenda), 1 candidato eleito
+5 - REPUBLICANOS - 10, 994 votos (968 nominais e 26 de legenda), 1 candidato eleito
+6 - PRTB - 28, 922 votos (773 nominais e 149 de legenda), 1 candidato eleito
+7 - PP - 11, 770 votos (740 nominais e 30 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REDE - 18, FELIPE DELPUPPO (18900, 794 votos) / MARLENE FERNANDES (18401, 8 votos)
+2 - PSB - 40, MAYLSON LITTIG (40122, 689 votos) / GIL COUTINHO (40555, 8 votos)
+3 - PSDB - 45, RENATO DA AMBULÂNCIA (45300, 532 votos) / EDNEIA CARDEIRO (45888, 11 votos)
+4 - PTB - 14, COQUINHO (14123, 431 votos) / ROSI DO MIQUEIAS (14444, 5 votos)
+5 - REPUBLICANOS - 10, DODO KROHLING (10369, 401 votos) / VALMIR RIBETH (10999, 7 votos)
+6 - PRTB - 28, NATALINO DA MANOS (28000, 295 votos) / REGINA (28466, 3 votos)
+7 - PP - 11, NILDA DO SERRANO (11100, 137 votos) / ELY ESPINDULA (11333, 9 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 3 (33,33%)
+40 <= Idade < 50: 3 (33,33%)
+50 <= Idade < 60: 2 (22,22%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 9 (100,00%)
+
+Total de votos válidos:    9448
+Total de votos nominais:   8975 (94,99%)
+Total de votos de Legenda: 473 (5,01%)

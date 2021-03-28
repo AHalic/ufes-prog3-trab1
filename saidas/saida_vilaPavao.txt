@@ -1,0 +1,70 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - ARISTEU REETZ / ARISTEU REETZ (DEM, 238 votos)
+2 - JUVENAL MEDICI FERREIRA / JUVENAL CARA LEGAL (PSB, 180 votos)
+3 - JOÃO TRANCOSO / JOÃO TRANCOSO (PSB, 167 votos)
+4 - FRANCISCO DE ASSIS CAMPOS / FRANCISCO DE ASSIS (PSD, 162 votos)
+5 - JADISMAR ALVES DE MACEDO / JADISMAR (PROS, 162 votos)
+6 - NEUSDETE ROSSINI MOREIRA / NEUSDETE ROSSINI (REPUBLICANOS, 138 votos)
+7 - VAGNO BENTO FELICIO / VAGNO BENTO (DC, 134 votos)
+8 - MARIA TEREZA ROSSIM FARIAS LAUER / MARIA TEREZA (PSD, 129 votos)
+9 - MARCOS ANTONIO DA SILVA / MARQUIM DA CAÇAMBA (CIDADANIA, 96 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ARISTEU REETZ / ARISTEU REETZ (DEM, 238 votos)
+2 - VALDEZ FERRARI / VALDEZ FERRARI (DEM, 226 votos)
+3 - JUVENAL MEDICI FERREIRA / JUVENAL CARA LEGAL (PSB, 180 votos)
+4 - JOÃO TRANCOSO / JOÃO TRANCOSO (PSB, 167 votos)
+5 - ALESSANDRO FRANCISCO GONÇALVES / SANDRINHO (PDT, 162 votos)
+6 - FRANCISCO DE ASSIS CAMPOS / FRANCISCO DE ASSIS (PSD, 162 votos)
+7 - JADISMAR ALVES DE MACEDO / JADISMAR (PROS, 162 votos)
+8 - VALTEMIR ALVES DAMACENO / TEMA (DEM, 157 votos)
+9 - NEUSDETE ROSSINI MOREIRA / NEUSDETE ROSSINI (REPUBLICANOS, 138 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+2 - VALDEZ FERRARI / VALDEZ FERRARI (DEM, 226 votos)
+5 - ALESSANDRO FRANCISCO GONÇALVES / SANDRINHO (PDT, 162 votos)
+8 - VALTEMIR ALVES DAMACENO / TEMA (DEM, 157 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+19 - MARCOS ANTONIO DA SILVA / MARQUIM DA CAÇAMBA (CIDADANIA, 96 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 1139 votos (1104 nominais e 35 de legenda), 2 candidatos eleitos
+2 - PSB - 40, 885 votos (803 nominais e 82 de legenda), 2 candidatos eleitos
+3 - DEM - 25, 770 votos (748 nominais e 22 de legenda), 1 candidato eleito
+4 - REPUBLICANOS - 10, 759 votos (692 nominais e 67 de legenda), 1 candidato eleito
+5 - CIDADANIA - 23, 591 votos (579 nominais e 12 de legenda), 1 candidato eleito
+6 - PROS - 90, 504 votos (500 nominais e 4 de legenda), 1 candidato eleito
+7 - DC - 27, 470 votos (462 nominais e 8 de legenda), 1 candidato eleito
+8 - PDT - 12, 432 votos (393 nominais e 39 de legenda), 0 candidato eleito
+9 - SOLIDARIEDADE - 77, 367 votos (364 nominais e 3 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - DEM - 25, ARISTEU REETZ (25580, 238 votos) / HILBIA QUINTINO (25321, 3 votos)
+2 - PSB - 40, JUVENAL CARA LEGAL (40123, 180 votos) / LUSIA NASCIMENTO ROSSIM (40777, 2 votos)
+3 - PSD - 55, FRANCISCO DE ASSIS (55123, 162 votos) / NITA (55000, 9 votos)
+4 - PROS - 90, JADISMAR (90333, 162 votos) / MARIA DAS GRAÇAS (90888, 5 votos)
+5 - PDT - 12, SANDRINHO (12999, 162 votos) / DONI BOMBEIRO (12777, 4 votos)
+6 - REPUBLICANOS - 10, NEUSDETE ROSSINI (10555, 138 votos) / PEDRO SAICK (10107, 7 votos)
+7 - DC - 27, VAGNO BENTO (27123, 134 votos) / ZEZINHO PEDREIRO (27888, 8 votos)
+8 - CIDADANIA - 23, MARQUIM DA CAÇAMBA (23789, 96 votos) / JAIR WUTKE (23690, 5 votos)
+9 - SOLIDARIEDADE - 77, PROFESSORA MARCELIA (77555, 95 votos) / VALMIR SEMBLEIA (77771, 7 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 2 (22,22%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 5 (55,56%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    5917
+Total de votos nominais:   5645 (95,40%)
+Total de votos de Legenda: 272 (4,60%)

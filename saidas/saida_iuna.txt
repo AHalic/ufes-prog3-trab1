@@ -1,0 +1,74 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - EDSON MARCIO DE ALMEIDA / EDSON (MDB, 842 votos)
+2 - LEONARDO DA COSTA OLIVEIRA / LEONARDO TEIXEIRA (PV, 638 votos)
+3 - MATHEUS FONSECA DE SOUZA / MATHEUS FONSECA (PV, 611 votos)
+4 - JONATHAN BONFANTE MOREIRA / JONATHAN BONFANTE (PDT, 439 votos)
+5 - VALCI DE PAULA MONTONI / VALCI TUIQUINHA (PP, 400 votos)
+6 - PAULO HENRIQUE LEOCÁDIO DA SILVA / PAULINHO DA TÔCA (MDB, 386 votos)
+7 - HELTON AMORIM CUNHA / HELTON MARIANO (PL, 347 votos)
+8 - ADIMILSON DE SOUZA / DIMILSIM FLORA (PSB, 338 votos)
+9 - EMERSON DA SILVA SANTOS / EMERSON SANTOS (MDB, 318 votos)
+10 - EMMANUEL GARCIA DE AMORIM / ENFERMEIRO EMMANUEL (REPUBLICANOS, 271 votos)
+11 - GEOVAN FURTADO DOS REIS / GEOVANNE FURTADO (PP, 269 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - EDSON MARCIO DE ALMEIDA / EDSON (MDB, 842 votos)
+2 - LEONARDO DA COSTA OLIVEIRA / LEONARDO TEIXEIRA (PV, 638 votos)
+3 - MATHEUS FONSECA DE SOUZA / MATHEUS FONSECA (PV, 611 votos)
+4 - EVERALDO PEREIRA SALES / EVERALDO DA BELO AÇO (PV, 542 votos)
+5 - JONATHAN BONFANTE MOREIRA / JONATHAN BONFANTE (PDT, 439 votos)
+6 - VALCI DE PAULA MONTONI / VALCI TUIQUINHA (PP, 400 votos)
+7 - PAULO HENRIQUE LEOCÁDIO DA SILVA / PAULINHO DA TÔCA (MDB, 386 votos)
+8 - HELTON AMORIM CUNHA / HELTON MARIANO (PL, 347 votos)
+9 - ADIMILSON DE SOUZA / DIMILSIM FLORA (PSB, 338 votos)
+10 - EMERSON DA SILVA SANTOS / EMERSON SANTOS (MDB, 318 votos)
+11 - WEVERTON DA SILVA FEITOSA / ZIZINHO FEITOSA (MDB, 317 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - EVERALDO PEREIRA SALES / EVERALDO DA BELO AÇO (PV, 542 votos)
+11 - WEVERTON DA SILVA FEITOSA / ZIZINHO FEITOSA (MDB, 317 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - MDB - 15, 3316 votos (3254 nominais e 62 de legenda), 3 candidatos eleitos
+2 - PV - 43, 2902 votos (2591 nominais e 311 de legenda), 2 candidatos eleitos
+3 - PP - 11, 1980 votos (1645 nominais e 335 de legenda), 2 candidatos eleitos
+4 - PDT - 12, 1959 votos (1892 nominais e 67 de legenda), 1 candidato eleito
+5 - PSB - 40, 1603 votos (1561 nominais e 42 de legenda), 1 candidato eleito
+6 - PL - 22, 1134 votos (1110 nominais e 24 de legenda), 1 candidato eleito
+7 - REPUBLICANOS - 10, 1104 votos (1032 nominais e 72 de legenda), 1 candidato eleito
+8 - PSDB - 45, 789 votos (755 nominais e 34 de legenda), 0 candidato eleito
+9 - PRTB - 28, 243 votos (242 nominais e 1 de legenda), 0 candidato eleito
+10 - DC - 27, 124 votos (121 nominais e 3 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - MDB - 15, EDSON (15600, 842 votos) / ROSÂNGELA DO MANDIOQUINHA (15100, 14 votos)
+2 - PV - 43, LEONARDO TEIXEIRA (43789, 638 votos) / JOICINHA PEQUIÁ (43200, 7 votos)
+3 - PDT - 12, JONATHAN BONFANTE (12500, 439 votos) / ELENIR (12112, 1 voto)
+4 - PP - 11, VALCI TUIQUINHA (11300, 400 votos) / CÁTIA MIRANDA (11444, 8 votos)
+5 - PL - 22, HELTON MARIANO (22500, 347 votos) / PAULO MARINHO (22789, 2 votos)
+6 - PSB - 40, DIMILSIM FLORA (40444, 338 votos) / IRENI (40222, 14 votos)
+7 - REPUBLICANOS - 10, ENFERMEIRO EMMANUEL (10123, 271 votos) / CARLA DIAS (10555, 17 votos)
+8 - PSDB - 45, ANGELA GARCIA (45777, 226 votos) / CARLITINHO (45013, 14 votos)
+9 - PRTB - 28, TIÃO DO PAPELÃO (28555, 53 votos) / LUCIANA FILHA DO HULK (28300, 3 votos)
+10 - DC - 27, CARTUCHO (27500, 40 votos) / EDIANE (27777, 2 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 4 (36,36%)
+40 <= Idade < 50: 5 (45,45%)
+50 <= Idade < 60: 2 (18,18%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 11 (100,00%)
+
+Total de votos válidos:    15154
+Total de votos nominais:   14203 (93,72%)
+Total de votos de Legenda: 951 (6,28%)

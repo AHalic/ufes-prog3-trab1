@@ -1,0 +1,67 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - CARLOS DE OLIVEIRA BARBOZA / CARLOS DA CASA DO PRODUTOR (PSD, 633 votos)
+2 - EUZENI BORGES SOARES KER / ELZA KER (PSD, 616 votos)
+3 - MARLY TEODORO ALVES DE SOUZA / MARLY TEODORO (PSD, 454 votos)
+4 - NELSON FERNANDES SATURNINO / NELSON CASSIANO (PSD, 429 votos)
+5 - JOSÉ MARIA TONANE / ZE MARIA (MDB, 336 votos)
+6 - REINALDO DE FREITAS CAPAZ / REINALDO CAPAZ (PSB, 319 votos)
+7 - EDIMIRSON LUIZ DE OLIVEIRA MARQUES / TICO DO DÉ (MDB, 309 votos)
+8 - MOACIR LOPES DA SILVA / MOACYR LOPES (MDB, 297 votos)
+9 - MARTIM JUNIOR TAVARES / MARTIM DO LAIRINHO (PP, 258 votos)
+10 - VALTER NUNES CABRAL / VALTINHO (PDT, 222 votos)
+11 - KEICI KESSI JHONES RODRIGUES / KEICI JHONES (PP, 221 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - CARLOS DE OLIVEIRA BARBOZA / CARLOS DA CASA DO PRODUTOR (PSD, 633 votos)
+2 - EUZENI BORGES SOARES KER / ELZA KER (PSD, 616 votos)
+3 - MARLY TEODORO ALVES DE SOUZA / MARLY TEODORO (PSD, 454 votos)
+4 - NELSON FERNANDES SATURNINO / NELSON CASSIANO (PSD, 429 votos)
+5 - JOSÉ MARIA TONANE / ZE MARIA (MDB, 336 votos)
+6 - REINALDO DE FREITAS CAPAZ / REINALDO CAPAZ (PSB, 319 votos)
+7 - ARTHUR CARLOS DA SILVA / ARTHUR CARLOS (PSB, 313 votos)
+8 - EDIMIRSON LUIZ DE OLIVEIRA MARQUES / TICO DO DÉ (MDB, 309 votos)
+9 - MOACIR LOPES DA SILVA / MOACYR LOPES (MDB, 297 votos)
+10 - JOSÉ PRATA FILHO / ZE MELIM (MDB, 287 votos)
+11 - JOSÉ GOMES PIRES / ZE MANTENA (MDB, 258 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+7 - ARTHUR CARLOS DA SILVA / ARTHUR CARLOS (PSB, 313 votos)
+10 - JOSÉ PRATA FILHO / ZE MELIM (MDB, 287 votos)
+11 - JOSÉ GOMES PIRES / ZE MANTENA (MDB, 258 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSD - 55, 2648 votos (2601 nominais e 47 de legenda), 4 candidatos eleitos
+2 - MDB - 15, 2033 votos (1871 nominais e 162 de legenda), 3 candidatos eleitos
+3 - PP - 11, 1230 votos (1200 nominais e 30 de legenda), 2 candidatos eleitos
+4 - PSB - 40, 967 votos (813 nominais e 154 de legenda), 1 candidato eleito
+5 - PDT - 12, 781 votos (742 nominais e 39 de legenda), 1 candidato eleito
+6 - PT - 13, 494 votos (484 nominais e 10 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, CARLOS DA CASA DO PRODUTOR (55111, 633 votos) / VANUZA INDIA (55583, 1 voto)
+2 - MDB - 15, ZE MARIA (15333, 336 votos) / SONIA JAIME (15800, 7 votos)
+3 - PSB - 40, REINALDO CAPAZ (40567, 319 votos) / ADAIZI (40888, 3 votos)
+4 - PP - 11, MARTIM DO LAIRINHO (11111, 258 votos) / SENAIR DO ASSENTAMENTO (11345, 4 votos)
+5 - PDT - 12, VALTINHO (12322, 222 votos) / IRACI (12000, 4 votos)
+6 - PT - 13, GIL ELÓI (13555, 143 votos) / FABIANA MORAIS (13120, 14 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (9,09%)
+30 <= Idade < 40: 1 (9,09%)
+40 <= Idade < 50: 3 (27,27%)
+50 <= Idade < 60: 3 (27,27%)
+60 <= Idade     : 3 (27,27%)
+
+Eleitos, por sexo:
+Feminino:  2 (18,18%)
+Masculino: 9 (81,82%)
+
+Total de votos válidos:    8153
+Total de votos nominais:   7711 (94,58%)
+Total de votos de Legenda: 442 (5,42%)

@@ -1,0 +1,66 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - JOÃO PEDRO CARVALHO ROCHA / JOÃO PEDRO SALGADO (CIDADANIA, 1117 votos)
+2 - FERNANDO VIEIRA DE SOUZA / FERNANDO VIEIRA PORKIN (REPUBLICANOS, 800 votos)
+3 - JOAO BRITO PEREIRA FILHO / JANGO (PP, 789 votos)
+4 - IVANITO BARBOSA DE OLIVEIRA / VANITO (PP, 676 votos)
+5 - JORCY MIRANDA SANGI / JORCY (REPUBLICANOS, 580 votos)
+6 - EMILIANE RIBEIRO LÁZARO / EMILIANE LÁZARO (PMN, 548 votos)
+7 - JOSÉ PAULO COSTA SILVA / PAULINHO DO EUCALIPTO (CIDADANIA, 519 votos)
+8 - ELIAS CANDIDO DA SILVEIRA / LILI DA BARBEARIA (REPUBLICANOS, 507 votos)
+9 - LEONARDO DAVID ALEXANDRINO DE CARVALHO / LEO  (PODE, 469 votos)
+10 - SILVIO RODRIGUES DE OLIVEIRA / SILVIO DO BARATEIRO (CIDADANIA, 464 votos)
+11 - ROBERTO LUIZ CHAVES / ROBERTINHO MAGNÉTICO (PODE, 443 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JOÃO PEDRO CARVALHO ROCHA / JOÃO PEDRO SALGADO (CIDADANIA, 1117 votos)
+2 - FERNANDO VIEIRA DE SOUZA / FERNANDO VIEIRA PORKIN (REPUBLICANOS, 800 votos)
+3 - JOAO BRITO PEREIRA FILHO / JANGO (PP, 789 votos)
+4 - IVANITO BARBOSA DE OLIVEIRA / VANITO (PP, 676 votos)
+5 - JORCY MIRANDA SANGI / JORCY (REPUBLICANOS, 580 votos)
+6 - EMILIANE RIBEIRO LÁZARO / EMILIANE LÁZARO (PMN, 548 votos)
+7 - JOSÉ PAULO COSTA SILVA / PAULINHO DO EUCALIPTO (CIDADANIA, 519 votos)
+8 - ELIAS CANDIDO DA SILVEIRA / LILI DA BARBEARIA (REPUBLICANOS, 507 votos)
+9 - LEONARDO DAVID ALEXANDRINO DE CARVALHO / LEO  (PODE, 469 votos)
+10 - SILVIO RODRIGUES DE OLIVEIRA / SILVIO DO BARATEIRO (CIDADANIA, 464 votos)
+11 - ROBERTO LUIZ CHAVES / ROBERTINHO MAGNÉTICO (PODE, 443 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 3240 votos (3193 nominais e 47 de legenda), 3 candidatos eleitos
+2 - REPUBLICANOS - 10, 2968 votos (2624 nominais e 344 de legenda), 3 candidatos eleitos
+3 - PP - 11, 2380 votos (2275 nominais e 105 de legenda), 2 candidatos eleitos
+4 - PODE - 19, 2354 votos (2078 nominais e 276 de legenda), 2 candidatos eleitos
+5 - PMN - 33, 1967 votos (1916 nominais e 51 de legenda), 1 candidato eleito
+6 - PSB - 40, 951 votos (931 nominais e 20 de legenda), 0 candidato eleito
+7 - PSDB - 45, 326 votos (285 nominais e 41 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - CIDADANIA - 23, JOÃO PEDRO SALGADO (23023, 1117 votos) / CLEUNICE DO QUEIJO (23222, 18 votos)
+2 - REPUBLICANOS - 10, FERNANDO VIEIRA PORKIN (10123, 800 votos) / MARCINHO DO CATI (10888, 13 votos)
+3 - PP - 11, JANGO (11000, 789 votos) / SERGINHO DO QUEIJO (11456, 0 voto)
+4 - PMN - 33, EMILIANE LÁZARO (33444, 548 votos) / DI DA BAIÚCA (33999, 5 votos)
+5 - PODE - 19, LEO  (19111, 469 votos) / LUCIANA BASTOS (19123, 7 votos)
+6 - PSB - 40, FABINHO (40000, 383 votos) / GLEYSON SEGURANÇA (40555, 3 votos)
+7 - PSDB - 45, GEOVANE DIAS (45045, 65 votos) / JUVENIL DO ACORDEÃO (45119, 5 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (9,09%)
+30 <= Idade < 40: 2 (18,18%)
+40 <= Idade < 50: 4 (36,36%)
+50 <= Idade < 60: 0 (,00%)
+60 <= Idade     : 4 (36,36%)
+
+Eleitos, por sexo:
+Feminino:  1 (9,09%)
+Masculino: 10 (90,91%)
+
+Total de votos válidos:    14186
+Total de votos nominais:   13302 (93,77%)
+Total de votos de Legenda: 884 (6,23%)

@@ -1,0 +1,70 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - JALMAS RAIDER DE FREITAS / JALMINHA (MDB, 397 votos)
+2 - JOÃO BATISTA NUNES / JOÃO BATISTA (DEM, 350 votos)
+3 - VIRGINIA CRISTINA DA SILVA CORREA / TININHA DO GENILSON (PSB, 345 votos)
+4 - JOSÉ TEODORO DE ALMEIDA / ZÉ DO ALEMÃO (PTB, 324 votos)
+5 - JOSÉ CARLOS NUNES MORENO / JOSÉ CARLOS DA FAZENDA (PODE, 286 votos)
+6 - OSEIAS PIRES SOARES / OSEIAS (PSB, 274 votos)
+7 - ADAILTON AUGUSTO GRIPP / ADAILTON DA SAÚDE (PSB, 237 votos)
+8 - ROMILDO OLIVEIRA DA SILVA / ROMILDO AFONSO (MDB, 218 votos)
+9 - SILVIO NOGUEIRA DA CUNHA / SILVIO NOGUEIRA (PSC, 150 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JALMAS RAIDER DE FREITAS / JALMINHA (MDB, 397 votos)
+2 - JOÃO BATISTA NUNES / JOÃO BATISTA (DEM, 350 votos)
+3 - VIRGINIA CRISTINA DA SILVA CORREA / TININHA DO GENILSON (PSB, 345 votos)
+4 - HELIVANDER FERREIRA DE AVILA / VANDINHO DA FARMÁCIA (DEM, 340 votos)
+5 - JOSÉ TEODORO DE ALMEIDA / ZÉ DO ALEMÃO (PTB, 324 votos)
+6 - JOSÉ CARLOS NUNES MORENO / JOSÉ CARLOS DA FAZENDA (PODE, 286 votos)
+7 - OSEIAS PIRES SOARES / OSEIAS (PSB, 274 votos)
+8 - ADAILTON AUGUSTO GRIPP / ADAILTON DA SAÚDE (PSB, 237 votos)
+9 - ROMILDO OLIVEIRA DA SILVA / ROMILDO AFONSO (MDB, 218 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - HELIVANDER FERREIRA DE AVILA / VANDINHO DA FARMÁCIA (DEM, 340 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - SILVIO NOGUEIRA DA CUNHA / SILVIO NOGUEIRA (PSC, 150 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 1788 votos (1756 nominais e 32 de legenda), 3 candidatos eleitos
+2 - MDB - 15, 1576 votos (1340 nominais e 236 de legenda), 2 candidatos eleitos
+3 - DEM - 25, 1157 votos (1140 nominais e 17 de legenda), 1 candidato eleito
+4 - PTB - 14, 913 votos (900 nominais e 13 de legenda), 1 candidato eleito
+5 - PODE - 19, 673 votos (605 nominais e 68 de legenda), 1 candidato eleito
+6 - PSC - 20, 589 votos (503 nominais e 86 de legenda), 1 candidato eleito
+7 - PSL - 17, 548 votos (534 nominais e 14 de legenda), 0 candidato eleito
+8 - PP - 11, 446 votos (411 nominais e 35 de legenda), 0 candidato eleito
+9 - REPUBLICANOS - 10, 377 votos (363 nominais e 14 de legenda), 0 candidato eleito
+10 - PROS - 90, 38 votos (35 nominais e 3 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - MDB - 15, JALMINHA (15678, 397 votos) / LUSMAR (15777, 1 voto)
+2 - DEM - 25, JOÃO BATISTA (25123, 350 votos) / NILZA MARIA (25444, 5 votos)
+3 - PSB - 40, TININHA DO GENILSON (40456, 345 votos) / THAIS NORA DA NÉIA (40777, 12 votos)
+4 - PTB - 14, ZÉ DO ALEMÃO (14555, 324 votos) / ROSEMEIRE FREITAS (14567, 1 voto)
+5 - PODE - 19, JOSÉ CARLOS DA FAZENDA (19222, 286 votos) / ROBERTO DO SCHUAB (19555, 4 votos)
+6 - PSC - 20, SILVIO NOGUEIRA (20123, 150 votos) / PRESB NAUDO AGUIAR (20020, 2 votos)
+7 - PSL - 17, MAXSUEL POPÔ (17020, 134 votos) / JULIO TRANÇA (17000, 1 voto)
+8 - PP - 11, ROGÉRIO DO ATAIR COSTINHA (11000, 106 votos) / MARIA APARECIDA SEGURAÇO (11987, 1 voto)
+9 - REPUBLICANOS - 10, MAURINO DO BINO (10000, 92 votos) / ROSIANE DO JOÃO DA CAMILA (10333, 3 votos)
+10 - PROS - 90, DEVAIR TIA VELHA (90001, 11 votos) / MAICON LOPES (90002, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 4 (44,44%)
+50 <= Idade < 60: 4 (44,44%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    8105
+Total de votos nominais:   7587 (93,61%)
+Total de votos de Legenda: 518 (6,39%)

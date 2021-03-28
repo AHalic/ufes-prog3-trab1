@@ -1,0 +1,67 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - VALERIA DOS SANTOS ROSALÉM / VALÉRIA ROSALÉM (PSB, 362 votos)
+2 - ELISABETE RAMOS MALBAR / BETE MALBAR (PV, 319 votos)
+3 - JOSE FABIO DEMUNER / FABINHO DA PESTALOZZI (PSB, 318 votos)
+4 - RENATO LUIZ RAMALHO / RENATO RAMALHO (PP, 316 votos)
+5 - OTÁVIO LUIZ GUSSO MAIOLI / OTAVIO MAIOLI (PDT, 307 votos)
+6 - ALOIR PIOL / ALOIR PIOL (PMN, 243 votos)
+7 - JOSÉ CARLOS FERREIRA DOS SANTOS / CARLINHOS CAFÉ (CIDADANIA, 239 votos)
+8 - BRENO LUCIO ANDRADE OLIVEIRA / BRENO DO SALÃO (CIDADANIA, 236 votos)
+9 - VANDERLEI ALVES DA SILVA / VANDERLEI ALVES DA SILVA (PSC, 200 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - VALERIA DOS SANTOS ROSALÉM / VALÉRIA ROSALÉM (PSB, 362 votos)
+2 - ELISABETE RAMOS MALBAR / BETE MALBAR (PV, 319 votos)
+3 - JOSE FABIO DEMUNER / FABINHO DA PESTALOZZI (PSB, 318 votos)
+4 - RENATO LUIZ RAMALHO / RENATO RAMALHO (PP, 316 votos)
+5 - OTÁVIO LUIZ GUSSO MAIOLI / OTAVIO MAIOLI (PDT, 307 votos)
+6 - ALBERTO DE OLIVEIRA FILHO / BETO DO SALÃO (PSB, 245 votos)
+7 - ALOIR PIOL / ALOIR PIOL (PMN, 243 votos)
+8 - JOSÉ CARLOS FERREIRA DOS SANTOS / CARLINHOS CAFÉ (CIDADANIA, 239 votos)
+9 - BRENO LUCIO ANDRADE OLIVEIRA / BRENO DO SALÃO (CIDADANIA, 236 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - ALBERTO DE OLIVEIRA FILHO / BETO DO SALÃO (PSB, 245 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - CIDADANIA - 23, 1514 votos (1445 nominais e 69 de legenda), 2 candidatos eleitos
+2 - PSB - 40, 1310 votos (1287 nominais e 23 de legenda), 2 candidatos eleitos
+3 - PV - 43, 864 votos (851 nominais e 13 de legenda), 1 candidato eleito
+4 - PP - 11, 755 votos (656 nominais e 99 de legenda), 1 candidato eleito
+5 - PSC - 20, 690 votos (677 nominais e 13 de legenda), 1 candidato eleito
+6 - PDT - 12, 580 votos (566 nominais e 14 de legenda), 1 candidato eleito
+7 - PMN - 33, 559 votos (550 nominais e 9 de legenda), 1 candidato eleito
+8 - MDB - 15, 464 votos (363 nominais e 101 de legenda), 0 candidato eleito
+9 - PSD - 55, 309 votos (307 nominais e 2 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSB - 40, VALÉRIA ROSALÉM (40333, 362 votos) / JOÃO RAMOS (40444, 8 votos)
+2 - PV - 43, BETE MALBAR (43123, 319 votos) / JUNINHO AMARAL ESTILOS (43456, 3 votos)
+3 - PP - 11, RENATO RAMALHO (11123, 316 votos) / CLAUDIA (11455, 12 votos)
+4 - PDT - 12, OTAVIO MAIOLI (12000, 307 votos) / GAÚCHA (12011, 14 votos)
+5 - PMN - 33, ALOIR PIOL (33678, 243 votos) / ANTONIO PEDRO (33666, 0 voto)
+6 - CIDADANIA - 23, CARLINHOS CAFÉ (23233, 239 votos) / ALESSANDRA IGNACIO (23003, 7 votos)
+7 - PSC - 20, VANDERLEI ALVES DA SILVA (20625, 200 votos) / ANTONIO PACHECO (20008, 6 votos)
+8 - MDB - 15, CICIO BRAGA (15123, 144 votos) / GESLANNE ROCHA PEREIRA (15677, 2 votos)
+9 - PSD - 55, RUBERVAL (55015, 144 votos) / GOBBI (55055, 1 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 3 (33,33%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    7045
+Total de votos nominais:   6702 (95,13%)
+Total de votos de Legenda: 343 (4,87%)

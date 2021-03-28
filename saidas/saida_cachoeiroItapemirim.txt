@@ -1,0 +1,120 @@
+Número de vagas: 19
+
+Vereadores eleitos:
+1 - JOSÉ CARLOS CORRÊA CARDOSO JÚNIOR / JUNINHO CORRÊA (PL, 2519 votos)
+2 - ALLAN ALBERT LOURENÇO FERREIRA / ALLAN FERREIRA (PODE, 2096 votos)
+3 - LEONARDO CLEITON CAMARGO / LÉO CAMARGO (PL, 2079 votos)
+4 - SILVIO COELHO NETO / SILVINHO COELHO (REPUBLICANOS, 1807 votos)
+5 - ELY ESCARPINI / ELY ESCARPINI (PV, 1431 votos)
+6 - SEBASTIÃO ARY CORREA / ARY CORRÊA (PATRIOTA, 1347 votos)
+7 - ALEXANDRE ANDREZA MACEDO / ALEXANDRE DE ITAÓCA (PSB, 1345 votos)
+8 - BRAS ZAGOTTO / BRAS É BOM (PV, 1317 votos)
+9 - LEONARDO PINHEIRO DUTRA / LÉO CABEÇA (PDT, 1208 votos)
+10 - PAULO SERGIO DE ALMEIDA / PAULINHO CARECA (PSB, 1194 votos)
+11 - ALEXANDRE VALDO MAITAN / MAITAN (DEM, 1147 votos)
+12 - PAULO GROLA / PAULO GROLA (PSB, 1108 votos)
+13 - ARILDO TOMAZ BUCKER / ARILDO BOLEBA (PDT, 1016 votos)
+14 - SANDRO DELLABELLA FERREIRA / SANDRO IRMÃO (PSD, 1001 votos)
+15 - ADRIANO PEREIRA VEREDIANO / MESTRE GELINHO (PSDB, 973 votos)
+16 - DELANDI PEREIRA MACEDO / PASTOR DELANDI (PODE, 893 votos)
+17 - DIOGO PEREIRA LUBE / PROFESSOR DIOGO LUBE (PP, 795 votos)
+18 - EVANDRO MIRANDA / VANDINHO DA PADARIA (PSDB, 793 votos)
+19 - MARCELO FÁVERO DE OLIVEIRA / MARCELINHO FÁVERO (PL, 659 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JOSÉ CARLOS CORRÊA CARDOSO JÚNIOR / JUNINHO CORRÊA (PL, 2519 votos)
+2 - ALLAN ALBERT LOURENÇO FERREIRA / ALLAN FERREIRA (PODE, 2096 votos)
+3 - LEONARDO CLEITON CAMARGO / LÉO CAMARGO (PL, 2079 votos)
+4 - SILVIO COELHO NETO / SILVINHO COELHO (REPUBLICANOS, 1807 votos)
+5 - ELY ESCARPINI / ELY ESCARPINI (PV, 1431 votos)
+6 - SEBASTIÃO ARY CORREA / ARY CORRÊA (PATRIOTA, 1347 votos)
+7 - ALEXANDRE ANDREZA MACEDO / ALEXANDRE DE ITAÓCA (PSB, 1345 votos)
+8 - BRAS ZAGOTTO / BRAS É BOM (PV, 1317 votos)
+9 - LEONARDO PINHEIRO DUTRA / LÉO CABEÇA (PDT, 1208 votos)
+10 - PAULO SERGIO DE ALMEIDA / PAULINHO CARECA (PSB, 1194 votos)
+11 - ALEXANDRE VALDO MAITAN / MAITAN (DEM, 1147 votos)
+12 - PAULO GROLA / PAULO GROLA (PSB, 1108 votos)
+13 - ÉLIO CARLOS SILVA DE MIRANDA / CARLINHOS MIRANDA (PSB, 1105 votos)
+14 - ALEXANDRE BASTOS RODRIGUES / ALEXANDRE BASTOS (PV, 1048 votos)
+15 - EDISON VALENTIM FASSARELLA / FASSARELLA (PV, 1028 votos)
+16 - ARILDO TOMAZ BUCKER / ARILDO BOLEBA (PDT, 1016 votos)
+17 - SANDRO DELLABELLA FERREIRA / SANDRO IRMÃO (PSD, 1001 votos)
+18 - OSMAR FRANCISCO / CHUPETA (REPUBLICANOS, 998 votos)
+19 - ROMARIO CORREA MIRANDA / ROMARIO ALTO UNIÃO (PV, 979 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+13 - ÉLIO CARLOS SILVA DE MIRANDA / CARLINHOS MIRANDA (PSB, 1105 votos)
+14 - ALEXANDRE BASTOS RODRIGUES / ALEXANDRE BASTOS (PV, 1048 votos)
+15 - EDISON VALENTIM FASSARELLA / FASSARELLA (PV, 1028 votos)
+18 - OSMAR FRANCISCO / CHUPETA (REPUBLICANOS, 998 votos)
+19 - ROMARIO CORREA MIRANDA / ROMARIO ALTO UNIÃO (PV, 979 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - ARILDO TOMAZ BUCKER / ARILDO BOLEBA (PDT, 1016 votos)
+17 - SANDRO DELLABELLA FERREIRA / SANDRO IRMÃO (PSD, 1001 votos)
+20 - ADRIANO PEREIRA VEREDIANO / MESTRE GELINHO (PSDB, 973 votos)
+23 - DELANDI PEREIRA MACEDO / PASTOR DELANDI (PODE, 893 votos)
+28 - DIOGO PEREIRA LUBE / PROFESSOR DIOGO LUBE (PP, 795 votos)
+29 - EVANDRO MIRANDA / VANDINHO DA PADARIA (PSDB, 793 votos)
+40 - MARCELO FÁVERO DE OLIVEIRA / MARCELINHO FÁVERO (PL, 659 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSB - 40, 12371 votos (10186 nominais e 2185 de legenda), 3 candidatos eleitos
+2 - PL - 22, 10590 votos (10195 nominais e 395 de legenda), 3 candidatos eleitos
+3 - PV - 43, 9526 votos (9362 nominais e 164 de legenda), 2 candidatos eleitos
+4 - PODE - 19, 7794 votos (7696 nominais e 98 de legenda), 2 candidatos eleitos
+5 - PDT - 12, 7476 votos (7235 nominais e 241 de legenda), 2 candidatos eleitos
+6 - PSDB - 45, 7430 votos (7214 nominais e 216 de legenda), 2 candidatos eleitos
+7 - DEM - 25, 6507 votos (5790 nominais e 717 de legenda), 1 candidato eleito
+8 - REPUBLICANOS - 10, 5687 votos (5556 nominais e 131 de legenda), 1 candidato eleito
+9 - PSD - 55, 5099 votos (4885 nominais e 214 de legenda), 1 candidato eleito
+10 - PP - 11, 4355 votos (4174 nominais e 181 de legenda), 1 candidato eleito
+11 - PATRIOTA - 51, 4143 votos (4091 nominais e 52 de legenda), 1 candidato eleito
+12 - PTB - 14, 3312 votos (3193 nominais e 119 de legenda), 0 candidato eleito
+13 - PSC - 20, 3060 votos (3008 nominais e 52 de legenda), 0 candidato eleito
+14 - PT - 13, 2655 votos (2436 nominais e 219 de legenda), 0 candidato eleito
+15 - PMN - 33, 2005 votos (1968 nominais e 37 de legenda), 0 candidato eleito
+16 - MDB - 15, 1843 votos (1780 nominais e 63 de legenda), 0 candidato eleito
+17 - PROS - 90, 1513 votos (1473 nominais e 40 de legenda), 0 candidato eleito
+18 - DC - 27, 376 votos (368 nominais e 8 de legenda), 0 candidato eleito
+19 - PSOL - 50, 244 votos (214 nominais e 30 de legenda), 0 candidato eleito
+20 - PRTB - 28, 222 votos (214 nominais e 8 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PL - 22, JUNINHO CORRÊA (22100, 2519 votos) / ALINE SOUZA (22019, 6 votos)
+2 - PODE - 19, ALLAN FERREIRA (19123, 2096 votos) / JOCEIR MOURA (19789, 20 votos)
+3 - REPUBLICANOS - 10, SILVINHO COELHO (10000, 1807 votos) / SEBASTIANA DOS UNIFORMES (10888, 16 votos)
+4 - PV - 43, ELY ESCARPINI (43000, 1431 votos) / GHISLAINE BAYERL (43999, 13 votos)
+5 - PATRIOTA - 51, ARY CORRÊA (51190, 1347 votos) / APARECIDA QUINELATO (51002, 0 voto)
+6 - PSB - 40, ALEXANDRE DE ITAÓCA (40234, 1345 votos) / ELIAS MEDEIROS (40190, 28 votos)
+7 - PDT - 12, LÉO CABEÇA (12123, 1208 votos) / MARILEIA MARI (12888, 17 votos)
+8 - DEM - 25, MAITAN (25123, 1147 votos) / SORAYA ANDRADE (25625, 1 voto)
+9 - PSD - 55, SANDRO IRMÃO (55111, 1001 votos) / BRUNA CALLEGARI (55001, 13 votos)
+10 - PSDB - 45, MESTRE GELINHO (45777, 973 votos) / FERNANDO SARTÓRIO (45321, 7 votos)
+11 - PMN - 33, LEANDRO VIEIRA (33000, 852 votos) / JHENNIFER BOLZAN (33197, 3 votos)
+12 - PP - 11, PROFESSOR DIOGO LUBE (11011, 795 votos) / MARCINHO BORRACHEIRO (11050, 31 votos)
+13 - PSC - 20, ADRIANO MESTRE (20000, 573 votos) / ROSA MARIA (20345, 0 voto)
+14 - PTB - 14, MAQUINHO DO VALÃO (14123, 540 votos) / CLÁUDIA (14234, 0 voto)
+15 - PT - 13, AGNALDO SASSA (13123, 535 votos) / LUCIANE DIAS (13776, 3 votos)
+16 - PROS - 90, PROFESSOR MAYCON LINO (90100, 533 votos) / JOYCE (90600, 0 voto)
+17 - MDB - 15, MARTINELLI (15789, 366 votos) / MARCOS ANTÔNIO BERNARDO CORREA (15140, 3 votos)
+18 - PSOL - 50, RAFAEL SALTORI (50100, 139 votos) / CRISTINA FÉLIX (50123, 75 votos)
+19 - DC - 27, CABO PILON (27190, 94 votos) / ROBERTA LIRIO (27900, 6 votos)
+20 - PRTB - 28, RAFAEL MORAES (28123, 65 votos) / MARCIA MACEDO (28190, 7 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 3 (15,79%)
+30 <= Idade < 40: 1 (5,26%)
+40 <= Idade < 50: 7 (36,84%)
+50 <= Idade < 60: 4 (21,05%)
+60 <= Idade     : 4 (21,05%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 19 (100,00%)
+
+Total de votos válidos:    96208
+Total de votos nominais:   91038 (94,63%)
+Total de votos de Legenda: 5170 (5,37%)

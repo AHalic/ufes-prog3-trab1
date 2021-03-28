@@ -1,0 +1,63 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - JOSÉ PAULA MACHADO FILHO / ZÉ PAULO (PSD, 390 votos)
+2 - JOSIMAR DA SILVA RIBEIRO / JOSIMAR FUZIL (PSD, 355 votos)
+3 - JOSE ROGERIO DE ALMEIDA / ROGERIO ALMEIDA (DEM, 296 votos)
+4 - MYCHELLE VARGAS VIEIRA / MYCHELLE VARGAS (DEM, 266 votos)
+5 - SERGIO SILVA / SERGIM SILVA (REPUBLICANOS, 261 votos)
+6 - AILTON DA COSTA SILVA / AILTON VEIN (PSDB, 260 votos)
+7 - JUACI LADEIRA ALVES / DIM DO CICI MADALENA (REPUBLICANOS, 260 votos)
+8 - CARINI MARIA GONÇALVES OGIONI / CARINI OGIONI (DEM, 193 votos)
+9 - LUCIANO DIAS DA SILVA NETO / LUCIANO DIAS (PV, 115 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JOSÉ PAULA MACHADO FILHO / ZÉ PAULO (PSD, 390 votos)
+2 - JOSIMAR DA SILVA RIBEIRO / JOSIMAR FUZIL (PSD, 355 votos)
+3 - JOSE ROGERIO DE ALMEIDA / ROGERIO ALMEIDA (DEM, 296 votos)
+4 - ADRIANA MORAIS DA COSTA / ADRIANA ELEOTÉRIO (PODE, 287 votos)
+5 - MYCHELLE VARGAS VIEIRA / MYCHELLE VARGAS (DEM, 266 votos)
+6 - SERGIO SILVA / SERGIM SILVA (REPUBLICANOS, 261 votos)
+7 - AILTON DA COSTA SILVA / AILTON VEIN (PSDB, 260 votos)
+8 - JUACI LADEIRA ALVES / DIM DO CICI MADALENA (REPUBLICANOS, 260 votos)
+9 - VALTELY ROCHA PEIXOTO / VALTELY PEIXOTO (PSDB, 242 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+4 - ADRIANA MORAIS DA COSTA / ADRIANA ELEOTÉRIO (PODE, 287 votos)
+9 - VALTELY ROCHA PEIXOTO / VALTELY PEIXOTO (PSDB, 242 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+16 - LUCIANO DIAS DA SILVA NETO / LUCIANO DIAS (PV, 115 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - DEM - 25, 1432 votos (1343 nominais e 89 de legenda), 3 candidatos eleitos
+2 - PSD - 55, 1288 votos (1148 nominais e 140 de legenda), 2 candidatos eleitos
+3 - REPUBLICANOS - 10, 1095 votos (1076 nominais e 19 de legenda), 2 candidatos eleitos
+4 - PSDB - 45, 819 votos (795 nominais e 24 de legenda), 1 candidato eleito
+5 - PV - 43, 496 votos (477 nominais e 19 de legenda), 1 candidato eleito
+6 - PODE - 19, 428 votos (414 nominais e 14 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PSD - 55, ZÉ PAULO (55555, 390 votos) / NEIDA (55345, 6 votos)
+2 - DEM - 25, ROGERIO ALMEIDA (25000, 296 votos) / MELZINHA DA SAÚDE (25800, 6 votos)
+3 - PODE - 19, ADRIANA ELEOTÉRIO (19123, 287 votos) / MARCONE ALMEIDA (19222, 11 votos)
+4 - REPUBLICANOS - 10, SERGIM SILVA (10111, 261 votos) / ROSILENE MENDES (10999, 17 votos)
+5 - PSDB - 45, AILTON VEIN (45666, 260 votos) / ISABELLA REIS (45100, 4 votos)
+6 - PV - 43, LUCIANO DIAS (43143, 115 votos) / VALKIRIA SIMONASSI (43555, 4 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 4 (44,44%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 1 (11,11%)
+60 <= Idade     : 2 (22,22%)
+
+Eleitos, por sexo:
+Feminino:  2 (22,22%)
+Masculino: 7 (77,78%)
+
+Total de votos válidos:    5558
+Total de votos nominais:   5253 (94,51%)
+Total de votos de Legenda: 305 (5,49%)

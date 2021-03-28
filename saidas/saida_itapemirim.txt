@@ -1,0 +1,76 @@
+Número de vagas: 11
+
+Vereadores eleitos:
+1 - JULIO CESAR FERREIRA DE MAGALHÃES / CESINHA DE BADO (REPUBLICANOS, 1576 votos)
+2 - RENILDO NASCIMENTO PEÇANHA / RENILDO (REPUBLICANOS, 1262 votos)
+3 - LUCIMAR ALVES SOARES / BIBICO (REPUBLICANOS, 1146 votos)
+4 - LENILDO HENRIQUES / LENILDO HENRIQUES (PDT, 1061 votos)
+5 - PAULO SERGIO DE TOLEDO COSTA / PAULINHO DA GRAUNA (PSDB, 1031 votos)
+6 - JULIO CESAR CARNEIRO / JULINHO (CIDADANIA, 972 votos)
+7 - ANTONIO CARLOS HELVÉCIO / CARLINHOS DE BRÍCIO  (REPUBLICANOS, 930 votos)
+8 - ERASTO DA COSTA ROCHA / ERASTO (PDT, 928 votos)
+9 - JOSÉ DE OLIVEIRA LIMA / ZÉ LIMA (PDT, 860 votos)
+10 - JOÃO BECHARA NETTO / JOÃO BECHARA NETTO (PSB, 690 votos)
+11 - ALCIONE DE AMORIM GOMES / ALCIONE AMORIM (PP, 589 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JULIO CESAR FERREIRA DE MAGALHÃES / CESINHA DE BADO (REPUBLICANOS, 1576 votos)
+2 - RENILDO NASCIMENTO PEÇANHA / RENILDO (REPUBLICANOS, 1262 votos)
+3 - LUCIMAR ALVES SOARES / BIBICO (REPUBLICANOS, 1146 votos)
+4 - LENILDO HENRIQUES / LENILDO HENRIQUES (PDT, 1061 votos)
+5 - PAULO SERGIO DE TOLEDO COSTA / PAULINHO DA GRAUNA (PSDB, 1031 votos)
+6 - JULIO CESAR CARNEIRO / JULINHO (CIDADANIA, 972 votos)
+7 - ANTONIO CARLOS HELVÉCIO / CARLINHOS DE BRÍCIO  (REPUBLICANOS, 930 votos)
+8 - ERASTO DA COSTA ROCHA / ERASTO (PDT, 928 votos)
+9 - JOSÉ DE OLIVEIRA LIMA / ZÉ LIMA (PDT, 860 votos)
+10 - ESTEVÃO SILVA MACHADO / ESTEVÃO - AMIGO DO CORAÇÃO  (PSDB, 839 votos)
+11 - VANDERLEI LOUZADA BIANCHI / DELEI (CIDADANIA, 751 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+10 - ESTEVÃO SILVA MACHADO / ESTEVÃO - AMIGO DO CORAÇÃO  (PSDB, 839 votos)
+11 - VANDERLEI LOUZADA BIANCHI / DELEI (CIDADANIA, 751 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - REPUBLICANOS - 10, 7577 votos (7201 nominais e 376 de legenda), 4 candidatos eleitos
+2 - PDT - 12, 5552 votos (5442 nominais e 110 de legenda), 3 candidatos eleitos
+3 - CIDADANIA - 23, 3431 votos (3398 nominais e 33 de legenda), 1 candidato eleito
+4 - PSDB - 45, 3157 votos (3084 nominais e 73 de legenda), 1 candidato eleito
+5 - PP - 11, 2914 votos (2576 nominais e 338 de legenda), 1 candidato eleito
+6 - PSB - 40, 2086 votos (2066 nominais e 20 de legenda), 1 candidato eleito
+7 - PATRIOTA - 51, 772 votos (763 nominais e 9 de legenda), 0 candidato eleito
+8 - PTC - 36, 613 votos (606 nominais e 7 de legenda), 0 candidato eleito
+9 - PSC - 20, 388 votos (383 nominais e 5 de legenda), 0 candidato eleito
+10 - PSL - 17, 383 votos (379 nominais e 4 de legenda), 0 candidato eleito
+11 - PT - 13, 241 votos (204 nominais e 37 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - REPUBLICANOS - 10, CESINHA DE BADO (10000, 1576 votos) / VANDA ARAUJO DA RODOVIÁRIA (10111, 6 votos)
+2 - PDT - 12, LENILDO HENRIQUES (12345, 1061 votos) / ROSI DO ARTESANATO (12021, 12 votos)
+3 - PSDB - 45, PAULINHO DA GRAUNA (45123, 1031 votos) / PATRICIA FREITAS (45333, 21 votos)
+4 - CIDADANIA - 23, JULINHO (23456, 972 votos) / MICHELLE  (23088, 0 voto)
+5 - PSB - 40, JOÃO BECHARA NETTO (40123, 690 votos) / NEGUINHO DA VILA (40258, 5 votos)
+6 - PP - 11, ALCIONE AMORIM (11444, 589 votos) / LUTHIANE PP A MOÇA DO SALGADO (11345, 6 votos)
+7 - PTC - 36, PASTOR REGINALDO (36000, 261 votos) / HOSANA (36888, 1 voto)
+8 - PATRIOTA - 51, WEDER BENEVIDES (51010, 242 votos) / MISSIONÁRIA KÁTIA (51222, 3 votos)
+9 - PSC - 20, UDSON (20200, 147 votos) / ÂNGELA (20010, 3 votos)
+10 - PSL - 17, DAVID MORAIS (17000, 119 votos) / SARGENTO PACHECO (17190, 12 votos)
+11 - PT - 13, MARCELO GOBBI (13111, 56 votos) / SHAMARA (13334, 6 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 0 (,00%)
+30 <= Idade < 40: 3 (27,27%)
+40 <= Idade < 50: 3 (27,27%)
+50 <= Idade < 60: 5 (45,45%)
+60 <= Idade     : 0 (,00%)
+
+Eleitos, por sexo:
+Feminino:  0 (,00%)
+Masculino: 11 (100,00%)
+
+Total de votos válidos:    27114
+Total de votos nominais:   26102 (96,27%)
+Total de votos de Legenda: 1012 (3,73%)

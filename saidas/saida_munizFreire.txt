@@ -1,0 +1,70 @@
+Número de vagas: 9
+
+Vereadores eleitos:
+1 - VILMA SOARES LOUZADA / VILMA SOARES LOUZADA (PMN, 524 votos)
+2 - WEBERSON RODRIGO POPE / RODRIGO POPE (PSB, 447 votos)
+3 - SEBASTIÃO GILDO MARES PEREIRA / GILDO DO SINDICATO (PT, 420 votos)
+4 - AGENOR FAVORETO FILHO / PROFESSOR AGENOR (PDT, 379 votos)
+5 - EDIMAR PEREIRA CHAVES / GURI (PDT, 309 votos)
+6 - JOSÉ MARIA BERGAMINI / SARGENTO ZÉ MARIA (PATRIOTA, 292 votos)
+7 - SERGIO FELETTI / SARGENTO FELETTI (PODE, 216 votos)
+8 - ROBERTO RIVELINO ALMEIDA / RIVELINO (CIDADANIA, 199 votos)
+9 - CAIQUE DE SOUZA CARVALHO / CAIQUE DE SOUZA CARVALHO (PP, 179 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - VILMA SOARES LOUZADA / VILMA SOARES LOUZADA (PMN, 524 votos)
+2 - WEBERSON RODRIGO POPE / RODRIGO POPE (PSB, 447 votos)
+3 - SEBASTIÃO GILDO MARES PEREIRA / GILDO DO SINDICATO (PT, 420 votos)
+4 - AGENOR FAVORETO FILHO / PROFESSOR AGENOR (PDT, 379 votos)
+5 - ERALDO JOSE SOBREIRA BRAVO / SOBREIRA (PMN, 354 votos)
+6 - SÔNIA MARTA SOARES MIGNONE / SONINHA MIGNONE (PSB, 346 votos)
+7 - EDIMAR PEREIRA CHAVES / GURI (PDT, 309 votos)
+8 - AILTON JOSE VIAL / AILTON VIAL (PDT, 298 votos)
+9 - JOSÉ MARIA BERGAMINI / SARGENTO ZÉ MARIA (PATRIOTA, 292 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+5 - ERALDO JOSE SOBREIRA BRAVO / SOBREIRA (PMN, 354 votos)
+6 - SÔNIA MARTA SOARES MIGNONE / SONINHA MIGNONE (PSB, 346 votos)
+8 - AILTON JOSE VIAL / AILTON VIAL (PDT, 298 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - CAIQUE DE SOUZA CARVALHO / CAIQUE DE SOUZA CARVALHO (PP, 179 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PDT - 12, 2124 votos (1832 nominais e 292 de legenda), 2 candidatos eleitos
+2 - PMN - 33, 1573 votos (1543 nominais e 30 de legenda), 1 candidato eleito
+3 - PSB - 40, 1184 votos (1162 nominais e 22 de legenda), 1 candidato eleito
+4 - PT - 13, 1140 votos (1042 nominais e 98 de legenda), 1 candidato eleito
+5 - PATRIOTA - 51, 882 votos (866 nominais e 16 de legenda), 1 candidato eleito
+6 - PODE - 19, 877 votos (861 nominais e 16 de legenda), 1 candidato eleito
+7 - PP - 11, 874 votos (838 nominais e 36 de legenda), 1 candidato eleito
+8 - CIDADANIA - 23, 867 votos (844 nominais e 23 de legenda), 1 candidato eleito
+9 - PROS - 90, 737 votos (639 nominais e 98 de legenda), 0 candidato eleito
+
+Primeiro e último colocados de cada partido:
+1 - PMN - 33, VILMA SOARES LOUZADA (33456, 524 votos) / DHÉ GARCIA (33444, 2 votos)
+2 - PSB - 40, RODRIGO POPE (40789, 447 votos) / ANGELITA FLÁVIA (40123, 18 votos)
+3 - PT - 13, GILDO DO SINDICATO (13222, 420 votos) / EDINHO (13999, 8 votos)
+4 - PDT - 12, PROFESSOR AGENOR (12300, 379 votos) / ZENILDA ALVES (12777, 6 votos)
+5 - PATRIOTA - 51, SARGENTO ZÉ MARIA (51234, 292 votos) / GLÓRIA MÁXIMO (51111, 3 votos)
+6 - PROS - 90, CLAUDIMAR DE ASSUNÇÃO (90123, 273 votos) / TOSTAO DA TCHEIA (90333, 28 votos)
+7 - PODE - 19, SARGENTO FELETTI (19019, 216 votos) / REGIANE VICENTE (19720, 4 votos)
+8 - CIDADANIA - 23, RIVELINO (23000, 199 votos) / SIMONE PAULUCIO (23900, 2 votos)
+9 - PP - 11, CAIQUE DE SOUZA CARVALHO (11000, 179 votos) / SALOMÃO FELETTI (11333, 15 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+Idade < 30      : 1 (11,11%)
+30 <= Idade < 40: 1 (11,11%)
+40 <= Idade < 50: 2 (22,22%)
+50 <= Idade < 60: 4 (44,44%)
+60 <= Idade     : 1 (11,11%)
+
+Eleitos, por sexo:
+Feminino:  1 (11,11%)
+Masculino: 8 (88,89%)
+
+Total de votos válidos:    10258
+Total de votos nominais:   9627 (93,85%)
+Total de votos de Legenda: 631 (6,15%)

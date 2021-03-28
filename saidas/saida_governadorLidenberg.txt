@@ -1,0 +1,93 @@
+Buildfile: /home/bea/ufes/2020-2-earte/prog3/trab1/ufes-prog3-trab1/build.xml
+
+init:
+
+compile:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Buildfile: /home/bea/ufes/2020-2-earte/prog3/trab1/ufes-prog3-trab1/build.xml
+
+init:
+
+compile:
+
+jar:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+Buildfile: /home/bea/ufes/2020-2-earte/prog3/trab1/ufes-prog3-trab1/build.xml
+
+init:
+
+compile:
+
+run:
+     [java] Número de vagas: 9
+     [java] 
+     [java] Vereadores eleitos:
+     [java] 1 - CLAUDIO PEREIRA DO NASCIMENTO / IRMÃO CLAUDIO (PSD, 449 votos)
+     [java] 2 - ALOISIO FLERES ROMANHA / ALOISIO ROMANHA (REPUBLICANOS, 438 votos)
+     [java] 3 - VALTENCIR GHISOLFI / MAÍRA (PV, 404 votos)
+     [java] 4 - AGUILLAR ORLETTI JUNIOR / JUNINHO ORLETTI (CIDADANIA, 391 votos)
+     [java] 5 - RAFAEL BARCELLOS BULLERJHANN / RAFAEL (DEM, 389 votos)
+     [java] 6 - VOLMER JALAS COSME / BIDAL (PDT, 339 votos)
+     [java] 7 - GILSON MENDES FERREIRA / GILSON PROFESSOR (PSB, 254 votos)
+     [java] 8 - LEOMAR CAZOTI MANDATO / LEOMAR MANDATO (DEM, 241 votos)
+     [java] 9 - JOSÉ CARLOS FINCO MARIANELLI / JOSÉ CARLOS MARIANELLI (CIDADANIA, 220 votos)
+     [java] 
+     [java] Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+     [java] 1 - CLAUDIO PEREIRA DO NASCIMENTO / IRMÃO CLAUDIO (PSD, 449 votos)
+     [java] 2 - ALOISIO FLERES ROMANHA / ALOISIO ROMANHA (REPUBLICANOS, 438 votos)
+     [java] 3 - VALTENCIR GHISOLFI / MAÍRA (PV, 404 votos)
+     [java] 4 - AGUILLAR ORLETTI JUNIOR / JUNINHO ORLETTI (CIDADANIA, 391 votos)
+     [java] 5 - RAFAEL BARCELLOS BULLERJHANN / RAFAEL (DEM, 389 votos)
+     [java] 6 - VOLMER JALAS COSME / BIDAL (PDT, 339 votos)
+     [java] 7 - GILSON MENDES FERREIRA / GILSON PROFESSOR (PSB, 254 votos)
+     [java] 8 - LEOMAR CAZOTI MANDATO / LEOMAR MANDATO (DEM, 241 votos)
+     [java] 9 - JOSÉ CARLOS FINCO MARIANELLI / JOSÉ CARLOS MARIANELLI (CIDADANIA, 220 votos)
+     [java] 
+     [java] Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+     [java] (com sua posição no ranking de mais votados)
+     [java] 
+     [java] Eleitos, que se beneficiaram do sistema proporcional:
+     [java] (com sua posição no ranking de mais votados)
+     [java] 
+     [java] Votação dos partidos e número de candidatos eleitos:
+     [java] 1 - CIDADANIA - 23, 1202 votos (1016 nominais e 186 de legenda), 2 candidatos eleitos
+     [java] 2 - DEM - 25, 1200 votos (1183 nominais e 17 de legenda), 2 candidatos eleitos
+     [java] 3 - PSB - 40, 835 votos (750 nominais e 85 de legenda), 1 candidato eleito
+     [java] 4 - PSD - 55, 783 votos (768 nominais e 15 de legenda), 1 candidato eleito
+     [java] 5 - PDT - 12, 690 votos (662 nominais e 28 de legenda), 1 candidato eleito
+     [java] 6 - PV - 43, 645 votos (640 nominais e 5 de legenda), 1 candidato eleito
+     [java] 7 - REPUBLICANOS - 10, 618 votos (601 nominais e 17 de legenda), 1 candidato eleito
+     [java] 8 - PT - 13, 364 votos (354 nominais e 10 de legenda), 0 candidato eleito
+     [java] 
+     [java] Primeiro e último colocados de cada partido:
+     [java] 1 - PSD - 55, IRMÃO CLAUDIO (55888, 449 votos) / POLIANA (55489, 0 voto)
+     [java] 2 - REPUBLICANOS - 10, ALOISIO ROMANHA (10000, 438 votos) / GERLAINE CARVALHO (10999, 3 votos)
+     [java] 3 - PV - 43, MAÍRA (43111, 404 votos) / PRISCILA (43369, 1 voto)
+     [java] 4 - CIDADANIA - 23, JUNINHO ORLETTI (23123, 391 votos) / MARIA MENDES (23678, 11 votos)
+     [java] 5 - DEM - 25, RAFAEL (25111, 389 votos) / LEO MORELLO (25777, 1 voto)
+     [java] 6 - PDT - 12, BIDAL (12300, 339 votos) / ANDREIA (12777, 0 voto)
+     [java] 7 - PSB - 40, GILSON PROFESSOR (40000, 254 votos) / ERINEIA CUNHA (40111, 6 votos)
+     [java] 8 - PT - 13, DEVALDIR BANDEIRA (13013, 118 votos) / ADEMAR LEMES (13555, 7 votos)
+     [java] 
+     [java] Eleitos, por faixa etária (na data da eleição):
+     [java] Idade < 30      : 0 (,00%)
+     [java] 30 <= Idade < 40: 4 (44,44%)
+     [java] 40 <= Idade < 50: 3 (33,33%)
+     [java] 50 <= Idade < 60: 2 (22,22%)
+     [java] 60 <= Idade     : 0 (,00%)
+     [java] 
+     [java] Eleitos, por sexo:
+     [java] Feminino:  0 (,00%)
+     [java] Masculino: 9 (100,00%)
+     [java] 
+     [java] Total de votos válidos:    6337
+     [java] Total de votos nominais:   5974 (94,27%)
+     [java] Total de votos de Legenda: 363 (5,73%)
+     [java] 
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
