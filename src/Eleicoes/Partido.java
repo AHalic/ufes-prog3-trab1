@@ -31,69 +31,20 @@ public class Partido {
 		return nome;
 	}
 
-	public void setNome (String nome) {
-		this.nome = nome;
-	}
-
 	public String getSigla () {
 		return sigla;
-	}
-
-	public void setSigla (String sigla) {
-		this.sigla = sigla;
 	}
 
 	public int getVotosLegenda () {
 		return votosLegenda;
 	}
 
-	public void setVotosLegenda (int votosLegenda) {
-		this.votosLegenda = votosLegenda;
-	}
-
 	public int getVotosNominais () {
 		return votosNominais;
 	}
 
-	public void setVotosNominais (int votosNominais) {
-		this.votosNominais = votosNominais;
-	}
-
 	public int getVotosTotal () {
 		return votosTotal;
-	}
-
-	public void setVotosTotal (int votosTotal) {
-		this.votosTotal = votosTotal;
-	}
-
-	public int getNumPartido () {
-		return numPartido;
-	}
-
-	public void setNumPartido (int numPartido) {
-		this.numPartido = numPartido;
-	}
-
-	public int getVagas() {
-		return this.vagas;
-	}
-	
-	public int getFirstCandidato() {
-//		System.out.println("\nO que é? " + this.candidatos.getFirst().getVotosTotal());
-		return this.candidatos.getFirst().getVotosTotal();
-	}
-	
-	public int getLastCandidato() {
-		return this.candidatos.getLast().getVotosTotal();
-	}
-	
-	public LinkedList<Candidato> getCandidatos () {
-		return candidatos;
-	}
-
-	public void setCandidatos (LinkedList<Candidato> candidatos) {
-		this.candidatos = candidatos;
 	}
 
 	public void setVotosTotais () {
@@ -105,6 +56,26 @@ public class Partido {
 
 		this.votosTotal = votosCandidatos + votosLegenda;
 		this.votosNominais = votosCandidatos;
+	}
+
+	public int getNumPartido () {
+		return numPartido;
+	}
+
+	public int getVagas() {
+		return this.vagas;
+	}
+	
+	public int getFirstCandidato() {
+		return this.candidatos.getFirst().getVotosTotal();
+	}
+	
+	public int getLastCandidato() {
+		return this.candidatos.getLast().getVotosTotal();
+	}
+	
+	public LinkedList<Candidato> getCandidatos () {
+		return candidatos;
 	}
 
     public void insereCandidato (Candidato candidato) {
@@ -146,9 +117,8 @@ public class Partido {
 		String fraseVoto = " voto";
 		String fraseNominal = " nominal";
 
-		if (this.getVagas() > 1) {
+		if (this.getVagas() > 1) 
 			fraseCandidatoEleito = " candidatos eleitos";
-		}
 
 		if (this.votosTotal > 1)
 			fraseVoto = " votos";
@@ -156,6 +126,6 @@ public class Partido {
 		if (this.votosNominais > 1)
 			fraseNominal = " nominais";
 
-		return this.sigla.toUpperCase() + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + fraseCandidatoEleito;
+		return this.sigla + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + fraseCandidatoEleito;
 	}
 }
