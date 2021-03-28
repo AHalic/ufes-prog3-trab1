@@ -113,11 +113,13 @@ public class Relatorio {
             if (p.getVotosTotal() > 0) {
                 System.out.print(cont + " - " + p.getSigla() + " - " + p.getNumPartido() + ", ");
 
-                Candidato prim = p.getCandidatos().getFirst();
-                Candidato ult = p.getCandidatos().getLast();         
+                if (!p.getCandidatos().isEmpty()) {
+                    Candidato prim = p.getCandidatos().getFirst();
+                    Candidato ult = p.getCandidatos().getLast();         
 
-                System.out.print(prim.shortToString() + " / ");
-                System.out.println(ult.shortToString());
+                    System.out.print(prim.shortToString() + " / ");
+                    System.out.println(ult.shortToString());
+                }
                 
                 cont++;
             }
