@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 public class Leitura {
     private Partido criaPartido(Scanner linhaScannerP) {
-        int numPartido = null;
-        int votosLegenda = null;
+        int numPartido;
+        int votosLegenda;
         String nomePartido = null;
         String sigla = null;
 
@@ -60,34 +60,47 @@ public class Leitura {
     }
 
     public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
-        int numero = Integer.parseInt(linhaScanner.next());
-        int votosNominais = Integer.parseInt(linhaScanner.next());
-        String situacao = linhaScanner.next();
-        String nome = linhaScanner.next();
-        String nomeUrna = linhaScanner.next();
-        String genero = linhaScanner.next();
-
-        String aniversarioStr = linhaScanner.next();
-        LocalDate aniversario = LocalDate.parse(aniversarioStr, formatoData);
-
-        String destVoto = linhaScanner.next();
-        int numPartido = Integer.parseInt(linhaScanner.next());
+    	int numero, votosNominais, numPartido;
+        String situacao = null, nome = null;
+        String nomeUrna = null, genero = null;
+        String aniversarioStr = null, destVoto = null;
+        LocalDate aniversario;
 
         Candidato candidato = null;
-        try { 
-            for(Partido p: partidos) {
-                if(p.getNumPartido() == numPartido) {
-                    candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
-                    destVoto, p);
-                    
-                    // Apenas serão considerados os candidatos Válidos
-                    if(candidato.ehValido())
-                    	p.insereCandidato(candidato);
-                }
-            }
-        } catch (NoSuchElementException e) {
-            System.out.println("Partido " + numPartido + " não existe!"); 
+
+        // Faz leitura do candidato e verifica se está de acordo com a formatação
+        try {
+	        numero = Integer.parseInt(linhaScanner.next());
+	        votosNominais = Integer.parseInt(linhaScanner.next());
+	        situacao = linhaScanner.next();
+	        nome = linhaScanner.next();
+	        nomeUrna = linhaScanner.next();
+	        genero = linhaScanner.next();
+	        System.out.println("Sou " + nome + " " + genero);
+	        aniversarioStr = linhaScanner.next();
+	        aniversario = LocalDate.parse(aniversarioStr, formatoData);
+	
+	        destVoto = linhaScanner.next();
+	        numPartido = Integer.parseInt(linhaScanner.next());
+    	} catch(NoSuchElementException e) {
+        	// Caso contrário retorna null
+        	System.out.println("DEu ruim");
+        	return null;
         }
+        
+
+        for(Partido p: partidos) {
+        	// Verifica se existe o partido com mesmo número do presente no candidato
+            if(p.getNumPartido() == numPartido) {
+                candidato = new Candidato(nome, genero, aniversario, situacao, nomeUrna, votosNominais, numero,
+                destVoto, p);
+                
+                // Apenas serão considerados os candidatos Válidos
+                if(candidato.ehValido())
+                	p.insereCandidato(candidato);
+            }
+        }
+
         
         return candidato;
     }
@@ -103,9 +116,10 @@ public class Leitura {
 
             Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos);
             
-            // Apenas serão considerados os candidatos Válidos
-            if(candidato.ehValido())        
-            	candidatos.add(candidato);
+            if(candidato != null)
+            	if(candidato.ehValido())        
+            		// Apenas serão considerados os candidatos Válidos
+            		candidatos.add(candidato);
 
             linhaScanner.close();
         }
