@@ -40,7 +40,7 @@ public class Eleicao {
         return votosLegenda;
     }
 
-    public void setVotosTotais () {
+    private void setVotosTotais () {
         this.votosTotais = this.votosLegenda + this.votosNominais;
     }
     
