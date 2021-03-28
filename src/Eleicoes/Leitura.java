@@ -9,11 +9,22 @@ import java.util.Scanner;
 
 public class Leitura {
     private Partido criaPartido(Scanner linhaScannerP) {
-        int numPartido = Integer.parseInt(linhaScannerP.next());
-        int votosLegenda = Integer.parseInt(linhaScannerP.next());
-        String nomePartido = linhaScannerP.next();
-        String sigla = linhaScannerP.next();
-        Partido partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
+        int numPartido = null;
+        int votosLegenda = null;
+        String nomePartido = null;
+        String sigla = null;
+
+        Partido partido = null;
+        try {
+            numPartido = Integer.parseInt(linhaScannerP.next());
+            votosLegenda = Integer.parseInt(linhaScannerP.next());
+            nomePartido = linhaScannerP.next();
+            sigla = linhaScannerP.next();
+        } catch (NoSuchElementException e) {
+            return null;
+        }
+
+        partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
         return partido;
     }
 
@@ -26,8 +37,11 @@ public class Leitura {
             Scanner linhaScannerP = new Scanner(linha);
             linhaScannerP.useDelimiter(",");
 
+
             Partido partido = criaPartido(linhaScannerP);
-            partidos.add(partido);
+
+            if (partido != null)
+                partidos.add(partido);
 
             linhaScannerP.close();
         }
