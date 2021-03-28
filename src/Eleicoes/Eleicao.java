@@ -7,18 +7,16 @@ import java.util.LinkedList;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
-    private int votosNominais;
-	private int votosLegenda;
-	private int votosTotais;
+    private Votos votos;
     private int vagas;
 	private LinkedList<Candidato> candidatos;
 	private LinkedList<Partido> partidos; 
 
     public Eleicao (LocalDate dataEleicao, LinkedList<Candidato> candidatos, LinkedList<Partido> partidos) {
         this.dataEleicao = dataEleicao;
-
         this.partidos = partidos;
         this.candidatos = candidatos;
+        
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
@@ -32,23 +30,19 @@ public class Eleicao {
     }
 
     public int getVotosNominais () {
-        return votosNominais;
+        return votos.getVotosNominais();
     }
 
     public int getVotosLegenda () {
-        return votosLegenda;
+        return votos.getVotosLegenda();
     }
 
-    private void setVotosTotais () {
-        this.votosTotais = this.votosLegenda + this.votosNominais;
-    }
-    
     public int getVotosTotais () {
-        return this.votosTotais;
+        return votos.getVotosTotais();
     }
 
     public int getVagas () {
-        return this.vagas;
+        return vagas;
     }
     
     private void totalVotos() {
@@ -59,9 +53,7 @@ public class Eleicao {
     		votosNominais += partido.getVotosNominais(); 
     	}
     	
-    	this.votosLegenda = votosLegenda;
-    	this.votosNominais = votosNominais;
-    	this.setVotosTotais();
+        this.votos = new Votos(votosNominais, votosLegenda);
     }
 
     public LinkedList<Candidato> getCandidatos () {
