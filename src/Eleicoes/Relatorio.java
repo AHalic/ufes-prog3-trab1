@@ -90,10 +90,9 @@ public class Relatorio {
                 Candidato prim = p.getCandidatos().getFirst();
                 Candidato ult = p.getCandidatos().getLast();         
 
-                System.out.print(prim.getNomeUrna() + " (" + prim.getNumero() + ", " + prim.getVotosTotal() + " votos) / ");
-                System.out.println(ult.getNomeUrna() + " (" + ult.getNumero() + ", " + ult.getVotosTotal() + " votos)");
+                System.out.print(prim.shortToString() + " / ");
+                System.out.println(ult.shortToString());
                 
-//                System.out.println(p.getCandidatos().get(p.getCandidatos().size()-2));
                 cont++;
             }
         }
@@ -108,7 +107,7 @@ public class Relatorio {
     	
     	System.out.println("Eleitos, por sexo:");
     	System.out.printf("Feminino: %d (%.2f%%)\n", F, ((float)F*100/vagas));
-    	System.out.printf("Feminino: %d (%.2f%%)\n\n", M, ((float)M*100/vagas));
+    	System.out.printf("Masculino: %d (%.2f%%)\n\n", M, ((float)M*100/vagas));
     }
     
     public void votosEleicao() {
