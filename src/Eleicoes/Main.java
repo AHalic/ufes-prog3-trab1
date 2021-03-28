@@ -8,14 +8,17 @@ public class Main {
 	public static void main(String[] args) {
 		String caminhoCandidatos = new String();
 		caminhoCandidatos = args[0];
-		String caminhoPartidos = new String();
 
+		String caminhoPartidos = new String();
 		caminhoPartidos = args[1];
+
 		String dataEleicaoStr = args[2];
 	
+        // Data da eleicao
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
 		
+        // Listas de partido e candidatos
         LinkedList<Partido> partidos;
         LinkedList<Candidato> candidatos;
                

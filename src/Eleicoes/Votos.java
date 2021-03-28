@@ -1,11 +1,11 @@
 package Eleicoes;
 
-public class Voto {
+public class Votos {
     private int votosNominais;
 	private int votosLegenda;
     private int votosTotais;
     
-    public Voto (int votosNominais, int votosLegenda) {
+    public Votos (int votosNominais, int votosLegenda) {
         this.votosNominais = votosNominais;
         this.votosLegenda = votosLegenda;
         this.votosTotais = votosLegenda + votosNominais;
@@ -31,7 +31,5 @@ public class Voto {
     public void setVotosNominais(int votosNominais) {
         this.votosNominais = votosNominais;
         this.votosTotais = this.votosLegenda + this.votosNominais;
-    }
-
-    
+    }   
 }

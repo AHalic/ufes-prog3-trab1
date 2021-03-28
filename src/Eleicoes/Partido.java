@@ -6,23 +6,19 @@ import java.util.*;
 public class Partido {
 	private String nome;
 	private String sigla;
-	private int votosLegenda;
-	private int votosNominais;
-	private int votosTotal;
+	private Votos votos;
 	private int numPartido;
 	private LinkedList<Candidato> candidatos;
 	private int vagas;
 
-	public Partido(String nome, String sigla, int vtL, int numP) {
+	public Partido(String nome, String sigla, int votosLegenda, int numP) {
 		this.nome = nome;
 		this.sigla = sigla;
-		this.votosLegenda = vtL;
 		this.numPartido = numP;
-		this.candidatos = new LinkedList<Candidato>();
-
-		this.votosTotal = -1;
 		this.vagas = 0;
-		this.votosNominais = -1;
+
+		this.candidatos = new LinkedList<Candidato>();
+		this.votos = new Votos(-1, votosLegenda);
 	}
 
 	public String getNome () {
@@ -34,19 +30,19 @@ public class Partido {
 	}
 
 	public int getVotosLegenda () {
-		return votosLegenda;
+		return votos.getVotosLegenda();
 	}
 
 	public int getVotosNominais () {
-		return votosNominais;
+		return votos.getVotosNominais();
 	}
 
 	public void setVotosNominais (int votosNominais) {
-        this.votosNominais = votosNominais;
+        this.votos.setVotosNominais(votosNominais);;
     }
 
 	public int getVotosTotal () {
-		return votosTotal;
+		return votos.getVotosTotais();
 	}
 
 	public void setVotosTotais () {
@@ -56,8 +52,7 @@ public class Partido {
 			votosCandidatos += candidato.getVotosTotal();
 		}
 
-		this.votosTotal = votosCandidatos + votosLegenda;
-		this.votosNominais = votosCandidatos;
+		this.setVotosNominais(votosCandidatos);
 	}
 
 	public int getNumPartido () {
@@ -122,13 +117,13 @@ public class Partido {
 		if (this.getVagas() > 1) 
 			fraseCandidatoEleito = " candidatos eleitos";
 
-		if (this.votosTotal > 1)
+		if (this.votos.getVotosTotais() > 1)
 			fraseVoto = " votos";
 
-		if (this.votosNominais > 1)
+		if (this.votos.getVotosNominais() > 1)
 			fraseNominal = " nominais";
 
-		return this.sigla + " - " + this.numPartido + ", " + this.votosTotal + fraseVoto + " (" + this.votosNominais + fraseNominal + " e " + this.votosLegenda + " de legenda), " + this.vagas + fraseCandidatoEleito;
+		return this.sigla + " - " + this.numPartido + ", " + this.votos.getVotosTotais() + fraseVoto + " (" + this.votos.getVotosNominais() + fraseNominal + " e " + this.votos.getVotosLegenda() + " de legenda), " + this.vagas + fraseCandidatoEleito;
 	}
 
 	public int getCandidatosPorIdade (int limIdadeMin, int limIdadeMax, LocalDate data) {
