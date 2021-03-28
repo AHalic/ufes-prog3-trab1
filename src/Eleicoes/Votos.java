@@ -31,7 +31,5 @@ public class Votos {
     public void setVotosNominais(int votosNominais) {
         this.votosNominais = votosNominais;
         this.votosTotais = this.votosLegenda + this.votosNominais;
-    }
-
-    
+    }   
 }
