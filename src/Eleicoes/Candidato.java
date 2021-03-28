@@ -39,7 +39,8 @@ public class Candidato extends Pessoa{
 	public boolean ehValido () {
 		if (this.destVoto.equals("Válido"))
 			return true;
-		else return false;
+		else 
+			return false;
 	}
 	
 	public String getNomeUrna() {
@@ -51,7 +52,11 @@ public class Candidato extends Pessoa{
 	}
 
 	public int getVotosTotal() {
-		return votosTotal;
+		return this.votosTotal;
+	}
+	
+	public int comparaNome(Candidato c2) {
+		return this.getNome().compareTo(c2.getNome());
 	}
 
 	public void setVotosTotal(int votosTotal) {
@@ -73,7 +78,7 @@ public class Candidato extends Pessoa{
 	public void setDestVoto(String destVoto) {
 		this.destVoto = destVoto;
 	}
-
+	
 	@Override
 	public String toString() {
 		return super.toString() + " / " + this.getNomeUrna() + " (" + this.partido.getSigla().toUpperCase() + ", " + this.votosTotal + " votos)";

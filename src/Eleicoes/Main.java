@@ -51,6 +51,7 @@ public class Main {
         relatorio.eleitosBeneficiados();
         relatorio.infoPartidos();
         relatorio.primeiroUltimoPartido();
+        relatorio.eleitosPorGenero();
         relatorio.votosEleicao();
 	}
 }

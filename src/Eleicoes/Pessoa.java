@@ -21,6 +21,14 @@ public class Pessoa {
 	public String getGenero() {
 		return genero;
 	}
+	
+	public boolean ehGeneroF () {
+		if (this.genero.equals("F"))
+			return true;
+		else 
+			return false;
+	}
+	
 
 	public LocalDate getNascimento() {
 		return nascimento;

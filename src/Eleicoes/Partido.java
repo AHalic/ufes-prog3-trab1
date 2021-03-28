@@ -1,8 +1,9 @@
 package Eleicoes;
 
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.LinkedList;
+import java.util.*;
+//import java.util.Collections;
+//import java.util.Comparator;
+//import java.util.LinkedList;
 
 public class Partido {
 	private String nome;
@@ -78,8 +79,15 @@ public class Partido {
 		return this.vagas;
 	}
 	
-	// Esses dois eu mudaria pra poder escolher qual candidato quer
-	// e para poder setar adicionando
+	public int getFirstCandidato() {
+//		System.out.println("\nO que é? " + this.candidatos.getFirst().getVotosTotal());
+		return this.candidatos.getFirst().getVotosTotal();
+	}
+	
+	public int getLastCandidato() {
+		return this.candidatos.getLast().getVotosTotal();
+	}
+	
 	public LinkedList<Candidato> getCandidatos () {
 		return candidatos;
 	}
@@ -124,8 +132,10 @@ public class Partido {
                 int votos2 = c2.getVotosTotal();
                 if (votos1 > votos2)
                     return -1;
-                else
-                    return 1;
+                else if(votos1 == votos2) {                	
+                	return c1.comparaNome(c2); 
+                }
+                return 1;
             }
         });
 	}

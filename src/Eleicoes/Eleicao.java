@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
+import java.util.NoSuchElementException;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
@@ -22,7 +23,7 @@ public class Eleicao {
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
-        this.ordenaPartidos();
+        this.ordenaPartidosVagas();
         this.ordenaCandidatos();
         this.ordenaPartidoCandidatos();
     }
@@ -80,7 +81,18 @@ public class Eleicao {
         this.partidos.add(partidoEleicao);
     }
 
-    private void calculaQtdVagas () {
+    public int calculaQtdF() {
+    	int F = 0;
+    	
+    	for(Candidato c : this.candidatos) {
+    		if(c.ehGeneroF() && c.ehEleito())
+    			F++;
+    	}
+    	
+    	return F;
+    }
+    
+     private void calculaQtdVagas () {
         int qtdVagas = 0;
 
         for (Partido p : this.partidos) {
@@ -103,7 +115,7 @@ public class Eleicao {
         }
     }
 
-    private void ordenaPartidos () {
+    public void ordenaPartidosVagas () {
         Collections.sort(this.partidos, new Comparator<Partido>() {
             @Override
             public int compare(Partido p1, Partido p2) {
@@ -117,6 +129,31 @@ public class Eleicao {
                return 1;
             }
         });
+        
+    }
+    
+    public void ordenaPartidosVotos () {
+        Collections.sort(this.partidos, new Comparator<Partido>() {
+            @Override
+            public int compare(Partido p1, Partido p2) {
+            	
+
+            	if(!p1.getCandidatos().isEmpty() && !p2.getCandidatos().isEmpty()) {
+
+	                int votos1 = p1.getFirstCandidato();
+	                int votos2 = p2.getFirstCandidato();
+	                
+	                if (votos1 > votos2)
+	                    return -1;
+	                else if (votos1 == votos2) {
+	                	if(p1.getLastCandidato() > p2.getLastCandidato())
+	                		return -1;
+	                }
+                	return 1;        
+            	}
+            	return 1;
+            }
+        });        
     }
 
     private void ordenaCandidatos () {
@@ -125,8 +162,12 @@ public class Eleicao {
             public int compare(Candidato c1, Candidato c2) {
                 int votos1 = c1.getVotosTotal();
                 int votos2 = c2.getVotosTotal();
+               
                 if (votos1 > votos2)
                     return -1;
+                else if(votos1 == votos2) {
+                	return c1.comparaNome(c2);
+                }
                 return 1;
             }
         });
