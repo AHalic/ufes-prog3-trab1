@@ -4,7 +4,6 @@ import java.time.LocalDate;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
-import java.util.NoSuchElementException;
 
 public class Eleicao {
 	private LocalDate dataEleicao;
@@ -178,4 +177,14 @@ public class Eleicao {
             p.ordenaCandidatos();
         }
     }
+
+    public int getCandidatosPorIdade (int limIdadeMin, int limIdadeMax, LocalDate data) {
+		int idadeCandidatos = 0;
+
+		for (Partido p: this.partidos) {
+			idadeCandidatos += p.getCandidatosPorIdade(limIdadeMin, limIdadeMax, data);
+		}
+
+		return idadeCandidatos;
+	}
 }
