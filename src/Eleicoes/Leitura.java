@@ -76,18 +76,16 @@ public class Leitura {
 	        nome = linhaScanner.next();
 	        nomeUrna = linhaScanner.next();
 	        genero = linhaScanner.next();
-	        System.out.println("Sou " + nome + " " + genero);
 	        aniversarioStr = linhaScanner.next();
-	        aniversario = LocalDate.parse(aniversarioStr, formatoData);
-	
 	        destVoto = linhaScanner.next();
 	        numPartido = Integer.parseInt(linhaScanner.next());
     	} catch(NoSuchElementException e) {
-        	// Caso contrário retorna null
-        	System.out.println("DEu ruim");
         	return null;
+        } catch(NumberFormatException e) {
+            return null;
         }
         
+        aniversario = LocalDate.parse(aniversarioStr, formatoData);
 
         for(Partido p: partidos) {
         	// Verifica se existe o partido com mesmo número do presente no candidato
@@ -120,7 +118,6 @@ public class Leitura {
             	if(candidato.ehValido())        
             		// Apenas serão considerados os candidatos Válidos
             		candidatos.add(candidato);
-
             linhaScanner.close();
         }
 
