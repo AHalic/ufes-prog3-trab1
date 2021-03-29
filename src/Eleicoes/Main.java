@@ -28,8 +28,8 @@ public class Main {
         try {
             FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
-            partidos = leitura.abrePartidos(caminhoPartidos, arquivoP);
-            candidatos = leitura.abreCandidato(caminhoPartidos, arquivoC, formatoData, partidos);
+            partidos = leitura.abrePartidos(arquivoP);
+            candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
         } catch (FileNotFoundException e) {
             System.out.println("Arquivo não foi encontrado");
             return;
