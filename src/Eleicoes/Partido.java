@@ -159,7 +159,7 @@ public class Partido {
     /**
      * Ordena a lista de candidatos deste Partido
      * com base na quantidade de votos deles e no 
-     * caso de empate, com base nos nomes deles
+     * caso de empate, com base nos nomes deles (lexicograficamente)
      */
 	public void ordenaCandidatos () {
 		Collections.sort(this.candidatos, new Comparator<Candidato>() {
