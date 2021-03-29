@@ -17,9 +17,9 @@ public class Pessoa {
 	
 	/**
 	 * Constructor da classe Pessoa
-	 * @param nome
-	 * @param genero pode ser F ou M
-	 * @param nascimento 
+	 * @param nome - nome desta Pessoa
+	 * @param genero - pode ser F ou M
+	 * @param nascimento - data de nascimento desta Pessoa 
 	 */
 	public Pessoa(String nome, String genero, LocalDate nascimento) {
 		this.nome = nome;
@@ -73,7 +73,7 @@ public class Pessoa {
 
 	/**
 	 * Retorna a idade desta Pessoa com base em uma data
-	 * @param dia data para cálculo da idade
+	 * @param dia - data para cálculo da idade
 	 * @return idade 
 	 */
 	public int getIdade (LocalDate dia) {
