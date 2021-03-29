@@ -3,6 +3,13 @@ package Eleicoes;
 import java.time.LocalDate;
 import java.time.Period;
 
+/**
+ * Esta classe representa uma Pessoa
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 20/03/2021
+ */
 public class Pessoa {
 	private String nome;
 	private String genero;
