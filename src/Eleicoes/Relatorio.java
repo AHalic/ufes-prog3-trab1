@@ -5,10 +5,21 @@ import java.text.DecimalFormat;
 public class Relatorio {
     private Eleicao eleicao;
 
+    /**
+     * Construtor de Relatorio.
+     * @param eleicao - Eleicao com todas os candidatos e partidos.
+     */
     public Relatorio (Eleicao eleicao) {
         this.eleicao = eleicao;
     }
     
+    /**
+     * Metodo para calcular a porcentagem e converter para String. Usa "," como separador das
+     * casa decimais.
+     * @param valor - Valor o qual quer saber a porcentagem
+     * @param total - A quantidade total
+     * @return String de porcentagem no estilo X,XX%
+     */
     static private String porcentagem (int valor, int total) {
         double porcentagem = (double) valor * 100 / total;
 
@@ -21,11 +32,21 @@ public class Relatorio {
         return porcentagemStr;
     }
 
+    /**
+     * <p><b> Relatorio 1 </b></p>
+     * 
+     * Mostra no terminal a quantidade de vagas na eleicao.
+     */
     public void numeroDeVagas () {
         System.out.println("Número de vagas: " + eleicao.getVagas());
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 2 </b></p>
+     * 
+     * Mostra os vereadores eleitos.
+     */
     public void vereadoresEleitos () {
         int contador = 1;
 
@@ -43,6 +64,11 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 3 </b></p>
+     * 
+     * Mostra os candidatos mais votados dentro da quantidade de vagas.
+     */
     public void candidatosMaisVotados () {
         int contador = 1;
         System.out.println("Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):");
@@ -57,6 +83,12 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 4 </b></p>
+     * 
+     * Mostra quais candidatos que dentro do limite de vagas nao foram eleitos. Caso a votacao
+     * fosse majoritaria, eles seriam eleitos. 
+     */
     public void naoEleitosMajoritario () {
         int contador = 1;
 
@@ -76,22 +108,34 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 5 </b></p>
+     * 
+     * Mostra quais candidatos eleitos se beneficiaram do sistema proporcional.
+     */
     public void eleitosBeneficiados () {
         int contador = 16;
 
         System.out.println("Eleitos, que se beneficiaram do sistema proporcional:");
         System.out.println("(com sua posição no ranking de mais votados)");
 
-        for (Candidato c: eleicao.getCandidatos().subList(15, eleicao.getCandidatos().size())) {
-            if (c.ehEleito())
-                System.out.println(contador + " - " + c);
-            
-            contador++;
-        }
+        if (eleicao.getVagas() <= eleicao.getCandidatos().size()) {
+            for (Candidato c: eleicao.getCandidatos().subList(15, eleicao.getCandidatos().size())) {
+                if (c.ehEleito())
+                    System.out.println(contador + " - " + c);
+                
+                contador++;
+            }
 
-        System.out.println();
+            System.out.println();
+        }
     }
 
+    /**
+     * <p><b> Relatorio 6 </b></p>
+     * 
+     * Mostra informacao de cada partido. Votacao e o numero de candidatos eleitos.
+     */
     public void infoPartidos() {
         int contador = 1;
         System.out.println("Votação dos partidos e número de candidatos eleitos:");
@@ -103,6 +147,11 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 7 </b></p>
+     * 
+     * Mostra primeiro e ultimo colocados de cada partido, ordenado por votos.
+     */
     public void primeiroUltimoPartido () {
     	int cont = 1;
         System.out.println("Primeiro e último colocados de cada partido:");
@@ -128,6 +177,17 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 8 </b></p>
+     * 
+     * Mostra a quantidade de eleitos dentro dos seguintes limites de idade:
+     * <ul>
+     *  <li> 0 <= idade < 30 </li>
+     *  <li> 30 <= idade < 40 </li>
+     *  <li> 40 <= idade < 50 </li>
+     *  <li> 50 <= idade < 60 </li>
+     *  <li> 60 <= idade <  </li>
+     */
     public void eleitosPorIdade () {
         int qtdMenos30 = this.eleicao.getCandidatosPorIdade(0, 30, eleicao.getDataEleicao());
         int qtdMenos40 = this.eleicao.getCandidatosPorIdade(30, 40, eleicao.getDataEleicao()); 
@@ -146,6 +206,11 @@ public class Relatorio {
         System.out.println();
     }
 
+    /**
+     * <p><b> Relatorio 9 </b></p>
+     * 
+     * Mostra a quantidade eleitos por genero (apenas feminino e masculino).
+    */
     public void eleitosPorGenero() {
     	int vagas = eleicao.getVagas();
     	int F = eleicao.calculaQtdF();
@@ -158,6 +223,11 @@ public class Relatorio {
         System.out.println();
     }
     
+    /**
+     * <p><b>Relatorio 10 </b></p>
+     * 
+     * Mostra a quantidade de votos validos, nominais e de legenda
+     */
     public void votosEleicao() {
     	int total, nominal, legenda;
     	

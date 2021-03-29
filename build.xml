@@ -1,9 +1,11 @@
 <project name="Trabalho1" default="compile" basedir=".">
     <description>Arquivo de build do trabalho de PROG3, 2020/2.</description>
+    
     <!-- Propriedades do build. -->
     <property name="src" location="src" />
     <property name="bin" location="bin" />
     <property name="mainClass" value="Eleicoes.Main" />
+
     <!-- Inicialização. -->
     <target name="init" description="Inicializa as estruturas necessárias.">
         <tstamp/>
@@ -27,19 +29,9 @@
     <!-- Execução normal. -->
     <target name="run" depends="compile" description="Executa o programa principal, em modo
     normal.">
-
-        <!-- <java classname="${mainClass}">
+        <java classname="${mainClass}">
             <arg value="candidatos.csv" />
             <arg value="partidos.csv" />
-            <arg value="15/11/2020" />
-            <classpath>
-                <pathelement path="${bin}" />
-            </classpath>
-        </java> -->
-
-        <java classname="${mainClass}">
-            <arg value="./entradas/vitoria-candidatos.csv" />
-            <arg value="./entradas/vitoria-partidos.csv" />
             <arg value="15/11/2020" />
             <classpath>
                 <pathelement path="${bin}" />
