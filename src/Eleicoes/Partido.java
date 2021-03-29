@@ -3,6 +3,14 @@ package Eleicoes;
 import java.time.LocalDate;
 import java.util.*;
 
+
+/**
+ * Esta classe representa um Partido
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 21/03/2021
+ */
 public class Partido {
 	private String nome;
 	private String sigla;
@@ -11,6 +19,14 @@ public class Partido {
 	private LinkedList<Candidato> candidatos;
 	private int vagas;
 
+	
+	/**
+	 * Constructor da classe Partido
+	 * @param nome - nome deste Partido
+	 * @param sigla - sigla deste Partido
+	 * @param votosLegenda - total de votos de legenda para este Partido
+	 * @param numP - número referente a este Partido
+	 */
 	public Partido(String nome, String sigla, int votosLegenda, int numP) {
 		this.nome = nome;
 		this.sigla = sigla;
@@ -21,30 +37,61 @@ public class Partido {
 		this.votos = new Votos(-1, votosLegenda);
 	}
 
+	
+	/**
+	 * Retorna o nome deste Partido
+	 * @return nome
+	 */
 	public String getNome () {
-		return nome;
+		return this.nome;
 	}
 
+	/**
+	 * Retorna a sigla deste Partido
+	 * @return sigla
+	 */
 	public String getSigla () {
-		return sigla;
+		return this.sigla;
 	}
 
+	/**
+	 * Retorna a quantidade de votos de legenda a este Partido
+	 * @return votos de legenda
+	 */
 	public int getVotosLegenda () {
 		return votos.getVotosLegenda();
 	}
 
+	/**
+	 * Retorna a quantidade de votos nominais possuidos por este Partido
+	 * @return votos nominais
+	 */
 	public int getVotosNominais () {
 		return votos.getVotosNominais();
 	}
 
+	/**
+	 * Muda a quantidade de votos nominais possuídos por este Partido
+	 * @param votosNominais - novo valor da soma dos votos recebidos
+	 * 						  por cada Candidato deste Partido
+	 */
 	public void setVotosNominais (int votosNominais) {
         this.votos.setVotosNominais(votosNominais);;
     }
 
+	/**
+	 * Retorna a quantidade total de votos deste PArtido
+	 * @return votos de Legenda + votos nominais
+	 */
 	public int getVotosTotal () {
 		return votos.getVotosTotais();
 	}
 
+	/**
+	 * Calcula a soma dos votos nominais de todos 
+	 * Candidatos deste Partido e então
+	 * muda a quantidade de votos nominais deste
+	 */
 	public void setVotosTotais () {
 		int votosCandidatos = 0;
 
@@ -55,43 +102,65 @@ public class Partido {
 		this.setVotosNominais(votosCandidatos);
 	}
 
+	/**
+	 * Retorna o número deste Partido
+	 * @return numPartido
+	 */
 	public int getNumPartido () {
-		return numPartido;
+		return this.numPartido;
 	}
 
+	/**
+	 * Retorna a quantidade de Candidatos 
+	 * deste Partido que foram eleitos
+	 * @return vagas
+	 */
 	public int getVagas() {
 		return this.vagas;
 	}
 	
+	/**
+	 * Retorna a quantidade de votos recebidos
+	 * pelo primeiro Candidato da lista deste Partido
+	 * @return votos ao primeiro Candidato
+	 */
 	public int getFirstCandidato() {
 		return this.candidatos.getFirst().getVotosTotal();
 	}
 	
+	/**
+	 * Retorna a quantidade de votos recebidos
+	 * pelo último Candidato da lista deste Partido
+	 * @return votos ao ultimo Candidato
+	 */
 	public int getLastCandidato() {
 		return this.candidatos.getLast().getVotosTotal();
 	}
 	
+	/**
+	 * Retorna a lista de candidatos deste Partido
+	 * @return lista de Candidato
+	 */
 	public LinkedList<Candidato> getCandidatos () {
 		return candidatos;
 	}
 
+	/**
+	 * Insere um Candidato na lista de candidatos deste Partido
+	 * e verifica se esse foi eleito, caso sim incrementa o número de vagas
+	 * @param candidato - candidato que será inserido
+	 */
     public void insereCandidato (Candidato candidato) {
         this.candidatos.add(candidato);
 		if (candidato.ehEleito())
 			vagas++;
     }
 
-	public void calculaVagas () {
-		int vagas = 0;
-
-		for (Candidato c: this.candidatos) {
-			if (c.ehEleito())
-				vagas++;
-		}
-
-		this.vagas = vagas;
-	}
-
+    /**
+     * Ordena a lista de candidatos deste Partido
+     * com base na quantidade de votos deles e no 
+     * caso de empate, com base nos nomes deles
+     */
 	public void ordenaCandidatos () {
 		Collections.sort(this.candidatos, new Comparator<Candidato>() {
             @Override
@@ -108,6 +177,9 @@ public class Partido {
         });
 	}
 
+	/**
+	 * Retorna uma string de representação deste Partido
+	 */
 	@Override
 	public String toString () {
 		String fraseCandidatoEleito = " candidato eleito";
@@ -126,6 +198,14 @@ public class Partido {
 		return this.sigla + " - " + this.numPartido + ", " + this.votos.getVotosTotais() + fraseVoto + " (" + this.votos.getVotosNominais() + fraseNominal + " e " + this.votos.getVotosLegenda() + " de legenda), " + this.vagas + fraseCandidatoEleito;
 	}
 
+	/**
+	 * Retorna a quantidade de candidatos com idades
+	 * contidas em um intervalo de idade
+	 * @param limIdadeMin - menor idade do intervalo
+	 * @param limIdadeMax - maior idade do intervalo
+	 * @param data - data para calculo da idade
+	 * @return quantidade de candidatos no intervalo
+	 */
 	public int getCandidatosPorIdade (int limIdadeMin, int limIdadeMax, LocalDate data) {
 		int idadeCandidatos = 0;
 
