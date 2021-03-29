@@ -3,12 +3,19 @@ package Eleicoes;
 import java.io.FileInputStream;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeParseException;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Leitura {
-    private Partido criaPartido(Scanner linhaScannerP) {
+    /**
+     * Faz leitura e parsing da linha com informacoes do partido. Se alguma informação lida não eh valida
+     * o partido nao eh criado e o metodo retorna null.
+     * @param linhaScanner - Scanner da linha, delimitado por uma String (",")
+     * @return Partido construido ou null
+     */
+    private Partido criaPartido(Scanner linhaScanner) {
         int numPartido;
         int votosLegenda;
         String nomePartido = null;
@@ -16,19 +23,29 @@ public class Leitura {
 
         Partido partido = null;
         try {
-            numPartido = Integer.parseInt(linhaScannerP.next());
-            votosLegenda = Integer.parseInt(linhaScannerP.next());
-            nomePartido = linhaScannerP.next();
-            sigla = linhaScannerP.next();
+            numPartido = Integer.parseInt(linhaScanner.next());
+            votosLegenda = Integer.parseInt(linhaScanner.next());
+            nomePartido = linhaScanner.next();
+            sigla = linhaScanner.next();
         } catch (NoSuchElementException e) {
+            return null;
+        } catch (NumberFormatException e) {
             return null;
         }
 
-        partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
+        Verificador ver = new Verificador();
+        if (ver.ehValidoPartido(votosLegenda, numPartido))
+            partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
+
         return partido;
     }
 
-    public LinkedList<Partido> lePartido(Scanner s) {
+    /**
+     * Le todas as linhas do arquivo de partidos. Cria uma lista encadeada e adiciona os partidos a ela.
+     * @param s - Scanner do arquivo
+     * @return Lista encadeada de partidos
+     */
+    private LinkedList<Partido> lePartido(Scanner s) {
         LinkedList<Partido> partidos = new LinkedList<Partido>();
 
         while (s.hasNextLine()) {
@@ -36,7 +53,6 @@ public class Leitura {
 
             Scanner linhaScannerP = new Scanner(linha);
             linhaScannerP.useDelimiter(",");
-
 
             Partido partido = criaPartido(linhaScannerP);
 
@@ -49,8 +65,13 @@ public class Leitura {
         return partidos;
     }
 
-    public LinkedList<Partido> abrePartidos(String caminhoPartidos, FileInputStream arquivoP) {
-            Scanner s = new Scanner(arquivoP, "UTF-8");
+    /**
+     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada.
+     * @param arquivo - FileInputStream do arquivo de partidos
+     * @return Lista encadeada de partidos
+     */
+    public LinkedList<Partido> abrePartidos(FileInputStream arquivo) {
+            Scanner s = new Scanner(arquivo, "UTF-8");
             Leitura leituraPartido = new Leitura();
             s.nextLine();
             LinkedList<Partido> partidos = leituraPartido.lePartido(s);
@@ -59,7 +80,15 @@ public class Leitura {
         return partidos;
     }
 
-    public Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    /**
+     * Faz leitura e parsing da linha com informacoes do candidato. Se alguma informação lida não eh valida
+     * o candidato nao eh criado e o metodo retorna null.
+     * @param linhaScanner - Scanner da linha, delimitado por uma String (",")
+     * @param formatoData - DateTimeFormatter para fazer parsing do aniversario
+     * @param partidos - Partidos existentes
+     * @return Candidato com as informações preenchida ou null
+     */
+    private Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
     	int numero, votosNominais, numPartido;
         String situacao = null, nome = null;
         String nomeUrna = null, genero = null;
@@ -81,15 +110,20 @@ public class Leitura {
 	        numPartido = Integer.parseInt(linhaScanner.next());
         } catch(NumberFormatException e) {
             return null;
+        } catch(NoSuchElementException e) {
+            return null;
         }
         
-        // Verifica se todas as strings lidas estão preenchidas
-        if(situacao.isBlank() || nome.isBlank() || nomeUrna.isBlank() || 
-        		genero.isBlank() || aniversarioStr.isBlank() || destVoto.isBlank())
-        	return null;
+        // Verificador para verificar se todas as informacoes lidas sao validas
+        Verificador ver = new Verificador();
+        if (!ver.ehValidoCandidato(situacao, nome, nomeUrna, genero, aniversarioStr, destVoto, votosNominais, numero))
+            return null;
 
-        
-        aniversario = LocalDate.parse(aniversarioStr, formatoData);
+        try {
+            aniversario = LocalDate.parse(aniversarioStr, formatoData);
+        } catch (DateTimeParseException e) {
+            return null;
+        }
 
         for(Partido p: partidos) {
         	// Verifica se existe o partido com mesmo número do presente no candidato
@@ -103,11 +137,17 @@ public class Leitura {
             }
         }
 
-        
         return candidato;
     }
 
-    public LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    /**
+     * Le todas as linhas do arquivo de candidatos. Cria uma lista encadeada e adiciona os candidatos a ela.
+     * @param s - Scanner do arquivo
+     * @param formatoData - Formato de data para aniversarios
+     * @param partidos - Lista encadeada dos partidos
+     * @return Lista encadeada de candidatos
+     */
+    private LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
         LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
 
         while (s.hasNextLine()) {
@@ -129,7 +169,15 @@ public class Leitura {
         return candidatos;
     }
 
-    public LinkedList<Candidato> abreCandidato(String caminhoCandidatos, FileInputStream arquivo, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    /**
+     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada.
+     * @param arquivo - FileInputStream do arquivo de candidatos 
+     * @param formatoData - DateTimeFormatter para formatar data de aniversario
+     * @param partidos - Lista encadeada de partidos
+     * @return Lista encadeada de candidatos
+     */
+    public LinkedList<Candidato> abreCandidato(FileInputStream arquivo, DateTimeFormatter formatoData, 
+                                               LinkedList<Partido> partidos) {
             Scanner s = new Scanner(arquivo, "UTF-8");
             s.nextLine();
             LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
@@ -137,4 +185,5 @@ public class Leitura {
 
         return candidatos;
     }
+
 }
