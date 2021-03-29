@@ -12,6 +12,12 @@ public class Eleicao {
 	private LinkedList<Candidato> candidatos;
 	private LinkedList<Partido> partidos; 
 
+	/**
+	 * Constructo da classe Eleicao
+	 * @param dataEleicao - data em que esta eleição foi realizada
+	 * @param candidatos - lista de candidatos participando desta eleição
+	 * @param partidos - lista de partidos presentes nesta eleição
+	 */
     public Eleicao (LocalDate dataEleicao, LinkedList<Candidato> candidatos, LinkedList<Partido> partidos) {
         this.dataEleicao = dataEleicao;
         this.partidos = partidos;
@@ -25,26 +31,54 @@ public class Eleicao {
         this.ordenaPartidoCandidatos();
     }
 
+    /**
+     * Retorna a data em que a eleição foi realizada
+     * @return data da eleição
+     */
     public LocalDate getDataEleicao () {
         return dataEleicao;
     }
 
+    /**
+     * Retorna a quantidade de votos nominais 
+     * obtidas nesta eleição
+     * @return votos nominais
+     */
     public int getVotosNominais () {
         return votos.getVotosNominais();
     }
 
+    /**
+     * Retorna a quantidade de votos de legenda
+     * obtidos nesta eleição
+     * @return votos de legenda
+     */
     public int getVotosLegenda () {
         return votos.getVotosLegenda();
     }
 
+    /**
+     * Retorna a quantidade de votos totais
+     * obtidas nesta eleição
+     * @return votos totais
+     */
     public int getVotosTotais () {
         return votos.getVotosTotais();
     }
 
+    /**
+     * Retorna a quantidade de candidatos eleitos nesta eleição
+     * @return vagas desta eleição
+     */
     public int getVagas () {
         return vagas;
     }
     
+    /**
+     * Modifica a quantidade total de votos obtidos
+     * nesta eleição (soma dos votos totais de legenda
+     * e votos nominais obtidos pelos partidos)
+     */
     private void totalVotos() {
     	int votosNominais = 0, votosLegenda = 0;
     	
@@ -56,22 +90,43 @@ public class Eleicao {
         this.votos = new Votos(votosNominais, votosLegenda);
     }
 
+    /**
+     * Retorna a lista de candidatos desta Eleição
+     * @return lista de candidatos
+     */
     public LinkedList<Candidato> getCandidatos () {
         return this.candidatos;
     }
 
+    /**
+     * Retorna a lista de partido desta Eleição
+     * @return lista de partidos
+     */
     public LinkedList<Partido> getPartidos () {
         return this.partidos;
     }
 
+    /**
+     * Adiciona um candidato a lista de candidatos desta Eleição
+     * @param candidatoEleicao - candidato que será adicionado
+     */
     public void insereCandidato (Candidato candidatoEleicao) {
         this.candidatos.add(candidatoEleicao);
     }
 
+    /**
+     * Adiciona um partido a lista de partidos desta Eleição
+     * @param partidoEleicao - partido que será adicionado
+     */
     public void inserePartido (Partido partidoEleicao) {
         this.partidos.add(partidoEleicao);
     }
 
+    /**
+     * Calcula a quantidade de candidatos nesta eleição
+     * de genero feminino
+     * @return quantidade de F
+     */
     public int calculaQtdF() {
     	int F = 0;
     	
@@ -83,6 +138,10 @@ public class Eleicao {
     	return F;
     }
     
+    /**
+     * Calcula a quantidade de candidatos eleitos
+     * e modifica a quantidade de vagas desta Eleição
+     */
      private void calculaQtdVagas () {
         int qtdVagas = 0;
 
@@ -92,6 +151,10 @@ public class Eleicao {
         this.vagas = qtdVagas;
     }
  
+     /**
+      * Calcula e modifica a quantidade total de votos 
+      * nominais de cada partido desta eleição
+      */
     private void calculaVotosTotaisPartidos () {
         int votos;
 
@@ -106,6 +169,10 @@ public class Eleicao {
         }
     }
 
+    /**
+     * Ordena a lista de partidos desta Eleição com base na quantidade
+     * de vagas dos partidos, no caso de empate com base no total de votos
+     */
     public void ordenaPartidosVagas () {
         Collections.sort(this.partidos, new Comparator<Partido>() {
             @Override
@@ -123,6 +190,11 @@ public class Eleicao {
         
     }
     
+    /**
+     * Ordena a lista de partidos desta Eleição com base na quatidade de 
+     * votos do primeiro candidato de cada partido, e no caso de empate
+     * com base na quantidade de votos do ultimo candidato do partido
+     */
     public void ordenaPartidosVotos () {
         Collections.sort(this.partidos, new Comparator<Partido>() {
             @Override
@@ -147,6 +219,10 @@ public class Eleicao {
         });        
     }
 
+    /**
+     * Ordena a lista de candidatos desta Eleição com base na quantidade
+     * votos deles, e no caso de empate com base no nome (lexicograficamente)
+     */
     private void ordenaCandidatos () {
         Collections.sort(this.candidatos, new Comparator<Candidato>() {
             @Override
@@ -164,12 +240,23 @@ public class Eleicao {
         });
     }
 
+    /**
+     * Ordena a lista de candidatos de cada partido 
+     * da lista de partidos desta Eleição
+     */
     private void ordenaPartidoCandidatos () {
         for (Partido p : this.partidos) {
             p.ordenaCandidatos();
         }
     }
 
+    /**
+     * Retorna a quantidade de candidatos com idade em um intervalo definido
+     * @param limIdadeMin - menor idade do intervalo
+     * @param limIdadeMax - maior idade do intervalo
+     * @param data - data para calculo da idade
+     * @return quantidade de candidatos no intervalo
+     */
     public int getCandidatosPorIdade (int limIdadeMin, int limIdadeMax, LocalDate data) {
 		int idadeCandidatos = 0;
 
