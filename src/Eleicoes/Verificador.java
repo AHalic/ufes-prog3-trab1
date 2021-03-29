@@ -1,5 +1,12 @@
 package Eleicoes;
 
+/**
+ * Esta classe representa a verificacao dos valores lidos na leitura.
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 20/03/2021
+ */
 public class Verificador {
     // Classe Verificador para analisar se todas as informacoes estao dentro dos limites permitidos.
 

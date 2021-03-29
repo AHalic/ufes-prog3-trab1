@@ -2,11 +2,18 @@ package Eleicoes;
 
 import java.text.DecimalFormat;
 
+/**
+ * Esta classe representa os relatorios
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 20/03/2021
+ */
 public class Relatorio {
     private Eleicao eleicao;
 
     /**
-     * Construtor de Relatorio.
+     * Constructor de Relatorio.
      * @param eleicao - Eleicao com todas os candidatos e partidos.
      */
     public Relatorio (Eleicao eleicao) {

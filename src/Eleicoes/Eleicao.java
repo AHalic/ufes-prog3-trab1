@@ -5,6 +5,13 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
 
+/**
+ * Esta classe representa a Eleicao
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 27/03/2021
+ */
 public class Eleicao {
 	private LocalDate dataEleicao;
     private Votos votos;
@@ -13,7 +20,7 @@ public class Eleicao {
 	private LinkedList<Partido> partidos; 
 
 	/**
-	 * Constructo da classe Eleicao
+	 * Constructor da classe Eleicao
 	 * @param dataEleicao - data em que esta eleição foi realizada
 	 * @param candidatos - lista de candidatos participando desta eleição
 	 * @param partidos - lista de partidos presentes nesta eleição

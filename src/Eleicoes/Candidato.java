@@ -2,6 +2,13 @@ package Eleicoes;
 
 import java.time.LocalDate;
 
+/**
+ * Esta classe representa um Candidato
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 21/03/2021
+ */
 public class Candidato extends Pessoa{
 	private String situacao;
 	private String nomeUrna;
@@ -11,7 +18,7 @@ public class Candidato extends Pessoa{
 	Partido partido;
 
 	/** 
-	 * Construtor de Candidato
+	 * Constructor de Candidato
 	 * @param nome - Nome do candidato
 	 * @param genero - Genero do candidato (M ou F)
 	 * @param nascimento - Aniversario do candidato
@@ -35,7 +42,7 @@ public class Candidato extends Pessoa{
 	}
 	
 	/** 
-	 * Metodo getter de situacao.
+	 * Retorna a situacao do candidato.
 	 * @return Situacao (Eleito, Suplente ou Não Eleito)
 	*/
 	public String getSituacao() {
@@ -43,7 +50,7 @@ public class Candidato extends Pessoa{
 	}
 
 	/**
-	 * Metodo getter de nome de urna.
+	 * Retorna o nome de urna do candidato.
 	 * @return Nome de urna
 	 */
 	public String getNomeUrna() {
@@ -51,7 +58,7 @@ public class Candidato extends Pessoa{
 	}
 
 	/**
-	 * Metodo getter de votos totais.
+	 * Retorna a quantidade de votos que o candidato obteve
 	 * @return Votos totais
 	 */
 	public int getVotosTotal() {
@@ -59,7 +66,7 @@ public class Candidato extends Pessoa{
 	}
 		
 	/**
-	 * Metodo getter de numero (id) do candidato
+	 * Retorna o numero (id) do candidato
 	 * @return Numero do candidato
 	 */
 	public int getNumero() {
@@ -67,7 +74,7 @@ public class Candidato extends Pessoa{
 	}
 
 	/**
-	 * Metodo getter de destino de voto do candidato
+	 * Retorna a situacao do destino dos votos do candidato
 	 * @return String do destino do voto
 	 */
 	public String getDestVoto() {
