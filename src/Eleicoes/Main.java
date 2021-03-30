@@ -6,14 +6,17 @@ import java.util.*;
 
 public class Main {
 	public static void main(String[] args) {
-		String caminhoCandidatos = new String();
-		caminhoCandidatos = args[0];
+        String caminhoCandidatos, caminhoPartidos, dataEleicaoStr;
 
-		String caminhoPartidos = new String();
-		caminhoPartidos = args[1];
-
-		String dataEleicaoStr = args[2];
-	
+		try {
+            caminhoCandidatos = args[0];
+            caminhoPartidos = args[1];
+            dataEleicaoStr = args[2];
+        } catch (IndexOutOfBoundsException e) {
+            System.out.println("Valores de entrada não informados por completo.");
+            return;
+        }
+        
         // Data da eleicao
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
@@ -34,7 +37,6 @@ public class Main {
             System.out.println("Arquivo não foi encontrado");
             return;
         }
-        
         // Conta os votos nominais de cada partido
         for(Partido p : partidos) {
         	p.setVotosTotais();
