@@ -8,6 +8,13 @@ import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+/**
+ * Esta classe representa a leitura
+ * 
+ * @author Beatriz Maia & Sophie Dilhon
+ * @version 1.0
+ * @since 20/03/2021
+ */
 public class Leitura {
     /**
      * Faz leitura e parsing da linha com informacoes do partido. Se alguma informação lida não eh valida
