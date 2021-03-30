@@ -128,6 +128,11 @@ public class Partido {
 		return this.candidatos.getFirst().getVotosTotal();
 	}
 	
+	/**
+	 * Retorna o numero partidario do primeiro
+	 * Candidato da lista de candidatos dete Partido
+	 * @return numero partidario do primeiro candidato
+	 */
 	public int getNumFirstCandidato() {
 		return this.candidatos.getFirst().getNumero();
 	}
