@@ -123,7 +123,12 @@ public class Verificador {
      * @param numero - Numero do partido
      * @return
      */
-    public boolean ehValidoPartido (int votosTotal, int numero) {
+    public boolean ehValidoPartido (int votosTotal, int numero, String nomePartido, String sigla) {
+        // Verifica se todas as Strings sao preenchidas
+        if (nomePartido.isEmpty() || sigla.isEmpty())
+            return false;
+
+        // Verifica se todos os inteiros sao positivos
         if (ehMinZero(votosTotal) && ehMinZero(numero))
             return true;
         return false;
