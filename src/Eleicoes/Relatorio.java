@@ -1,6 +1,7 @@
 package Eleicoes;
 
-import java.text.DecimalFormat;
+import java.text.NumberFormat;
+import java.util.Locale;
 
 /**
  * Esta classe representa os relatorios
@@ -30,13 +31,11 @@ public class Relatorio {
     static private String porcentagem (int valor, int total) {
         double porcentagem = (double) valor * 100 / total;
 
-        DecimalFormat formatoDecimal = new DecimalFormat("#.00");
-        String porcentagemStr = formatoDecimal.format(porcentagem);     
-        
-        porcentagemStr = porcentagemStr.replace('.', ',');
-        porcentagemStr = porcentagemStr + "%";
+		Locale brLocale = Locale.forLanguageTag("pt-BR");
+		NumberFormat nfBr = NumberFormat.getNumberInstance(brLocale);
+		nfBr.setMaximumFractionDigits(2);
 
-        return porcentagemStr;
+		return nfBr.format(porcentagem) + "%";
     }
 
     /**
@@ -203,14 +202,16 @@ public class Relatorio {
         int qtdMaiorIgual60 = this.eleicao.getCandidatosPorIdade(60, 1000, eleicao.getDataEleicao());
         int qtdCandidatos = this.eleicao.getVagas();
 
-        System.out.println("Eleitos, por faixa etária (na data da eleição):");
-        System.out.printf("Idade < 30      : %d (%s)\n", qtdMenos30, porcentagem(qtdMenos30, qtdCandidatos));
-        System.out.printf("30 <= Idade < 40: %d (%s)\n", qtdMenos40, porcentagem(qtdMenos40, qtdCandidatos));
-        System.out.printf("40 <= Idade < 50: %d (%s)\n", qtdMenos50, porcentagem(qtdMenos50, qtdCandidatos));
-        System.out.printf("50 <= Idade < 60: %d (%s)\n", qtdMenos60, porcentagem(qtdMenos60, qtdCandidatos));
-        System.out.printf("60 <= Idade     : %d (%s)\n", qtdMaiorIgual60, porcentagem(qtdMaiorIgual60, qtdCandidatos));
+        if (qtdCandidatos > 0) {
+            System.out.println("Eleitos, por faixa etária (na data da eleição):");
+            System.out.printf("Idade < 30      : %d (%s)\n", qtdMenos30, porcentagem(qtdMenos30, qtdCandidatos));
+            System.out.printf("30 <= Idade < 40: %d (%s)\n", qtdMenos40, porcentagem(qtdMenos40, qtdCandidatos));
+            System.out.printf("40 <= Idade < 50: %d (%s)\n", qtdMenos50, porcentagem(qtdMenos50, qtdCandidatos));
+            System.out.printf("50 <= Idade < 60: %d (%s)\n", qtdMenos60, porcentagem(qtdMenos60, qtdCandidatos));
+            System.out.printf("60 <= Idade     : %d (%s)\n", qtdMaiorIgual60, porcentagem(qtdMaiorIgual60, qtdCandidatos));
 
-        System.out.println();
+            System.out.println();
+        }
     }
 
     /**
@@ -223,11 +224,13 @@ public class Relatorio {
     	int F = eleicao.calculaQtdF();
     	int M = vagas - F;
     	
-    	System.out.println("Eleitos, por sexo:");
-    	System.out.printf("Feminino:  %d (%s)\n", F, porcentagem(F, vagas));
-    	System.out.printf("Masculino: %d (%s)\n", M, porcentagem(M, vagas));
+        if (vagas > 0) {
+            System.out.println("Eleitos, por sexo:");
+            System.out.printf("Feminino:  %d (%s)\n", F, porcentagem(F, vagas));
+            System.out.printf("Masculino: %d (%s)\n", M, porcentagem(M, vagas));
 
-        System.out.println();
+            System.out.println();
+        }
     }
     
     /**
@@ -242,10 +245,12 @@ public class Relatorio {
     	nominal = eleicao.getVotosNominais();
     	legenda = eleicao.getVotosLegenda();
     	
-    	System.out.println("Total de votos válidos:    " + total);
-    	System.out.printf("Total de votos nominais:   %d (%s)\n",  nominal, porcentagem(nominal, total));
-    	System.out.printf("Total de votos de Legenda: %d (%s)\n",  legenda, porcentagem(legenda, total));
-        
-        System.out.println();
+        if (total > 0) {
+            System.out.println("Total de votos válidos:    " + total);
+            System.out.printf("Total de votos nominais:   %d (%s)\n",  nominal, porcentagem(nominal, total));
+            System.out.printf("Total de votos de Legenda: %d (%s)\n",  legenda, porcentagem(legenda, total));
+            
+            System.out.println();
+        }
     }
 }
