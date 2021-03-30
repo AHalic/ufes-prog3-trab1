@@ -79,7 +79,9 @@ public class Leitura {
     }
 
     /**
-     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada.
+     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada. Linha do arquivo
+     * com informação incompleta ou inválida não são utilizadas para criação do partido e consequentemente
+     * não adicionados a lista de partidos.
      * @param arquivo - FileInputStream do arquivo de partidos
      * @return Lista encadeada de partidos
      */
@@ -187,7 +189,9 @@ public class Leitura {
     }
 
     /**
-     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada.
+     * Abre o arquivo no Scanner e adiciona todos os partidos a uma lista encadeada. Linha do arquivo com 
+     * informações incompletas ou inválidas não são criados candidatos referente a informação daquela 
+     * linha e não são adicionados a lista.
      * @param arquivo - FileInputStream do arquivo de candidatos 
      * @param formatoData - DateTimeFormatter para formatar data de aniversario
      * @param partidos - Lista encadeada de partidos
