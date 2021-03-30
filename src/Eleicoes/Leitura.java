@@ -22,7 +22,7 @@ public class Leitura {
      * @param linhaScanner - Scanner da linha, delimitado por uma String (",")
      * @return Partido construido ou null
      */
-    static private Partido criaPartido(Scanner linhaScanner) {
+    static private Partido criaPartido(Scanner linhaScanner, int counter) {
         int numPartido;
         int votosLegenda;
         String nomePartido = null;
@@ -43,6 +43,10 @@ public class Leitura {
         Verificador ver = new Verificador();
         if (ver.ehValidoPartido(votosLegenda, numPartido, nomePartido, sigla))
             partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
+        else {
+            System.out.print("Partido não adicionado, alguma informação inválida.\n");
+            System.out.println("Verifique o arquivo de partidos na linha " + counter + ".\n");
+        }
 
         return partido;
     }
@@ -55,18 +59,20 @@ public class Leitura {
     static private LinkedList<Partido> lePartido(Scanner s) {
         LinkedList<Partido> partidos = new LinkedList<Partido>();
 
+        int counter = 2;
         while (s.hasNextLine()) {
             String linha = s.nextLine();
 
             Scanner linhaScannerP = new Scanner(linha);
             linhaScannerP.useDelimiter(",");
 
-            Partido partido = criaPartido(linhaScannerP);
+            Partido partido = criaPartido(linhaScannerP, counter);
 
             if (partido != null)
                 partidos.add(partido);
 
             linhaScannerP.close();
+            counter++;
         }
 
         return partidos;
@@ -88,13 +94,13 @@ public class Leitura {
 
     /**
      * Faz leitura e parsing da linha com informacoes do candidato. Se alguma informação lida não eh valida
-     * o candidato nao eh criado e o metodo retorna null.
+     * o candidato nao eh criado e o metodo retorna null. 
      * @param linhaScanner - Scanner da linha, delimitado por uma String (",")
      * @param formatoData - DateTimeFormatter para fazer parsing do aniversario
      * @param partidos - Partidos existentes
      * @return Candidato com as informações preenchida ou null
      */
-    static private Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    static private Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos, int counter) {
     	int numero, votosNominais, numPartido;
         String situacao = null, nome = null;
         String nomeUrna = null, genero = null;
@@ -122,8 +128,11 @@ public class Leitura {
         
         // Verificador para verificar se todas as informacoes lidas sao validas
         Verificador ver = new Verificador();
-        if (!ver.ehValidoCandidato(situacao, nome, nomeUrna, genero, aniversarioStr, destVoto, votosNominais, numero))
+        if (!ver.ehValidoCandidato(situacao, nome, nomeUrna, genero, aniversarioStr, destVoto, votosNominais, numero)) {
+            System.out.println("Candidato não adicionado, alguma informação inválida.");
+            System.out.println("Verifique o arquivo de candidatos na linha: " + counter + ".\n");
             return null;
+        }
 
         try {
             aniversario = LocalDate.parse(aniversarioStr, formatoData);
@@ -156,13 +165,14 @@ public class Leitura {
     static private LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
         LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
 
+        int counter = 2;
         while (s.hasNextLine()) {
             String linha = s.nextLine();
 
             Scanner linhaScanner = new Scanner(linha);
             linhaScanner.useDelimiter(",");
 
-            Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos);
+            Candidato candidato = criaCandidato(linhaScanner, formatoData, partidos, counter);
             
             if(candidato != null)
             	if(candidato.ehValido())        
@@ -170,6 +180,7 @@ public class Leitura {
             		candidatos.add(candidato);
             
             linhaScanner.close();
+            counter++;
         }
 
         return candidatos;

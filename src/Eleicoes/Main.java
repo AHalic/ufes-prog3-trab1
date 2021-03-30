@@ -14,6 +14,7 @@ public class Main {
             dataEleicaoStr = args[2];
         } catch (IndexOutOfBoundsException e) {
             System.out.println("Valores de entrada não informados por completo.");
+            System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
             return;
         }
         
@@ -33,8 +34,13 @@ public class Main {
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
             partidos = leitura.abrePartidos(arquivoP);
             candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
+        } catch (FileNotFoundException e) {
+            System.out.println("Arquivo não encontrado.");
+            System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
+            return;
         } catch (IOException e) {
             System.out.println("Problema relacionado a IO.");
+            System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
             return;
         }
 
