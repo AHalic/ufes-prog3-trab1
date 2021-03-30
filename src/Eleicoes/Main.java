@@ -2,6 +2,7 @@ package Eleicoes;
 import java.io.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeParseException;
 import java.util.*;
 
 public class Main {
@@ -20,7 +21,15 @@ public class Main {
         
         // Data da eleicao
 		DateTimeFormatter formatoData = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        LocalDate dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
+        LocalDate dataEleicao = null;
+
+        try {
+            dataEleicao =  LocalDate.parse(dataEleicaoStr, formatoData);
+        } catch (DateTimeParseException e) {
+            System.out.println("Formato de data incorreto");
+            System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
+            return;
+        }
 		
         // Listas de partido e candidatos
         LinkedList<Partido> partidos;
