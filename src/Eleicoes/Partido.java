@@ -124,8 +124,12 @@ public class Partido {
 	 * pelo primeiro Candidato da lista deste Partido
 	 * @return votos ao primeiro Candidato
 	 */
-	public int getFirstCandidato() {
+	public int getVotosFirstCandidato() {
 		return this.candidatos.getFirst().getVotosTotal();
+	}
+	
+	public int getNumFirstCandidato() {
+		return this.candidatos.getFirst().getNumero();
 	}
 	
 	/**
@@ -157,11 +161,10 @@ public class Partido {
     }
 
     /**
-     * Ordena a lista de candidatos deste Partido
-     * com base na quantidade de votos deles e no 
-     * caso de empate, com base nos nomes deles (lexicograficamente)
+     * Ordena a lista de candidatos deste Partido com base na quantidade
+     * votos deles, e no caso de empate com base na idade deles
      */
-	public void ordenaCandidatos () {
+	public void ordenaCandidatos (LocalDate dataEleicao) {
 		Collections.sort(this.candidatos, new Comparator<Candidato>() {
             @Override
             public int compare(Candidato c1, Candidato c2) {
@@ -169,8 +172,9 @@ public class Partido {
                 int votos2 = c2.getVotosTotal();
                 if (votos1 > votos2)
                     return -1;
-                else if(votos1 == votos2) {                	
-                	return c1.comparaNome(c2); 
+                else if(votos1 == votos2) {
+                	if (c1.getIdade(dataEleicao) > c2.getIdade(dataEleicao))
+                		return -1;
                 }
                 return 1;
             }

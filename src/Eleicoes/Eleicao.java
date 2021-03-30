@@ -33,7 +33,7 @@ public class Eleicao {
         this.totalVotos();
         this.calculaQtdVagas();
         this.calculaVotosTotaisPartidos();
-        this.ordenaPartidosVagas();
+        this.ordenaPartidos();
         this.ordenaCandidatos();
         this.ordenaPartidoCandidatos();
     }
@@ -178,59 +178,68 @@ public class Eleicao {
 
     /**
      * Ordena a lista de partidos desta Eleição com base na quantidade
-     * de vagas dos partidos, no caso de empate com base no total de votos
+     * total de votos dos partidos, no caso de empate com base no numero deles
      */
-    public void ordenaPartidosVagas () {
-        Collections.sort(this.partidos, new Comparator<Partido>() {
-            @Override
-            public int compare(Partido p1, Partido p2) {
-                int vagas1 = p1.getVagas();
-                int vagas2 = p2.getVagas();
-                if (vagas1 > vagas2)
-                    return -1;
-                else if(vagas1 == vagas2)
-                	if (p1.getVotosTotal() > p2.getVotosTotal())
-                        return -1;
-               return 1;
-            }
-        });
-        
+    public void ordenaPartidos () {
+    	// Verificando se a lista de partidos não é vazia
+    	if(!this.partidos.isEmpty()) {
+    		
+	        Collections.sort(this.partidos, new Comparator<Partido>() {
+	            @Override
+	            public int compare(Partido p1, Partido p2) {
+	                int votos1 = p1.getVotosTotal();
+	                int votos2 = p2.getVotosTotal();
+	                if (votos1 > votos2)
+	                    return -1;
+	                else if(votos1 == votos2)
+	                	if (p1.getNumPartido() < p2.getNumPartido())
+	                        return -1;
+	               return 1;
+	            }
+	        });
+    	}
     }
     
     /**
      * Ordena a lista de partidos desta Eleição com base na quatidade de 
      * votos do primeiro candidato de cada partido, e no caso de empate
-     * com base na quantidade de votos do ultimo candidato do partido
+     * com base no numero do candidato
      */
-    public void ordenaPartidosVotos () {
-        Collections.sort(this.partidos, new Comparator<Partido>() {
-            @Override
-            public int compare(Partido p1, Partido p2) {
-            	
-
-            	if(!p1.getCandidatos().isEmpty() && !p2.getCandidatos().isEmpty()) {
-
-	                int votos1 = p1.getFirstCandidato();
-	                int votos2 = p2.getFirstCandidato();
-	                
-	                if (votos1 > votos2)
-	                    return -1;
-	                else if (votos1 == votos2) {
-	                	if(p1.getLastCandidato() > p2.getLastCandidato())
-	                		return -1;
-	                }
-                	return 1;        
-            	}
-            	return 1;
-            }
-        });        
+    public void ordenaPartidosVotosCandidatos () {
+    	
+    	// Verificando se a lista de partidos não é vazia
+    	if(!this.partidos.isEmpty()) {
+    		
+	        Collections.sort(this.partidos, new Comparator<Partido>() {
+	            @Override
+	            public int compare(Partido p1, Partido p2) {
+	            	
+	            	// Verificando se as listas de candidatos dos partidos não são vazias
+	            	if(!p1.getCandidatos().isEmpty() && !p2.getCandidatos().isEmpty()) {
+	
+		                int votos1 = p1.getVotosFirstCandidato();
+		                int votos2 = p2.getVotosFirstCandidato();
+		                
+		                if (votos1 > votos2)
+		                    return -1;
+		                else if (votos1 == votos2) {
+		                	if(p1.getNumFirstCandidato() < p2.getNumFirstCandidato())
+		                		return -1;
+		                }
+	                	return 1;        
+	            	}
+	            	return 1;
+	            }
+	        });        
+    	}
     }
 
     /**
      * Ordena a lista de candidatos desta Eleição com base na quantidade
-     * votos deles, e no caso de empate com base no nome (lexicograficamente)
+     * votos deles, e no caso de empate com base na idade deles
      */
     private void ordenaCandidatos () {
+
         Collections.sort(this.candidatos, new Comparator<Candidato>() {
             @Override
             public int compare(Candidato c1, Candidato c2) {
@@ -240,7 +249,8 @@ public class Eleicao {
                 if (votos1 > votos2)
                     return -1;
                 else if(votos1 == votos2) {
-                	return c1.comparaNome(c2);
+                	if (c1.getIdade(dataEleicao) > c2.getIdade(dataEleicao))
+                		return -1;
                 }
                 return 1;
             }
@@ -253,7 +263,7 @@ public class Eleicao {
      */
     private void ordenaPartidoCandidatos () {
         for (Partido p : this.partidos) {
-            p.ordenaCandidatos();
+            p.ordenaCandidatos(this.dataEleicao);
         }
     }
 

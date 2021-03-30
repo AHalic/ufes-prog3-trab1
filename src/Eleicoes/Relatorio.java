@@ -163,7 +163,7 @@ public class Relatorio {
     	int cont = 1;
         System.out.println("Primeiro e último colocados de cada partido:");
         
-        eleicao.ordenaPartidosVotos();
+        eleicao.ordenaPartidosVotosCandidatos();
         
         for (Partido p: eleicao.getPartidos()) {
             if (p.getVotosTotal() > 0) {
