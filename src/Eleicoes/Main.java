@@ -33,10 +33,11 @@ public class Main {
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
             partidos = leitura.abrePartidos(arquivoP);
             candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
-        } catch (FileNotFoundException e) {
-            System.out.println("Arquivo não foi encontrado");
+        } catch (IOException e) {
+            System.out.println("Problema relacionado a IO.");
             return;
         }
+
         // Conta os votos nominais de cada partido
         for(Partido p : partidos) {
         	p.setVotosTotais();
