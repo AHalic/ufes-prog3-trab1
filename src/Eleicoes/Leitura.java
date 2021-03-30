@@ -22,7 +22,7 @@ public class Leitura {
      * @param linhaScanner - Scanner da linha, delimitado por uma String (",")
      * @return Partido construido ou null
      */
-    private Partido criaPartido(Scanner linhaScanner) {
+    static private Partido criaPartido(Scanner linhaScanner) {
         int numPartido;
         int votosLegenda;
         String nomePartido = null;
@@ -41,7 +41,7 @@ public class Leitura {
         }
 
         Verificador ver = new Verificador();
-        if (ver.ehValidoPartido(votosLegenda, numPartido))
+        if (ver.ehValidoPartido(votosLegenda, numPartido, nomePartido, sigla))
             partido = new Partido(nomePartido, sigla, votosLegenda, numPartido);
 
         return partido;
@@ -52,7 +52,7 @@ public class Leitura {
      * @param s - Scanner do arquivo
      * @return Lista encadeada de partidos
      */
-    private LinkedList<Partido> lePartido(Scanner s) {
+    static private LinkedList<Partido> lePartido(Scanner s) {
         LinkedList<Partido> partidos = new LinkedList<Partido>();
 
         while (s.hasNextLine()) {
@@ -79,9 +79,8 @@ public class Leitura {
      */
     public LinkedList<Partido> abrePartidos(FileInputStream arquivo) {
             Scanner s = new Scanner(arquivo, "UTF-8");
-            Leitura leituraPartido = new Leitura();
             s.nextLine();
-            LinkedList<Partido> partidos = leituraPartido.lePartido(s);
+            LinkedList<Partido> partidos = lePartido(s);
             s.close();
        
         return partidos;
@@ -95,7 +94,7 @@ public class Leitura {
      * @param partidos - Partidos existentes
      * @return Candidato com as informações preenchida ou null
      */
-    private Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    static private Candidato criaCandidato(Scanner linhaScanner, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
     	int numero, votosNominais, numPartido;
         String situacao = null, nome = null;
         String nomeUrna = null, genero = null;
@@ -154,7 +153,7 @@ public class Leitura {
      * @param partidos - Lista encadeada dos partidos
      * @return Lista encadeada de candidatos
      */
-    private LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
+    static private LinkedList<Candidato> leCandidato(Scanner s, DateTimeFormatter formatoData, LinkedList<Partido> partidos) {
         LinkedList<Candidato> candidatos = new LinkedList<Candidato>();
 
         while (s.hasNextLine()) {
