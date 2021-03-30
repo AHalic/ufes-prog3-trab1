@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
  * 
  * @author Beatriz Maia & Sophie Dilhon
  * @version 1.0
- * @since 20/03/2021
+ * @since 26/03/2021
  */
 public class Relatorio {
     private Eleicao eleicao;

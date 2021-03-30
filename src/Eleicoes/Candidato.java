@@ -7,7 +7,7 @@ import java.time.LocalDate;
  * 
  * @author Beatriz Maia & Sophie Dilhon
  * @version 1.0
- * @since 21/03/2021
+ * @since 20/03/2021
  */
 public class Candidato extends Pessoa{
 	private String situacao;

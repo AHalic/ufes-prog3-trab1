@@ -13,7 +13,7 @@ import java.util.Scanner;
  * 
  * @author Beatriz Maia & Sophie Dilhon
  * @version 1.0
- * @since 20/03/2021
+ * @since 25/03/2021
  */
 public class Leitura {
     /**
