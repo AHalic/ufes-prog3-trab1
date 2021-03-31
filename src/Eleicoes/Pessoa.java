@@ -53,7 +53,7 @@ public class Pessoa {
 	
 	/**
 	 * Verifica se o genero desta Pessoa é F 
-	 * @return true se sim, false se não
+	 * @return {@code true} se sim, {@code false} se não
 	 */
 	public boolean ehGeneroF () {
 		if (this.genero.equals("F"))
