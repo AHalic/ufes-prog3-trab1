@@ -57,11 +57,6 @@ public class Main {
             return;
         }
             
-        // Conta os votos nominais de cada partido
-        for(Partido p : partidos) {
-        	p.setVotosTotais();
-        }
-      
         // Cria a eleição
 		Eleicao eleicao = new Eleicao(dataEleicao, candidatos, partidos);
 
