@@ -9,6 +9,7 @@ public class Main {
 	public static void main(String[] args) {
         String caminhoCandidatos, caminhoPartidos, dataEleicaoStr;
 
+        // Tenta acessar os args
 		try {
             caminhoCandidatos = args[0];
             caminhoPartidos = args[1];
@@ -42,6 +43,7 @@ public class Main {
             FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
             partidos = leitura.abrePartidos(arquivoP);
+            // Se partidos for null, nao pode ler candidatos
             if (partidos!= null)
                 candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
         } catch (FileNotFoundException e) {

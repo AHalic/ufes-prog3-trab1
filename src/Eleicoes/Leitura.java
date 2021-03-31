@@ -214,7 +214,7 @@ public class Leitura {
                 s.close();
                 return null;
             }
-            System.out.println(ver.ehValidoArquivoCandidato(linhaStr));           
+
             LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
             s.close();
 
