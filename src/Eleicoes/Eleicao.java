@@ -30,9 +30,9 @@ public class Eleicao {
         this.partidos = partidos;
         this.candidatos = candidatos;
         
+        this.calculaVotosTotaisPartidos();
         this.totalVotos();
         this.calculaQtdVagas();
-        this.calculaVotosTotaisPartidos();
         this.ordenaPartidos();
         this.ordenaCandidatos();
         this.ordenaPartidoCandidatos();
@@ -240,21 +240,23 @@ public class Eleicao {
      */
     private void ordenaCandidatos () {
 
-        Collections.sort(this.candidatos, new Comparator<Candidato>() {
-            @Override
-            public int compare(Candidato c1, Candidato c2) {
-                int votos1 = c1.getVotosTotal();
-                int votos2 = c2.getVotosTotal();
-               
-                if (votos1 > votos2)
-                    return -1;
-                else if(votos1 == votos2) {
-                	if (c1.getIdade(dataEleicao) > c2.getIdade(dataEleicao))
-                		return -1;
-                }
-                return 1;
-            }
-        });
+    	if(!this.candidatos.isEmpty()) {
+	        Collections.sort(this.candidatos, new Comparator<Candidato>() {
+	            @Override
+	            public int compare(Candidato c1, Candidato c2) {
+	                int votos1 = c1.getVotosTotal();
+	                int votos2 = c2.getVotosTotal();
+	               
+	                if (votos1 > votos2)
+	                    return -1;
+	                else if(votos1 == votos2) {
+	                	if (c1.getIdade(dataEleicao) > c2.getIdade(dataEleicao))
+	                		return -1;
+	                }
+	                return 1;
+	            }
+	        });
+    	}
     }
 
     /**

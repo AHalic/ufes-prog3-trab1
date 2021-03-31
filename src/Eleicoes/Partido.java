@@ -138,15 +138,6 @@ public class Partido {
 	}
 	
 	/**
-	 * Retorna a quantidade de votos recebidos
-	 * pelo último Candidato da lista deste Partido
-	 * @return votos ao ultimo Candidato
-	 */
-	public int getLastCandidato() {
-		return this.candidatos.getLast().getVotosTotal();
-	}
-	
-	/**
 	 * Retorna a lista de candidatos deste Partido
 	 * @return lista de Candidato
 	 */
