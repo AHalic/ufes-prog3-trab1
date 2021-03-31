@@ -32,8 +32,8 @@ public class Main {
         }
 		
         // Listas de partido e candidatos
-        LinkedList<Partido> partidos;
-        LinkedList<Candidato> candidatos;
+        LinkedList<Partido> partidos = null;
+        LinkedList<Candidato> candidatos = null;
                
         // Tenta abrir os arquivos, se conseguir faz a leitura
         Leitura leitura = new Leitura();
@@ -42,17 +42,19 @@ public class Main {
             FileInputStream arquivoP = new FileInputStream(caminhoPartidos);
             FileInputStream arquivoC = new FileInputStream(caminhoCandidatos);
             partidos = leitura.abrePartidos(arquivoP);
-            candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
+            if (partidos!= null)
+                candidatos = leitura.abreCandidato(arquivoC, formatoData, partidos);
         } catch (FileNotFoundException e) {
             System.out.println("Arquivo não encontrado.");
             System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
             return;
-        } catch (IOException e) {
-            System.out.println("Problema relacionado a IO.");
-            System.out.println("Mensagem do erro: " + e.getLocalizedMessage() + ".");
+        } 
+
+        if (candidatos == null || partidos == null) {
+            System.out.println("Informações não possibilitadas de inicializar.");
             return;
         }
-
+            
         // Conta os votos nominais de cada partido
         for(Partido p : partidos) {
         	p.setVotosTotais();

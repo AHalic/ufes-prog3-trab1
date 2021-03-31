@@ -1,5 +1,8 @@
 package Eleicoes;
 
+import java.util.NoSuchElementException;
+import java.util.Scanner;
+
 /**
  * Esta classe representa a verificacao dos valores lidos na leitura.
  * 
@@ -132,5 +135,80 @@ public class Verificador {
         if (ehMinZero(votosTotal) && ehMinZero(numero))
             return true;
         return false;
+    }
+
+    /**
+     * Verifica se o cabecalho do arquivo de candidato esta correto
+     * @param linhaStr string da linha referente ao cabecalho
+     * @return true se eh igual ao cabecalho, false se estiver diferente
+     */
+    public boolean ehValidoArquivoCandidato (String linhaStr) {
+        /*
+         Ver se o cabeçalho do arquivo esta nessa ordem:
+         numero,votos_nominais,situacao,nome,nome_urna,sexo,data_nasc,destino_voto,numero_partido
+        */
+        String numero, votos, situacao, nome, nome_urna, sexo, data_nasc, destino_voto, num_partido;
+
+        try {
+            Scanner linha = new Scanner(linhaStr);
+            linha.useDelimiter(",");
+
+            numero = linha.next();                
+            votos = linha.next();
+            situacao = linha.next();
+            nome = linha.next();
+            nome_urna = linha.next();
+            sexo = linha.next();
+            data_nasc = linha.next();
+            destino_voto = linha.next();
+            num_partido = linha.next();
+
+            linha.close();                
+        } catch (NoSuchElementException e) {
+            System.out.println("Arquivo incorreto");
+            return false;
+        } 
+
+        if(!votos.equals("votos_nominais") || !numero.equals("numero") 
+            || !situacao.equals("situacao") || !nome.equals("nome") 
+            || !nome_urna.equals("nome_urna") || !sexo.equals("sexo")
+            || !data_nasc.equals("data_nasc") || !destino_voto.equals("destino_voto")
+            || !num_partido.equals("numero_partido"))
+            return false;
+        return true;
+    }
+
+    /**
+     * Verifica se o cabecalho do arquivo de partidos esta correto
+     * @param linhaStr string da linha referente ao cabecalho
+     * @return true se eh igual ao cabecalho, false se estiver diferente
+     */
+    public boolean ehValidoArquivoPartido (String linhaStr) {
+        /*
+         Ver se o cabeçalho do arquivo esta nessa ordem:
+        numero_partido,votos_legenda,nome_partido,sigla_partido
+        */
+        String numero, votos, nome, sigla;
+
+        try {
+            Scanner linha = new Scanner(linhaStr);
+            linha.useDelimiter(",");
+
+            numero = linha.next();                
+            votos = linha.next();
+            nome = linha.next();
+            sigla = linha.next();
+
+            linha.close();
+        } catch (NoSuchElementException e) {
+            System.out.println("Arquivo incorreto");
+            return false;
+        } 
+
+        if(!votos.equals("votos_legenda") || !nome.equals("nome_partido") 
+           || !numero.equals("numero_partido") || !sigla.equals("sigla_partido"))
+            return false;
+
+        return true;
     }
 }
