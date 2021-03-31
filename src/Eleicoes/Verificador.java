@@ -137,6 +137,11 @@ public class Verificador {
         return false;
     }
 
+    /**
+     * Verifica se o cabecalho do arquivo de candidato esta correto
+     * @param linhaStr string da linha referente ao cabecalho
+     * @return true se eh igual ao cabecalho, false se estiver diferente
+     */
     public boolean ehValidoArquivoCandidato (String linhaStr) {
         /*
          Ver se o cabeçalho do arquivo esta nessa ordem:
@@ -157,7 +162,7 @@ public class Verificador {
             data_nasc = linha.next();
             destino_voto = linha.next();
             num_partido = linha.next();
-            
+
             linha.close();                
         } catch (NoSuchElementException e) {
             System.out.println("Arquivo incorreto");
@@ -176,6 +181,11 @@ public class Verificador {
         return true;
     }
 
+    /**
+     * Verifica se o cabecalho do arquivo de partidos esta correto
+     * @param linhaStr string da linha referente ao cabecalho
+     * @return true se eh igual ao cabecalho, false se estiver diferente
+     */
     public boolean ehValidoArquivoPartido (String linhaStr) {
         /*
          Ver se o cabeçalho do arquivo esta nessa ordem:
