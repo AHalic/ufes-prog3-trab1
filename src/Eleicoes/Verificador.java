@@ -167,10 +167,7 @@ public class Verificador {
         } catch (NoSuchElementException e) {
             System.out.println("Arquivo incorreto");
             return false;
-        } catch (NullPointerException e) {
-            System.out.println("Arquivo incorreto");
-            return false;
-        }
+        } 
 
         if(!votos.equals("votos_nominais") || !numero.equals("numero") 
             || !situacao.equals("situacao") || !nome.equals("nome") 
@@ -206,10 +203,7 @@ public class Verificador {
         } catch (NoSuchElementException e) {
             System.out.println("Arquivo incorreto");
             return false;
-        } catch (NullPointerException e) {
-            System.out.println("Arquivo incorreto");
-            return false;
-        }
+        } 
 
         if(!votos.equals("votos_legenda") || !nome.equals("nome_partido") 
            || !numero.equals("numero_partido") || !sigla.equals("sigla_partido"))
