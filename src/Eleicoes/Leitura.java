@@ -87,7 +87,14 @@ public class Leitura {
      */
     public LinkedList<Partido> abrePartidos(FileInputStream arquivo) {
             Scanner s = new Scanner(arquivo, "UTF-8");
-            s.nextLine();
+            String linhaStr = s.nextLine();
+
+            Verificador ver = new Verificador();
+            if (!ver.ehValidoArquivoPartido(linhaStr)) {
+                s.close();
+                return null;
+            }
+
             LinkedList<Partido> partidos = lePartido(s);
             s.close();
        
@@ -200,7 +207,14 @@ public class Leitura {
     public LinkedList<Candidato> abreCandidato(FileInputStream arquivo, DateTimeFormatter formatoData, 
                                                LinkedList<Partido> partidos) {
             Scanner s = new Scanner(arquivo, "UTF-8");
-            s.nextLine();
+            String linhaStr = s.nextLine();
+            
+            Verificador ver = new Verificador();
+            if (!ver.ehValidoArquivoCandidato(linhaStr)) {
+                s.close();
+                return null;
+            }
+            System.out.println(ver.ehValidoArquivoCandidato(linhaStr));           
             LinkedList<Candidato> candidatos = leCandidato(s, formatoData, partidos);
             s.close();
 
