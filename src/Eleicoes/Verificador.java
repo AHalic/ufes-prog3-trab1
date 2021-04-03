@@ -16,7 +16,7 @@ public class Verificador {
     /**
      * Metodo para verificar se o genero eh F ou M
      * @param genero - String que sera verificada se eh um genero
-     * @return true se eh um genero, false se nao
+     * @return {@code true} se eh um genero, {@code false} se nao
      */
     private static boolean ehValidoGenero (String genero) {
         if (genero.equals("F") || genero.equals("M"))
@@ -27,7 +27,7 @@ public class Verificador {
     /**
      * Metodo para verificar se o valor eh maior que 0 (positivo).
      * @param valor
-     * @return true se positivo, false se negativo
+     * @return {@code true} se positivo, {@code false} se negativo
      */
     private static boolean ehMinZero (int valor) {
         if (valor >= 0)
@@ -44,7 +44,7 @@ public class Verificador {
      * </ul>
      * Nao ha outro tipo de situacao permitida.
      * @param situacao String da situacao
-     * @return true se eh uma situacao valida, false caso contrario
+     * @return {@code true} se eh uma situacao valida, {@code false} caso contrario
      */
     private static boolean ehValidoSituacao (String situacao) {
         if (situacao.equals("Eleito") || situacao.equals("Não eleito") || situacao.equals("Suplente"))
@@ -60,7 +60,7 @@ public class Verificador {
      *     <li> Anulado sub judice </li>
      * </ul>
      * @param destVoto String da condicao do destino do voto
-     * @return true seh eh um destino permitido, false caso contrario
+     * @return {@code true} se eh um destino permitido, {@code false} caso contrario
      */
     private static boolean ehValidoDestino (String destVoto) {
         if (destVoto.equals("Válido") || destVoto.equals("Anulado") || destVoto.equals("Anulado sub judice"))
@@ -71,7 +71,7 @@ public class Verificador {
     /**
      * Metodo para verificar se o valor possui 5 digitos (esta dentro do limite 10000 <= valor < 100000)
      * @param valor
-     * @return true se esta dentro do limite, false caso contrario
+     * @return {@code true} se esta dentro do limite, {@code false} caso contrario
      */
     private static boolean eh5Digitos (int valor) {
         if (valor < 100000 && valor >= 10000)
@@ -89,7 +89,7 @@ public class Verificador {
      * @param destVoto - String da situacao do destino do voto do candidato
      * @param voto - Quantidade de votos do candidato
      * @param numero - Numero (ID) do candidato  
-     * @return true se todas informacoes estao dentro do limite, false caso contrario
+     * @return {@code true} se todas informacoes estao dentro do limite, {@code false} caso contrario
      */
     public boolean ehValidoCandidato (String situacao, String nome, String nomeUrna, String genero, 
                                       String aniversarioStr, String destVoto, int voto, int numero) {
@@ -124,7 +124,7 @@ public class Verificador {
      * Metodo para verificar se as informacoes lidas sobre partido sao validas.
      * @param votosTotal - Quantidade de votos de legenda
      * @param numero - Numero do partido
-     * @return
+     * @return {@code true} se o partido apresenta informacoes validas, {@code false} se nao
      */
     public boolean ehValidoPartido (int votosTotal, int numero, String nomePartido, String sigla) {
         // Verifica se todas as Strings sao preenchidas
@@ -140,7 +140,7 @@ public class Verificador {
     /**
      * Verifica se o cabecalho do arquivo de candidato esta correto
      * @param linhaStr string da linha referente ao cabecalho
-     * @return true se eh igual ao cabecalho, false se estiver diferente
+     * @return {@code true} se eh igual ao cabecalho, {@code false} se estiver diferente
      */
     public boolean ehValidoArquivoCandidato (String linhaStr) {
         /*
@@ -181,7 +181,7 @@ public class Verificador {
     /**
      * Verifica se o cabecalho do arquivo de partidos esta correto
      * @param linhaStr string da linha referente ao cabecalho
-     * @return true se eh igual ao cabecalho, false se estiver diferente
+     * @return {@code true} se eh igual ao cabecalho, {@code false} se estiver diferente
      */
     public boolean ehValidoArquivoPartido (String linhaStr) {
         /*

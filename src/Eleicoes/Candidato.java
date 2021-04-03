@@ -84,7 +84,7 @@ public class Candidato extends Pessoa{
 	/**
 	 * Recebe um candidato e compara o nome dele ao do candidato da classe
 	 * @param c2 - Candidato que será usado para comparar nomes
-	 * @return true se os candidatos possuem o mesmo nome
+	 * @return {@code true} se os candidatos possuem o mesmo nome, {@code false} caso contrario
 	 */
 	public int comparaNome(Candidato c2) {
 		return this.getNome().compareTo(c2.getNome());
@@ -92,7 +92,7 @@ public class Candidato extends Pessoa{
 
 	/** 
 	 * Retorna se o candidato foi eleitos
-	 * @return true se eleito, false se nao
+	 * @return {@code true} se eleito, {@code false} se nao
 	*/
 	public boolean ehEleito () {
 		if (this.situacao.equals("Eleito"))
@@ -102,7 +102,7 @@ public class Candidato extends Pessoa{
 
 	/** 
 	 * Retorna se o destino do candidato eh valido
-	 * @return true se Válido, false se nao
+	 * @return {@code true} se Válido, {@code false} se nao
 	*/
 	public boolean ehValido () {
 		if (this.destVoto.equals("Válido"))
