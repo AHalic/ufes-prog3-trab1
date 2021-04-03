@@ -34,6 +34,7 @@ public class Relatorio {
 		Locale brLocale = Locale.forLanguageTag("pt-BR");
 		NumberFormat nfBr = NumberFormat.getNumberInstance(brLocale);
 		nfBr.setMaximumFractionDigits(2);
+		nfBr.setMinimumFractionDigits(2);
 
 		return nfBr.format(porcentagem) + "%";
     }
@@ -48,6 +49,7 @@ public class Relatorio {
         System.out.println();
     }
 
+    
     /**
      * <p><b> Relatorio 2 </b></p>
      * 
@@ -70,6 +72,7 @@ public class Relatorio {
         System.out.println();
     }
 
+    
     /**
      * <p><b> Relatorio 3 </b></p>
      * 
@@ -89,21 +92,25 @@ public class Relatorio {
         System.out.println();
     }
 
+    
     /**
      * <p><b> Relatorio 4 </b></p>
      * 
      * Mostra quais candidatos que dentro do limite de vagas nao foram eleitos. Caso a votacao
      * fosse majoritaria, eles seriam eleitos. 
      */
-    public void naoEleitosMajoritario () {
+    public int naoEleitosMajoritario () {
         int contador = 1;
+        int nEleitos = 0;
 
         System.out.println("Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:");
         System.out.println("(com sua posição no ranking de mais votados)");
 
         for (Candidato c: eleicao.getCandidatos()) {
-            if (!c.ehEleito())
+            if (!c.ehEleito()) {
                 System.out.println(contador + " - " + c);
+                nEleitos++;
+            }
             
             contador++;
             
@@ -112,31 +119,41 @@ public class Relatorio {
         }
 
         System.out.println();
+        
+        return nEleitos;
     }
 
+    
     /**
      * <p><b> Relatorio 5 </b></p>
      * 
      * Mostra quais candidatos eleitos se beneficiaram do sistema proporcional.
      */
-    public void eleitosBeneficiados () {
-        int contador = 16;
+    public void eleitosBeneficiados (int nEleitos) {
+        int contador = 1, eleitos = 0;
 
         System.out.println("Eleitos, que se beneficiaram do sistema proporcional:");
         System.out.println("(com sua posição no ranking de mais votados)");
-
+        
+        
         if (eleicao.getVagas() <= eleicao.getCandidatos().size()) {
-            for (Candidato c: eleicao.getCandidatos().subList(15, eleicao.getCandidatos().size())) {
-                if (c.ehEleito())
-                    System.out.println(contador + " - " + c);
-                
-                contador++;
-            }
+        	for(Candidato c: eleicao.getCandidatos()) {
+
+        		if(c.ehEleito()) {
+        			eleitos++;
+        			
+        			// So imprime os ultimos nEleitos (estes são os que se beneficiaram)
+        			if(eleicao.getVagas() - eleitos < nEleitos)
+        				System.out.println(contador + " - " + c);
+        		}
+        		contador++;
+        	}        	
 
             System.out.println();
         }
     }
 
+    
     /**
      * <p><b> Relatorio 6 </b></p>
      * 
@@ -160,10 +177,12 @@ public class Relatorio {
      */
     public void primeiroUltimoPartido () {
     	int cont = 1;
-        System.out.println("Primeiro e último colocados de cada partido:");
-        
+
         eleicao.ordenaPartidosVotosCandidatos();
+
         
+        System.out.println("\nPrimeiro e último colocados de cada partido:");
+
         for (Partido p: eleicao.getPartidos()) {
             if (p.getVotosTotal() > 0) {
                 System.out.print(cont + " - " + p.getSigla() + " - " + p.getNumPartido() + ", ");
@@ -204,7 +223,7 @@ public class Relatorio {
 
         if (qtdCandidatos > 0) {
             System.out.println("Eleitos, por faixa etária (na data da eleição):");
-            System.out.printf("Idade < 30      : %d (%s)\n", qtdMenos30, porcentagem(qtdMenos30, qtdCandidatos));
+            System.out.printf("      Idade < 30: %d (%s)\n", qtdMenos30, porcentagem(qtdMenos30, qtdCandidatos));
             System.out.printf("30 <= Idade < 40: %d (%s)\n", qtdMenos40, porcentagem(qtdMenos40, qtdCandidatos));
             System.out.printf("40 <= Idade < 50: %d (%s)\n", qtdMenos50, porcentagem(qtdMenos50, qtdCandidatos));
             System.out.printf("50 <= Idade < 60: %d (%s)\n", qtdMenos60, porcentagem(qtdMenos60, qtdCandidatos));
@@ -214,6 +233,7 @@ public class Relatorio {
         }
     }
 
+    
     /**
      * <p><b> Relatorio 9 </b></p>
      * 
@@ -232,6 +252,7 @@ public class Relatorio {
             System.out.println();
         }
     }
+    
     
     /**
      * <p><b>Relatorio 10 </b></p>

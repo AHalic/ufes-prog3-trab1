@@ -66,9 +66,9 @@ public class Main {
         // Faz relatorios
         relatorio.numeroDeVagas();
         relatorio.vereadoresEleitos();
-        relatorio.candidatosMaisVotados();
-        relatorio.naoEleitosMajoritario();
-        relatorio.eleitosBeneficiados();
+        relatorio.candidatosMaisVotados();      
+        int nEleitos = relatorio.naoEleitosMajoritario();
+        relatorio.eleitosBeneficiados(nEleitos);
         relatorio.infoPartidos();
         relatorio.primeiroUltimoPartido();
         relatorio.eleitosPorIdade();

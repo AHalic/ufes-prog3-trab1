@@ -218,15 +218,20 @@ public class Eleicao {
 	            	if(!p1.getCandidatos().isEmpty() && !p2.getCandidatos().isEmpty()) {
 	
 		                int votos1 = p1.getVotosFirstCandidato();
-		                int votos2 = p2.getVotosFirstCandidato();
+		                int votos2 = p2.getVotosFirstCandidato();		                
 		                
 		                if (votos1 > votos2)
 		                    return -1;
-		                else if (votos1 == votos2) {
-		                	if(p1.getNumFirstCandidato() < p2.getNumFirstCandidato())
+		                else if (votos1 == votos2) {		     
+		                	if(p1.getNumFirstCandidato() < p2.getNumFirstCandidato()) {
 		                		return -1;
+		                	}
 		                }
 	                	return 1;        
+	            	}
+	            	else {
+	            		if(!p1.getCandidatos().isEmpty() && p2.getCandidatos().isEmpty())
+	            			return -1;
 	            	}
 	            	return 1;
 	            }
@@ -258,6 +263,7 @@ public class Eleicao {
 	        });
     	}
     }
+    
 
     /**
      * Ordena a lista de candidatos de cada partido 
